@@ -1,0 +1,219 @@
+```{r}
+library(caTools)
+library(ggspatial)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(ggplot2)
+library(readxl)
+library(tidyverse)
+library(geoscale)
+library(jcolors)
+library(rgeos)
+```
+
+```{r}
+#loading sites into R:
+locations <- read_excel("~/Desktop/Strat new content/data221220.xlsx", sheet = "Paleolatitude")
+
+#Selecting variables of interest to plot Figure 2
+sites <- select(locations, location, long, lat, tier)
+sites <- distinct(sites)
+#to make sure the variables have the right format
+sites$tier <- as.character(sites$tier)
+sites
+
+#Selecting variables of interest for Figure 3
+paleolat <- select(locations, Source, Geography, location, Age, Paleolatitude, lower, upper, interpolated, Stable, tier)
+#to make sure the variables have the right format:
+paleolat$tier <- as.character(paleolat$tier)
+paleolat$Paleolatitude <- as.numeric(paleolat$Paleolatitude)
+paleolat$lower <- as.numeric(paleolat$lower)
+paleolat$upper <- as.numeric(paleolat$upper)
+paleolat
+
+#adding the locations of surface sediment samples:
+modernst <- read_excel("~/Desktop/Strat new content/data221220.xlsx", sheet = "modernst")
+modernst
+```
+```{r}
+#setting a theme
+theme_set(theme_bw())
+
+#selcting input for the maps:
+world <- ne_countries(scale = "medium", returnclass = "sf")
+class(world)
+
+#plot the global map of sites used in this study (Figure 2):
+ggplot(data = world) +
+  geom_sf(color="black", fill="black")+
+  coord_sf()+
+  geom_point(modernst, mapping=aes(x=long, y=lat), color="grey", size = 0.1)+
+  geom_point(sites, mapping = aes(x=long, y=lat, color = tier), size=1)+
+  scale_color_jcolors()+
+  xlab("Longitude") + ylab("Latitude") +
+    ggtitle("Global map of calibrated dinocyst records", subtitle = paste0("(", length(unique(sites$location)), " sites)"))
+ggsave("geography.pdf")
+
+#plot the detailed map of sites in Europe:
+ggplot(data = world) +
+  geom_sf(color="black", fill="black")+
+  geom_point(modernst, mapping=aes(x=long, y=lat), color="grey", size = 0.1)+
+  geom_point(sites, mapping = aes(x=long, y=lat, color = tier), size=1)+
+  scale_color_jcolors()+
+  coord_sf(xlim = c(-30, 50), ylim = c(35, 70))+
+  xlab("Longitude") + ylab("Latitude")+
+  ggtitle("Detailed map of European calibrated dinoflagellate cyst records")
+ggsave("geography_europs.pdf")
+
+
+#plot the latitudinal and longitudinal histograms:
+ggplot()+
+  geom_histogram(sites, mapping = aes(x=long), bins = 36, fill = "red", color = "black")+
+scale_x_continuous(limits=c(-180, 180), breaks = seq(-180, 180, 30))
+ggsave("longitude distribution.pdf")
+
+ggplot()+
+  geom_histogram(sites, mapping=aes(x=lat), bins = 36, fill = "red", color = "black")+
+  scale_x_continuous(limits=c(-90, 90), breaks = seq(-90, 90, 30))
+ggsave("latitude distribution.pdf")
+  
+
+#I pasted these plots together in Illustrator, to make Figure 2
+
+```
+```{r}
+
+#To plot Figure 3:
+ggplot(paleolat)+
+  geom_ribbon(mapping=aes(x=Age, ymin=lower, ymax=upper, group=location), alpha=0.1)+
+  geom_line(mapping=aes(x=Age, y=Paleolatitude, color=tier, group=location, size = Stable), orientation = "x", lineend = "round")+
+  scale_size_discrete(range=c(0.4, 0.8))+
+  scale_x_continuous(name="Age (Ma; GTS2012)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25))+
+  scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30))+
+  scale_color_jcolors()
+ggsave("paleolat.pdf")
+
+#and the time scale underneath:
+ages <- seq(0,250, 10)
+data <- seq(0,250,10)
+data(biozones)
+geoscalePlot(ages = ages, data= data, units = c("Age", "Epoch", "Period"))
+
+#Both plots were collated in Illustrator
+
+```
+
+```{r}
+#load fossil event data into R, and unite some columns:
+sp_dat <- read_csv("~/Desktop/strat new content/Dinoevents_Jan2021.csv")
+sp_dat <- unite(sp_dat, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
+sp_dat <- unite(sp_dat, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
+
+#load fossil events into R and unite some columns:
+modernsp <- read_excel("~/Desktop/strat new content/data221220.xlsx", sheet = "modernsp")
+modernsp$subspecies <- as.character(modernsp$subspecies)
+modernsp <- unite(modernsp, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
+modernsp <- unite(modernsp, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
+
+#join both datasets into 1:
+sp_dat1 <- bind_rows(sp_dat, modernsp)
+
+#separate FOs from LOs
+FO_sp <- filter(sp_dat1, FO_LO=="FO")
+LO_sp <- filter(sp_dat1, FO_LO=="LO")
+```
+
+```{r}
+#this code will plot a PDF Age over paleolatitude of dinocyst events per family of dinocysts, consistent with Figure 5-28. Plots are stored in your folder on your desktop, and will not show here.
+
+for (i in unique(sp_dat1$Family)) {
+  
+  pdf(file=paste("Family_", i, ".pdf", sep=""))
+  
+  plot(ggplot()+
+  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(FO_sp, Family==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
+  geom_point(filter(LO_sp, Family==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
+  scale_x_continuous(name="Age (Ma; GTS2012)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25))+
+  scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30))+
+  ggtitle(paste0("Family ", i)))
+  
+  dev.off()
+  
+}
+```
+
+```{r}
+#this code will plot PDFs of modern species as in Figure 4 and in Supplement 2:
+
+for(i in unique(modernsp$taxa)){
+ 
+  pdf(file=paste("modern_", i, ".pdf", sep=""))
+  
+  plot(ggplot()+
+  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(modernsp, genus ==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
+  geom_point(filter(FO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
+  geom_point(filter(LO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
+  scale_x_continuous(name="Age (Ma; GTS2012)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25))+
+  scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30))+
+  ggtitle(paste0("Species ", i)))
+
+dev.off()  
+  
+}
+
+```
+
+```{r}
+#this code will plot PDFs per genus in the database
+
+for(i in unique(sp_dat1$genus)){
+ 
+  pdf(file=paste("Genus ", i, ".pdf", sep=""))
+  
+  plot(ggplot()+
+  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(LO_sp, genus ==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, genus==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
+  geom_point(filter(FO_sp, genus==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, genus==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
+  scale_x_continuous(name="Age (Ma; GTS2012)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25))+
+  scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30))+
+  ggtitle(paste0("Genus ", i)))
+
+dev.off() 
+
+}
+
+
+```
+
+```{r}
+#this code will plot PDFs of all fossil species in the database, as shown in Supplement 3:
+
+for(i in unique(sp_dat1$taxa)){
+ 
+  pdf(file=paste(i, ".pdf", sep=""))
+  
+  plot(ggplot()+
+  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(LO_sp, taxa ==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
+  geom_point(filter(FO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
+  scale_x_continuous(name="Age (Ma; GTS2012)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25))+
+  scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30))+
+  ggtitle(paste0("Species ", i)))
+
+dev.off() 
+
+}
+
+```
+
