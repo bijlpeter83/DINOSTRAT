@@ -1,5 +1,5 @@
 # DINOSYS
-The database of regional organic-walled dinoflagellate cyst events. This is version 1.0, completed in January 2021. Please cite Bijl, submitted to Earth system science data when using this database.
+The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.0, completed in January 2021. Please cite Bijl, submitted to Earth system science data when using this database.
 
 The database consists of 4 data frames:
 
