@@ -1,5 +1,9 @@
 # DINOSTRAT
-The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.0, completed in January 2021. Please cite Bijl, submitted to Earth system science data when using this database.
+The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.0, completed in January 2021. 
+
+
+!!!MIND YOU THE DATA IS STILL UNDER CONSTRUCTION, AND THE PAPER IN PREP/REVIEW!!!
+Please cite Bijl, submitted to Earth system science data when using this database.
 
 DINOSTRAT consists of 4 data frames:
 
