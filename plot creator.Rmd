@@ -1,4 +1,8 @@
 ```{r}
+#This R markdown script plots the figures as they appear in Bijl et al., in review in ESSD, using the data frames as stored in https://github.com/bijlpeter83/DINOSTRAT.git. This markdown is to be used freely, but please cite the corresponding paper in ESSD when using the data.
+
+
+
 library(caTools)
 library(ggspatial)
 library(sf)
@@ -10,12 +14,15 @@ library(tidyverse)
 library(geoscale)
 library(jcolors)
 library(rgeos)
+library(RCurl)
 ```
 
 ```{r}
 #loading sites into R:
-locations <- read_excel("~/Desktop/Strat new content/data221220.xlsx", sheet = "Paleolatitude")
-
+loc <- getURL("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/Paleolatitude.csv")
+locations <- read.csv(text=loc)
+locations <- rename(locations, Source = ï..Source)
+locations
 #Selecting variables of interest to plot Figure 2
 sites <- select(locations, location, long, lat, tier)
 sites <- distinct(sites)
@@ -33,7 +40,9 @@ paleolat$upper <- as.numeric(paleolat$upper)
 paleolat
 
 #adding the locations of surface sediment samples:
-modernst <- read_excel("~/Desktop/Strat new content/data221220.xlsx", sheet = "modernst")
+most <- getURL("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/modernst.csv")
+modernst <- read.csv(text=most)
+modernst <- rename(modernst, Source = ï..Source)
 modernst
 ```
 ```{r}
@@ -106,12 +115,17 @@ geoscalePlot(ages = ages, data= data, units = c("Age", "Epoch", "Period"))
 
 ```{r}
 #load fossil event data into R, and unite some columns:
-sp_dat <- read_csv("~/Desktop/strat new content/Dinoevents_Jan2021.csv")
+sp <- getURL("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/Dinoevents_Jan2021.csv")
+sp_dat <- read.csv(text=sp)
+sp_dat
 sp_dat <- unite(sp_dat, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
 sp_dat <- unite(sp_dat, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
 
 #load fossil events into R and unite some columns:
-modernsp <- read_excel("~/Desktop/strat new content/data221220.xlsx", sheet = "modernsp")
+mosp <- getURL("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/modernsp.csv")
+modernsp <- read.csv(text=mosp)
+modernsp <- rename(modernsp, Family=ï..Family)
+modernsp
 modernsp$subspecies <- as.character(modernsp$subspecies)
 modernsp <- unite(modernsp, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
 modernsp <- unite(modernsp, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
@@ -125,7 +139,7 @@ LO_sp <- filter(sp_dat1, FO_LO=="LO")
 ```
 
 ```{r}
-#this code will plot a PDF Age over paleolatitude of dinocyst events per family of dinocysts, consistent with Figure 5-28. Plots are stored in your folder on your desktop, and will not show here.
+#this code will plot a PDF Age over paleolatitude of dinocyst events per family of dinocysts, consistent with Figure 5-28. Plots are stored on your computer (search for "Family_"), and will not show here.
 
 for (i in unique(sp_dat1$Family)) {
   
