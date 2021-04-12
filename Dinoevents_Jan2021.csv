@@ -1,4 +1,4 @@
-location,Family,Subfamily,genus,species,subspecies,original entry,Source,Calibration,FO_LO,Age,pal_lat
+Nøhr-Hansen et al., 2020location,Family,Subfamily,genus,species,subspecies,original entry,Source,Calibration,FO_LO,Age,pal_lat
 748,Peridiniaceae,Deflandreoideae,Abratopdinium,kerguelense,NA,25% in A.p. expansa,"Mohr and Mao, 1997",0.25 in nan_e_Broinsonia parca expansa,FO,89.4975,-57.125125000000004
 748,Peridiniaceae,Deflandreoideae,Abratopdinium,cardioforme,NA,60% in A.p. expansa,"Mohr and Mao, 1997",0.6 in nan_e_Broinsonia parca expansa,FO,88.864,-57.156800000000004
 748,Peridiniaceae,Deflandreoideae,Abratopdinium,cardioforme,NA,50% in CC22,"Mohr and Mao, 1997",0.5 in nan_n_CC22,LO,76.375,-59.37625
@@ -1746,81 +1746,81 @@ Rupel,Peridiniaceae,Wetzelielloideae,Rhombodinium,draco,NA,60% in NP24*,"Van Sim
 Rupel,Gonyaulacaceae,other,Saturnodinium,pansum,NA,60% in NP23,"Van Simaeys et al., 2004",0.6 in nan_n_NP23,FO,30.580000000000002,45.403333333333336
 Rupel,Gonyaulacaceae,other,Saturnodinium,pansum,NA,100% in NP24,"Van Simaeys et al., 2004",1 in nan_n_NP24,LO,26.84,45.7765
 Rupel,Peridiniaceae,Deflandreoideae,Svalbardella,spp.,NA,100% in NP24,"Van Simaeys et al., 2004",1 in nan_n_NP24,LO,26.84,45.7765
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Achilleodinium,biformoides,NA,100% P17,"Brinkhuis and Biffi, 1993",1 in plfor_A_P16/P17,LO,34.03,35.553713122893406
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,verdieri,NA,75% C13n,"Brinkhuis and Biffi, 1993",0.75 in mag_C13n,FO,33.294,35.73786116834811
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Araneosphaera,stephanophora,NA,100% P19,"Brinkhuis and Biffi, 1993",1 in plfor_A_P19,LO,30.28,36.49196743057702
-Massignano/Monte Cagnero,Gonyaulacaceae,Leptodinioideae,Areosphaeridium,diktyoplokum,NA,20% C13n1,"Brinkhuis and Biffi, 1993",0.2 in mag_C13n,LO,33.5954,35.66245054212522
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Caligodinium,amiculum,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Caligodinium,amiculum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Caligodinium,pychnum,NA,100% C7A.r,"Brinkhuis et al., 1992",1 in mag_C7Ar,FO,24.984,37.18894298577996
-Massignano/Monte Cagnero,Peridiniaceae,Wetzelielloideae,Charlesdowniea,clathrata,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Areoligeraceae,all,Chiropteridium,galea,NA,75% C13r2,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,ancyreum,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,placacanthum,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,FO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,funiculatum,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,cantharellus,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,funiculatum,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,giuseppei,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,tenuitabulatum,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,giuseppei,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pastielsii,NA,20% C13n1,"Brinkhuis and Biffi, 1993",0.2 in mag_C13n,LO,33.5954,35.66245054212522
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pseudocolligerum,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pastielsii,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
-Massignano/Monte Cagnero,Peridiniaceae,Deflandreoideae,Deflandrea,heterophlycta,NA,100% CP16C,"Brinkhuis and Biffi, 1993",1 in nan_c_CP16c,LO,32.02,36.05661743181182
-Massignano/Monte Cagnero,Goniodomaceae,all,Dinopterygium,cladoides,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Distatodinium,apenninicum,NA,50% C6Cn,"Brinkhuis et al., 1992",0.5 in mag_C6Cn,FO,22.9295,37.44572240471024
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Distatodinium,biffii,NA,0% C6Cr,"Brinkhuis et al., 1992",0 in mag_C6Cr,LO,23.962,37.31667652977935
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Distatodinium,biffii,NA,100% P21,"Brinkhuis et al., 1992",1 in plfor_A_P21,FO,26.93,36.94572431980852
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Ectosphaeropsis,burdigalensis,NA,75% C6Cr,"Brinkhuis et al., 1992",0.75 in mag_C6Cr,FO,23.461750000000002,37.37919972487298
-Massignano/Monte Cagnero,Cladopyxiaceae,all,Enneadocysta,pectiniformis,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,other,Fibrocysta,axialis,NA,50% C15r,"Brinkhuis and Biffi, 1993",0.5 in mag_C15r,FO,35.5,35.185917434281436
-Massignano/Monte Cagnero,Gonyaulacaceae,other,Gelatia,inflata,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Areoligeraceae,all,Glaphyrocysta,texta,NA,25% C13n2,"Brinkhuis and Biffi, 1993",0.25 in mag_C13n,FO,33.568,35.66930605360003
-Massignano/Monte Cagnero,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,80% C13n1,"Brinkhuis and Biffi, 1993",0.8 in mag_C13n,LO,33.2666,35.74471667982292
-Massignano/Monte Cagnero,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Gonyaulacaceae,other,Hemiplacophora,semilunifera,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Goniodomaceae,all,Heteraulacacysta,leptalea,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Goniodomaceae,all,Heteraulacacysta,leptalea,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Goniodomaceae,all,Heteraulacacysta,campanula,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
-Massignano/Monte Cagnero,Goniodomaceae,all,Homotryblium,aculeatum,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Goniodomaceae,all,Homotryblium,tenuispinosum,NA,80% C13n1,"Brinkhuis and Biffi, 1993",0.8 in mag_C13n,LO,33.2666,35.74471667982292
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,salacia,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,LO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,salacia,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,cinctum,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,rigaudiae,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,pusillum,NA,0% C6Cn,"Brinkhuis et al., 1992",0 in mag_C6Cn,LO,23.295,37.400040789904196
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,0% C6Cn,"Brinkhuis et al., 1992",0 in mag_C6Cn,FO,23.295,37.400040789904196
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Hystrichosphaeropsis,rectangularis,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,FO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,50% CP16b,"Brinkhuis and Biffi, 1993",0.5 in nan_c_CP16b,LO,33.175,35.76763510504527
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,dispertitum,NA,100% C7n,"Brinkhuis et al., 1992",1 in mag_C7n,LO,23.962,37.31667652977935
-Massignano/Monte Cagnero,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,20% C13n1,"Brinkhuis and Biffi, 1993",0.2 in mag_C13n,LO,33.5954,35.66245054212522
-Massignano/Monte Cagnero,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Cladopyxiaceae,all,Licracysta,semicirculata,NA,40% C13n1,"Brinkhuis and Biffi, 1993",0.4 in mag_C13n,FO,33.4858,35.68987258802446
-Massignano/Monte Cagnero,Cladopyxiaceae,all,Licracysta,semicirculata,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Minisphaeridium,latirictum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Operculodinium,tiara,NA,5% C12r,"Brinkhuis and Biffi, 1993",0.05 in mag_C12r,LO,33.05085,35.79869757765832
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Operculodinium,microtriainum,NA,100% CP16c,"Brinkhuis and Biffi, 1993",1 in nan_c_CP16c,LO,32.02,36.05661743181182
-Massignano/Monte Cagnero,Peridiniaceae,Deflandreoideae,Palaeocystodinium,golzowense,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Peridiniaceae,Deflandreoideae,Palaeocystodinium,golzowense,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Pentadinium,laticinctum,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Pentadinium,lophophorum,NA,100% P17,"Brinkhuis and Biffi, 1993",1 in plfor_A_P16/P17,LO,34.03,35.553713122893406
-Massignano/Monte Cagnero,Peridiniaceae,Wetzelielloideae,Rhombodinium,porosum,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Rottnestia,borussica,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,other,Saturnodinium,perforatum,NA,0% C6Cr,"Brinkhuis et al., 1992",0 in mag_C6Cr,LO,23.962,37.31667652977935
-Massignano/Monte Cagnero,Gonyaulacaceae,other,Saturnodinium,perforatum,NA,75% C7r,"Brinkhuis et al., 1992",0.75 in mag_C7r,FO,24.545749999999998,37.24371717918283
-Massignano/Monte Cagnero,Areoligeraceae,all,Schematophora,speciosa,NA,50% C15r,"Brinkhuis and Biffi, 1993",0.5 in mag_C15r,LO,35.5,35.185917434281436
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Stoveracysta,ornata,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
-Massignano/Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Tectatodinium,pellitum,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,succincta,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,patula,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,succincta,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,inflata,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,pelagica,NA,Below 0% C17n,"Brinkhuis and Biffi, 1993",0 in mag_C17n,FO,38.333,34.47709757997005
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Turbiosphaera,symmetrica,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,LO,34.6755,35.39220828139747
-Massignano/Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Turbiosphaera,symmetrica,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
-Massignano/Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,brevisulcatum,NA,50% C6Cr,"Brinkhuis et al., 1992",0.5 in mag_C6Cr,LO,23.628500000000003,37.35835865984177
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Achilleodinium,biformoides,NA,100% P17,"Brinkhuis and Biffi, 1993",1 in plfor_A_P16/P17,LO,34.03,35.553713122893406
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,verdieri,NA,75% C13n,"Brinkhuis and Biffi, 1993",0.75 in mag_C13n,FO,33.294,35.73786116834811
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Araneosphaera,stephanophora,NA,100% P19,"Brinkhuis and Biffi, 1993",1 in plfor_A_P19,LO,30.28,36.49196743057702
+Massignano_Monte Cagnero,Gonyaulacaceae,Leptodinioideae,Areosphaeridium,diktyoplokum,NA,20% C13n1,"Brinkhuis and Biffi, 1993",0.2 in mag_C13n,LO,33.5954,35.66245054212522
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Caligodinium,amiculum,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Caligodinium,amiculum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Caligodinium,pychnum,NA,100% C7A.r,"Brinkhuis et al., 1992",1 in mag_C7Ar,FO,24.984,37.18894298577996
+Massignano_Monte Cagnero,Peridiniaceae,Wetzelielloideae,Charlesdowniea,clathrata,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Areoligeraceae,all,Chiropteridium,galea,NA,75% C13r2,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,ancyreum,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,placacanthum,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,FO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,funiculatum,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,cantharellus,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,funiculatum,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,giuseppei,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,tenuitabulatum,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,giuseppei,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pastielsii,NA,20% C13n1,"Brinkhuis and Biffi, 1993",0.2 in mag_C13n,LO,33.5954,35.66245054212522
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pseudocolligerum,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pastielsii,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
+Massignano_Monte Cagnero,Peridiniaceae,Deflandreoideae,Deflandrea,heterophlycta,NA,100% CP16C,"Brinkhuis and Biffi, 1993",1 in nan_c_CP16c,LO,32.02,36.05661743181182
+Massignano_Monte Cagnero,Goniodomaceae,all,Dinopterygium,cladoides,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Distatodinium,apenninicum,NA,50% C6Cn,"Brinkhuis et al., 1992",0.5 in mag_C6Cn,FO,22.9295,37.44572240471024
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Distatodinium,biffii,NA,0% C6Cr,"Brinkhuis et al., 1992",0 in mag_C6Cr,LO,23.962,37.31667652977935
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Distatodinium,biffii,NA,100% P21,"Brinkhuis et al., 1992",1 in plfor_A_P21,FO,26.93,36.94572431980852
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Ectosphaeropsis,burdigalensis,NA,75% C6Cr,"Brinkhuis et al., 1992",0.75 in mag_C6Cr,FO,23.461750000000002,37.37919972487298
+Massignano_Monte Cagnero,Cladopyxiaceae,all,Enneadocysta,pectiniformis,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,other,Fibrocysta,axialis,NA,50% C15r,"Brinkhuis and Biffi, 1993",0.5 in mag_C15r,FO,35.5,35.185917434281436
+Massignano_Monte Cagnero,Gonyaulacaceae,other,Gelatia,inflata,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Areoligeraceae,all,Glaphyrocysta,texta,NA,25% C13n2,"Brinkhuis and Biffi, 1993",0.25 in mag_C13n,FO,33.568,35.66930605360003
+Massignano_Monte Cagnero,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,80% C13n1,"Brinkhuis and Biffi, 1993",0.8 in mag_C13n,LO,33.2666,35.74471667982292
+Massignano_Monte Cagnero,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Gonyaulacaceae,other,Hemiplacophora,semilunifera,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Goniodomaceae,all,Heteraulacacysta,leptalea,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Goniodomaceae,all,Heteraulacacysta,leptalea,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Goniodomaceae,all,Heteraulacacysta,campanula,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
+Massignano_Monte Cagnero,Goniodomaceae,all,Homotryblium,aculeatum,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Goniodomaceae,all,Homotryblium,tenuispinosum,NA,80% C13n1,"Brinkhuis and Biffi, 1993",0.8 in mag_C13n,LO,33.2666,35.74471667982292
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,salacia,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,LO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,salacia,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,cinctum,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,rigaudiae,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,pusillum,NA,0% C6Cn,"Brinkhuis et al., 1992",0 in mag_C6Cn,LO,23.295,37.400040789904196
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,0% C6Cn,"Brinkhuis et al., 1992",0 in mag_C6Cn,FO,23.295,37.400040789904196
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Hystrichosphaeropsis,rectangularis,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,FO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,50% CP16b,"Brinkhuis and Biffi, 1993",0.5 in nan_c_CP16b,LO,33.175,35.76763510504527
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,dispertitum,NA,100% C7n,"Brinkhuis et al., 1992",1 in mag_C7n,LO,23.962,37.31667652977935
+Massignano_Monte Cagnero,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,20% C13n1,"Brinkhuis and Biffi, 1993",0.2 in mag_C13n,LO,33.5954,35.66245054212522
+Massignano_Monte Cagnero,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Cladopyxiaceae,all,Licracysta,semicirculata,NA,40% C13n1,"Brinkhuis and Biffi, 1993",0.4 in mag_C13n,FO,33.4858,35.68987258802446
+Massignano_Monte Cagnero,Cladopyxiaceae,all,Licracysta,semicirculata,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Minisphaeridium,latirictum,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Operculodinium,tiara,NA,5% C12r,"Brinkhuis and Biffi, 1993",0.05 in mag_C12r,LO,33.05085,35.79869757765832
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Operculodinium,microtriainum,NA,100% CP16c,"Brinkhuis and Biffi, 1993",1 in nan_c_CP16c,LO,32.02,36.05661743181182
+Massignano_Monte Cagnero,Peridiniaceae,Deflandreoideae,Palaeocystodinium,golzowense,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Peridiniaceae,Deflandreoideae,Palaeocystodinium,golzowense,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Pentadinium,laticinctum,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Pentadinium,lophophorum,NA,100% P17,"Brinkhuis and Biffi, 1993",1 in plfor_A_P16/P17,LO,34.03,35.553713122893406
+Massignano_Monte Cagnero,Peridiniaceae,Wetzelielloideae,Rhombodinium,porosum,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Rottnestia,borussica,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,other,Saturnodinium,perforatum,NA,0% C6Cr,"Brinkhuis et al., 1992",0 in mag_C6Cr,LO,23.962,37.31667652977935
+Massignano_Monte Cagnero,Gonyaulacaceae,other,Saturnodinium,perforatum,NA,75% C7r,"Brinkhuis et al., 1992",0.75 in mag_C7r,FO,24.545749999999998,37.24371717918283
+Massignano_Monte Cagnero,Areoligeraceae,all,Schematophora,speciosa,NA,50% C15r,"Brinkhuis and Biffi, 1993",0.5 in mag_C15r,LO,35.5,35.185917434281436
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Stoveracysta,ornata,NA,80% C17n,"Brinkhuis and Biffi, 1993",0.8 in mag_C17n,FO,37.2418,34.75011707344855
+Massignano_Monte Cagnero,Gonyaulacaceae,Gonyaulacoideae,Tectatodinium,pellitum,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,FO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,succincta,NA,60% C13n1,"Brinkhuis and Biffi, 1993",0.6 in mag_C13n,LO,33.3762,35.717294633923686
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,patula,NA,75% C13r1,"Brinkhuis and Biffi, 1993",0.75 in mag_C13r,LO,34.0285,35.55408842461648
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,succincta,NA,20% C17n,"Brinkhuis and Biffi, 1993",0.2 in mag_C17n,FO,38.0602,34.545352453339675
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,inflata,NA,60% C17n,"Brinkhuis and Biffi, 1993",0.6 in mag_C17n,FO,37.5146,34.681862200078925
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,pelagica,NA,Below 0% C17n,"Brinkhuis and Biffi, 1993",0 in mag_C17n,FO,38.333,34.47709757997005
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Turbiosphaera,symmetrica,NA,25% C13r1,"Brinkhuis and Biffi, 1993",0.25 in mag_C13r,LO,34.6755,35.39220828139747
+Massignano_Monte Cagnero,Gonyaulacaceae,Cribroperidinioideae,Turbiosphaera,symmetrica,NA,40% C17n,"Brinkhuis and Biffi, 1993",0.4 in mag_C17n,FO,37.7874,34.6136073267093
+Massignano_Monte Cagnero,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,brevisulcatum,NA,50% C6Cr,"Brinkhuis et al., 1992",0.5 in mag_C6Cr,LO,23.628500000000003,37.35835865984177
 Mudurnu Basin,Gonyaulacaceae,Cribroperidinioideae,Achilleodinium,biannii,NA,25% in P1b,"Açikalin et al., 2015",0.25 in plfor_B_P1b,LO,64.9125,30.4
 Mudurnu Basin,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,fallax,NA,50% in P1a,"Açikalin et al., 2015",0.5 in plfor_B_P1a,LO,65.485,30.4
 Mudurnu Basin,Gonyaulacaceae,Cribroperidinioideae,Carpatella,cornuta,NA,15% in P1b,"Açikalin et al., 2015",0.15 in plfor_B_P1b,LO,65.0475,30.4
@@ -4370,114 +4370,114 @@ Isle of Wright,Gonyaulacaceae,other,Surculosphaeridium,longifurcatum,NA,33% tard
 Isle of Wright,Gonyaulacaceae,Leptodinioideae,Systematophora,cretacea,NA,50% tardefurcata,"Duxbury, 1983",0.5 in amm_b_Leymeriella tardefurcata,FO,111.07,41.8539
 Isle of Wright,Goniodomaceae,all,Taleisphaera,hydra,NA,20% Jacobi,"Duxbury, 1983",0.3 in amm_b_Hypacanthoplites jacobi,LO,115.666,40.79682
 Isle of Wright,Ceratiaceae,all,Vesperopsis,digitata,NA,0% jacobi,"Duxbury, 1983",0 in amm_b_Hypacanthoplites jacobi,FO,116.83,40.5291
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,neptuni,NA,60% nutfieldensis,"Duxbury, 2001",0.6 in amm_b_Parahoplites nutfieldiensis,LO,117.306,48.14656
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,100% elegans,"Duxbury, 2001",1 in amm_b_Paracrioceras elegans,FO,129.02,43.80179999999999
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,verdieri,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,LO,112.95,49.192
-Q13/14,Pareodiniaceae,all,Aprobolocysta,eilema,NA,0% speetonensis,"Duxbury, 2001",0 in amm_b_Milanowskia speetonensis,FO,133.09,42.61033333333333
-Q13/14,Pareodiniaceae,all,Aprobolocysta,neista,NA,10% bidentatum,"Duxbury, 2001",0.12 in amm_b_Simanocyloceras stolleyi,LO,126.9996,44.630164
-Q13/14,Pareodiniaceae,all,Aprobolocysta,eilema,NA,0% marginatus,"Duxbury, 2001",0 in amm_b_Simbirskites marginatus,LO,132.54,42.75088888888889
-Q13/14,Ceratiaceae,all,Aptea,polymorpha,NA,40% nutfieldensis,"Duxbury, 2001",0.4 in amm_b_Parahoplites nutfieldiensis,LO,117.544,48.08944
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,vectense,NA,0% jacobi,"Duxbury, 2001",0 in amm_b_Hypacanthoplites jacobi,FO,116.83,48.2608
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,vectense,NA,50% schrammeni,"Duxbury, 2001",0.5 in amm_b_Leymeriella schrammeni,LO,112.11,49.3936
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,maculatum,grande,75% fallax,"Duxbury, 2001",0.75 in amm_b_Mortoniceras fallax,LO,102.07249999999999,49.979275
-Q13/14,Peridiniaceae,other,Ascodinium,fissilum,NA,67% elegans,"Duxbury, 2001",0.67 in amm_b_Paracrioceras elegans,FO,129.2081,43.724678999999995
-Q13/14,Peridiniaceae,other,Ascodinium,fissilum,NA,67% elegans,"Duxbury, 2001",0.67 in amm_b_Paracrioceras elegans,LO,129.2081,43.724678999999995
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Avellodinium,falsificum,NA,75% P fissocostatus,"Duxbury, 2001",0.75 in amm_b_Haplocrioceras fissicostatum,LO,129.6375,43.548625
-Q13/14,Pareodiniaceae,all,Batioladinium,longicornutum,NA,75% bidentatum,"Duxbury, 2001",0.85 in amm_b_Simanocyloceras stolleyi,LO,126.5105,44.830695
-Q13/14,Areoligeraceae,all,Canningia,duxburyi,NA,0% s variabilis,"Duxbury, 2001",0 in amm_b_Simbirskites variabilis,LO,132.24,42.827555555555556
-Q13/14,Areoligeraceae,all,Canninginopsis,intermedia,NA,25% jacobi,"Duxbury, 2001",0.25 in amm_b_Hypacanthoplites jacobi,LO,115.86,48.4936
-Q13/14,Gonyaulacaceae,Leptodinioideae,Carpodinium,granulatum,NA,90% inflatum,"Duxbury, 2001",0.9 in amm_b_Mortoniceras inflatum,LO,103.211,49.96789
-Q13/14,Gonyaulacaceae,Leptodinioideae,Carpodinium,obliquicostatum,NA,75% inflatum,"Duxbury, 2001",0.75 in amm_b_Mortoniceras inflatum,FO,103.3325,49.966675
-Q13/14,Order Gonyaulacales Family uncertain,uncertain,Cassiculosphaeridia,magna,NA,10% bidentatum,"Duxbury, 2001",0.12 in amm_b_Simanocyloceras stolleyi,LO,126.9996,44.630164
-Q13/14,Areoligeraceae,all,Cerbia,tabulata,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,LO,112.95,49.192
-Q13/14,Areoligeraceae,all,Cerbia,tabulata,NA,0% elegans,"Duxbury, 2001",0 in amm_b_Paracrioceras elegans,FO,129.59,43.5681
-Q13/14,Areoligeraceae,all,Cerbia,magna,NA,63% bidentatum,"Duxbury, 2001",0.7 in amm_b_Simanocyloceras stolleyi,LO,126.611,44.78949
-Q13/14,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,nyei,NA,100% martinioides,"Duxbury, 2001",1 in amm_b_Epicheloniceras martinoides,LO,118.02,47.9752
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,tenuiceras,NA,0% deshayesi,"Duxbury, 2001",0 in amm_b_Deshayesites deshayesi,FO,125.71,45.1589
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,tenuiceras,NA,50% loricatus,"Duxbury, 2001",0.5 in amm_b_Euhoplites loricatus,LO,108.905,49.91095
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,edwardsii,NA,75% inflatum,"Duxbury, 2001",0.75 in amm_b_Mortoniceras inflatum,LO,103.3325,49.966675
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,colum,NA,33% denckmani,"Duxbury, 2001",0.33 in amm_b_Paracrioceras denckmanni,LO,128.5712,43.985808
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,fragile,NA,75% rarocinctum,"Duxbury, 2001",0.75 in amm_b_Paracrioceras rarocinctum,LO,130.0275,43.39297222222222
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,cornutum,NA,75% bidentatum,"Duxbury, 2001",0.9 in amm_b_Simanocyloceras stolleyi,LO,126.477,44.844429999999996
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,confossum,NA,50% s. variabilis,"Duxbury, 2001",0.5 in amm_b_Simbirskites variabilis,LO,131.505,43.015388888888886
-Q13/14,Gonyaulacaceae,Leptodinioideae,Ctenidodinium,elegantulum,NA,85% deshayesi,"Duxbury, 2001",0.85 in amm_b_Deshayesites deshayesi,LO,124.1545,45.796655
-Q13/14,Areoligeraceae,all,Cyclonephelium,compactum,NA,100% tardefurcata,"Duxbury, 2001",1 in amm_b_Leymeriella tardefurcata,LO,110.87,49.691199999999995
-Q13/14,Areoligeraceae,all,Cyclonephelium,compactum,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,FO,122.98,46.2782
-Q13/14,Gonyaulacaceae,Leptodinioideae,Cymososphaeridium,validum,NA,50% inversum,"Duxbury, 2001",0.5 in amm_b_Speetoniceras inversum,LO,133.22,42.57711111111111
-Q13/14,Order Gonyaulacales Family uncertain,uncertain,Desmocysta,simplex,NA,0% s variabilis,"Duxbury, 2001",0 in amm_b_Simbirskites variabilis,LO,132.24,42.827555555555556
-Q13/14,Order Gonyaulacales Family uncertain,uncertain,Dingodinium,cerviculum,NA,50% schrammeni,"Duxbury, 2001",0.5 in amm_b_Leymeriella schrammeni,LO,112.11,49.3936
-Q13/14,Gonyaulacaceae,other,Discorsia,nannus,NA,0% dichotomites,"Duxbury, 2001",0 in amm_b_Prodichotomites,FO,136.84,41.652
-Q13/14,Ceratiaceae,all,Endoceratium,pflugii,NA,33% gotteschei,"Duxbury, 2001",0.33 in amm_b_Craspedodiscus gottschei,LO,132.7276,42.70294666666667
-Q13/14,Ceratiaceae,all,Endoceratium,pflugii,NA,50% speetonensis,"Duxbury, 2001",0.5 in amm_b_Milanowskia speetonensis,FO,132.95499999999998,42.64483333333334
-Q13/14,Gonyaulacaceae,Leptodinioideae,Endoscrinium,heikeae,NA,100% lautus,"Duxbury, 2001",1 in amm_b_Euhoplites lautus,LO,107.59,49.924099999999996
-Q13/14,Gonyaulacaceae,Leptodinioideae,Endoscrinium,heikeae,NA,0% tardefurcata,"Duxbury, 2001",0 in amm_b_Leymeriella tardefurcata,FO,111.27,49.5952
-Q13/14,Gonyaulacaceae,Leptodinioideae,Endoscrinium,hauterivianum,NA,100% speetonensis,"Duxbury, 2001",1 in amm_b_Milanowskia speetonensis,LO,132.82,42.67933333333333
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Exiguisphaera,plectilis,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,LO,122.98,46.2782
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Florentinia,abjuncta,NA,50% bowerbanki,"Duxbury, 2001",0.5 in amm_b_Tropaeum bowerbanki,LO,123.43,46.0937
-Q13/14,Gonyaulacaceae,Cribroperidinioideae,Florentinia,interrupta,NA,50% bowerbanki,"Duxbury, 2001",0.5 in amm_b_Tropaeum bowerbanki,LO,123.43,46.0937
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Gonyaulacysta,teicha,NA,50% fissicostatum,"Duxbury, 2001",0.5 in amm_b_Haplocrioceras fissicostatum,LO,129.685,43.52915
-Q13/14,Order Gonyaulacales Family uncertain,uncertain,Heslertonia,heslertonensis,NA,40% forbesi,"Duxbury, 2001",0.4 in amm_b_Deshayesites forbesi,LO,125.89,45.0851
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,ramoides,NA,100% bidentatum,"Duxbury, 2001",1 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3,44.917
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,voigtii,NA,100% bidentatum,"Duxbury, 2001",1 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3,44.917
-Q13/14,Goniodomaceae,all,Hystrichosphaeridium,arborispinum,NA,0% dichotomites,"Duxbury, 2001",0 in amm_b_Prodichotomites,FO,136.84,41.652
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Hystrichostrogylon,stolidotum,NA,40% forbesi,"Duxbury, 2001",0.4 in amm_b_Deshayesites forbesi,LO,125.89,45.0851
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,alectrolophum,NA,0% dentatus,"Duxbury, 2001",0 in amm_b_Hoplites dentatus,LO,110.22,49.8472
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,diversum,NA,52% bidentatum,"Duxbury, 2001",0.6 in amm_b_Simanocyloceras stolleyi,LO,126.678,44.76202
-Q13/14,Gonyaulacaceae,other,Isthmocystis,distincta,NA,15% speetonensis,"Duxbury, 2001",0.15 in amm_b_Milanowskia speetonensis,LO,133.0495,42.62068333333333
-Q13/14,Gonyaulacaceae,other,Kiokansium,prolatum,NA,100% Tardefurcata,"Duxbury, 2001",1 in amm_b_Leymeriella tardefurcata,LO,110.87,49.691199999999995
-Q13/14,Gonyaulacaceae,other,Kiokansium,prolatum,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,FO,122.98,46.2782
-Q13/14,Gonyaulacaceae,Leptodinioideae,Kleithriasphaeridium,eoinodes,NA,0% dentatus,"Duxbury, 2001",0 in amm_b_Hoplites dentatus,LO,110.22,49.8472
-Q13/14,Gonyaulacaceae,Leptodinioideae,Kleithriasphaeridium,corrugatum,NA,100% elegans,"Duxbury, 2001",1 in amm_b_Paracrioceras elegans,LO,129.02,43.80179999999999
-Q13/14,Gonyaulacaceae,Leptodinioideae,Kleithriasphaeridium,fasciatum,NA,85% bidentatum,"Duxbury, 2001",0.25 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3825,44.883175
-Q13/14,Gonyaulacaceae,other,Lagenorhytis,delicatula,NA,33% amblygonium,"Duxbury, 2001",0.33 in amm_b_Endemoceras amblygonium,LO,133.90709999999999,42.401518888888894
-Q13/14,Gonyaulacaceae,Leptodinioideae,Leptodinium,cancellatum,NA,25% fallax,"Duxbury, 2001",0.25 in amm_b_Mortoniceras fallax,LO,102.7775,49.972225
-Q13/14,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,siphoniphorum,NA,100% Lautus,"Duxbury, 2001",1 in amm_b_Euhoplites lautus,FO,107.59,49.924099999999996
-Q13/14,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,arundum,NA,0% tardefurcata,"Duxbury, 2001",0 in amm_b_Leymeriella tardefurcata,FO,111.27,49.5952
-Q13/14,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,arundum,NA,25% fallax,"Duxbury, 2001",0.25 in amm_b_Mortoniceras fallax,LO,102.7775,49.972225
-Q13/14,Cladopyxiaceae,all,Microdinium,setosum,NA,0% lautus,"Duxbury, 2001",0 in amm_b_Euhoplites lautus,LO,108.25,49.9175
-Q13/14,Ceratiaceae,all,Muderongia,tetracantha,NA,40% gotteschei,"Duxbury, 2001",0.4 in amm_b_Craspedodiscus gottschei,FO,132.708,42.70795555555556
-Q13/14,Ceratiaceae,all,Muderongia,extensiva,NA,67% amblygonium,"Duxbury, 2001",0.67 in amm_b_Endemoceras amblygonium,LO,133.8629,42.41281444444444
-Q13/14,Ceratiaceae,all,Muderongia,tetracantha,NA,100% rarocinctum,"Duxbury, 2001",1 in amm_b_Paracrioceras rarocinctum,LO,129.78,43.4902
-Q13/14,Ceratiaceae,all,Muderongia,staurota,NA,85% bidentatum,"Duxbury, 2001",0.25 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3825,44.883175
-Q13/14,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,0% rarocinctum,"Duxbury, 2001",0 in amm_b_Paracrioceras rarocinctum,LO,130.77,43.203222222222216
-Q13/14,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,0% dichotomites,"Duxbury, 2001",0 in amm_b_Prodichotomites,FO,136.84,41.652
-Q13/14,Gonyaulacaceae,Leptodinioideae,Occisucysta,tentorium,NA,0% dentatus,"Duxbury, 2001",0 in amm_b_Hoplites dentatus,LO,110.22,49.8472
-Q13/14,Gonyaulacaceae,Leptodinioideae,Occisucysta,echinata,NA,25% jabobi,"Duxbury, 2001",0.25 in amm_b_Hypacanthoplites jacobi,FO,115.86,48.4936
-Q13/14,Gonyaulacaceae,Leptodinioideae,Occisucysta,echinata,NA,67% schrammeni,"Duxbury, 2001",0.67 in amm_b_Leymeriella schrammeni,LO,111.8244,49.462144
-Q13/14,Ceratiaceae,all,Odontochitina,singhii,NA,0% tardefurcata,"Duxbury, 2001",0 in amm_b_Leymeriella tardefurcata,FO,111.27,49.5952
-Q13/14,Ceratiaceae,all,Odontochitina,singhii,NA,33% inflatum,"Duxbury, 2001",0.33 in amm_b_Mortoniceras inflatum,LO,103.67269999999999,49.963273
-Q13/14,Ceratiaceae,all,Odontochitina,operculata,NA,0% elegans,"Duxbury, 2001",0 in amm_b_Paracrioceras elegans,FO,129.59,43.5681
-Q13/14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,50% paratollia,"Duxbury, 2001",0.5 in amm_b_Paratollia/Platylenticeras,FO,138.10500000000002,41.32872222222222
-Q13/14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,perforatum,colum,25% jacobi,"Duxbury, 2001",0.25 in amm_b_Hypacanthoplites jacobi,FO,115.86,48.4936
-Q13/14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,perforatum,colum,50% schrammeni,"Duxbury, 2001",0.5 in amm_b_Leymeriella schrammeni,LO,112.11,49.3936
-Q13/14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,junctum,NA,15% speetonensis,"Duxbury, 2001",0.15 in amm_b_Milanowskia speetonensis,LO,133.0495,42.62068333333333
-Q13/14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,abaculum,NA,50% variabilis,"Duxbury, 2001",0.5 in amm_b_Simbirskites variabilis,LO,131.505,43.015388888888886
-Q13/14,Peridiniaceae,other,Ovoidinium,incomptum,NA,50% jacobi,"Duxbury, 2001",0.5 in amm_b_Hypacanthoplites jacobi,LO,114.89,48.7264
-Q13/14,Peridiniaceae,other,Ovoidinium,scabrosum,NA,100% fallax,"Duxbury, 2001",1 in amm_b_Mortoniceras fallax,LO,101.72,49.9828
-Q13/14,misc,misc,Palaecysta,palmula,NA,33% polyptichites,"Duxbury, 2001",0.33 in amm_b_Polyptychites,LO,137.4028,41.50817333333333
-Q13/14,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,cretaceum,NA,100% elegans,"Duxbury, 2001",1 in amm_b_Paracrioceras elegans,FO,129.02,43.80179999999999
-Q13/14,Ceratiaceae,all,Phoberocysta,neocomica,NA,80% forbesi,"Duxbury, 2001",0.8 in amm_b_Deshayesites forbesi,LO,125.77,45.1343
-Q13/14,Gonyaulacaceae,other,Protoellipsodinium,clavulus,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,LO,112.95,49.192
-Q13/14,Gonyaulacaceae,other,Protoellipsodinium,spinocristatum,NA,5% deshayesi,"Duxbury, 2001",0.05 in amm_b_Deshayesites deshayesi,FO,125.6185,45.196415
-Q13/14,Gonyaulacaceae,other,Protoellipsodinium,spinocristatum,NA,25% fallax,"Duxbury, 2001",0.25 in amm_b_Mortoniceras fallax,LO,102.7775,49.972225
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Psaligonyaulax,deflandrei,NA,80% inflatum,"Duxbury, 2001",0.8 in amm_b_Mortoniceras inflatum,FO,103.292,49.96708
-Q13/14,Ceratiaceae,all,Pseudoceratium,anaphrissum,NA,100% fissocostatum,"Duxbury, 2001",1 in amm_b_Haplocrioceras fissicostatum,LO,129.59,43.5681
-Q13/14,Ceratiaceae,all,Pseudoceratium,distinctum,NA,0% jacobi,"Duxbury, 2001",0 in amm_b_Hypacanthoplites jacobi,LO,116.83,48.2608
-Q13/14,Ceratiaceae,all,Pseudoceratium,distinctum,NA,75% bowerbanki,"Duxbury, 2001",0.75 in amm_b_Tropaeum bowerbanki,FO,123.205,46.18595
-Q13/14,Ceratiaceae,all,Pseudoceratium,securigerum,NA,50% bowerbanki,"Duxbury, 2001",0.5 in amm_b_Tropaeum bowerbanki,LO,123.43,46.0937
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,aliferum,NA,40% nutfieldensis,"Duxbury, 2001",0.4 in amm_b_Parahoplites nutfieldiensis,LO,117.544,48.08944
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,premnon,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,LO,122.98,46.2782
-Q13/14,Gonyaulacaceae,Leptodinioideae,Rhynchodiniopsis,fimbriata,NA,67% denckmani,"Duxbury, 2001",0.67 in amm_b_Paracrioceras denckmanni,LO,128.1088,44.175391999999995
-Q13/14,Gonyaulacaceae,other,Scriniodinium,barremianum,NA,75% bidentatum,"Duxbury, 2001",0.9 in amm_b_Simanocyloceras stolleyi,LO,126.477,44.844429999999996
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,primaevus,NA,0% polyptichites,"Duxbury, 2001",0 in amm_b_Polyptychites,LO,137.68,41.437333333333335
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,dentatus,NA,33% rudedenckmani,"Duxbury, 2001",0.5 in amm_b_Prodichotomites,LO,136.255,41.801500000000004
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,fenestratus,NA,33% rudedenckmani,"Duxbury, 2001",0.5 in amm_b_Prodichotomites,LO,136.255,41.801500000000004
-Q13/14,Gonyaulacaceae,other,Stephodinium,spinulosum,NA,50% loricatus,"Duxbury, 2001",0.5 in amm_b_Euhoplites loricatus,LO,108.905,49.91095
-Q13/14,Gonyaulacaceae,other,Stephodinium,australicum,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,FO,112.95,49.192
-Q13/14,Gonyaulacaceae,other,Stephodinium,dianneae,NA,80% nutfieldensis,"Duxbury, 2001",0.8 in amm_b_Parahoplites nutfieldiensis,LO,117.068,48.20368
-Q13/14,Gonyaulacaceae,Leptodinioideae,Systematophora,scoriacea,NA,0% polyptichites,"Duxbury, 2001",0 in amm_b_Polyptychites,LO,137.68,41.437333333333335
-Q13/14,Gonyaulacaceae,Gonyaulacoideae,Tubotuberella,apatela,NA,50% polyptichites,"Duxbury, 2001",0.5 in amm_b_Polyptychites,LO,137.26,41.54466666666667
-Q13/14,Ceratiaceae,all,Xenascus,ceratioides,NA,25% inflatum,"Duxbury, 2001",0.25 in amm_b_Mortoniceras inflatum,FO,103.7375,49.962625
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,neptuni,NA,60% nutfieldensis,"Duxbury, 2001",0.6 in amm_b_Parahoplites nutfieldiensis,LO,117.306,48.14656
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,100% elegans,"Duxbury, 2001",1 in amm_b_Paracrioceras elegans,FO,129.02,43.80179999999999
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,verdieri,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,LO,112.95,49.192
+Q13_14,Pareodiniaceae,all,Aprobolocysta,eilema,NA,0% speetonensis,"Duxbury, 2001",0 in amm_b_Milanowskia speetonensis,FO,133.09,42.61033333333333
+Q13_14,Pareodiniaceae,all,Aprobolocysta,neista,NA,10% bidentatum,"Duxbury, 2001",0.12 in amm_b_Simanocyloceras stolleyi,LO,126.9996,44.630164
+Q13_14,Pareodiniaceae,all,Aprobolocysta,eilema,NA,0% marginatus,"Duxbury, 2001",0 in amm_b_Simbirskites marginatus,LO,132.54,42.75088888888889
+Q13_14,Ceratiaceae,all,Aptea,polymorpha,NA,40% nutfieldensis,"Duxbury, 2001",0.4 in amm_b_Parahoplites nutfieldiensis,LO,117.544,48.08944
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,vectense,NA,0% jacobi,"Duxbury, 2001",0 in amm_b_Hypacanthoplites jacobi,FO,116.83,48.2608
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,vectense,NA,50% schrammeni,"Duxbury, 2001",0.5 in amm_b_Leymeriella schrammeni,LO,112.11,49.3936
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,maculatum,grande,75% fallax,"Duxbury, 2001",0.75 in amm_b_Mortoniceras fallax,LO,102.07249999999999,49.979275
+Q13_14,Peridiniaceae,other,Ascodinium,fissilum,NA,67% elegans,"Duxbury, 2001",0.67 in amm_b_Paracrioceras elegans,FO,129.2081,43.724678999999995
+Q13_14,Peridiniaceae,other,Ascodinium,fissilum,NA,67% elegans,"Duxbury, 2001",0.67 in amm_b_Paracrioceras elegans,LO,129.2081,43.724678999999995
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Avellodinium,falsificum,NA,75% P fissocostatus,"Duxbury, 2001",0.75 in amm_b_Haplocrioceras fissicostatum,LO,129.6375,43.548625
+Q13_14,Pareodiniaceae,all,Batioladinium,longicornutum,NA,75% bidentatum,"Duxbury, 2001",0.85 in amm_b_Simanocyloceras stolleyi,LO,126.5105,44.830695
+Q13_14,Areoligeraceae,all,Canningia,duxburyi,NA,0% s variabilis,"Duxbury, 2001",0 in amm_b_Simbirskites variabilis,LO,132.24,42.827555555555556
+Q13_14,Areoligeraceae,all,Canninginopsis,intermedia,NA,25% jacobi,"Duxbury, 2001",0.25 in amm_b_Hypacanthoplites jacobi,LO,115.86,48.4936
+Q13_14,Gonyaulacaceae,Leptodinioideae,Carpodinium,granulatum,NA,90% inflatum,"Duxbury, 2001",0.9 in amm_b_Mortoniceras inflatum,LO,103.211,49.96789
+Q13_14,Gonyaulacaceae,Leptodinioideae,Carpodinium,obliquicostatum,NA,75% inflatum,"Duxbury, 2001",0.75 in amm_b_Mortoniceras inflatum,FO,103.3325,49.966675
+Q13_14,Order Gonyaulacales Family uncertain,uncertain,Cassiculosphaeridia,magna,NA,10% bidentatum,"Duxbury, 2001",0.12 in amm_b_Simanocyloceras stolleyi,LO,126.9996,44.630164
+Q13_14,Areoligeraceae,all,Cerbia,tabulata,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,LO,112.95,49.192
+Q13_14,Areoligeraceae,all,Cerbia,tabulata,NA,0% elegans,"Duxbury, 2001",0 in amm_b_Paracrioceras elegans,FO,129.59,43.5681
+Q13_14,Areoligeraceae,all,Cerbia,magna,NA,63% bidentatum,"Duxbury, 2001",0.7 in amm_b_Simanocyloceras stolleyi,LO,126.611,44.78949
+Q13_14,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,nyei,NA,100% martinioides,"Duxbury, 2001",1 in amm_b_Epicheloniceras martinoides,LO,118.02,47.9752
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,tenuiceras,NA,0% deshayesi,"Duxbury, 2001",0 in amm_b_Deshayesites deshayesi,FO,125.71,45.1589
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,tenuiceras,NA,50% loricatus,"Duxbury, 2001",0.5 in amm_b_Euhoplites loricatus,LO,108.905,49.91095
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,edwardsii,NA,75% inflatum,"Duxbury, 2001",0.75 in amm_b_Mortoniceras inflatum,LO,103.3325,49.966675
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,colum,NA,33% denckmani,"Duxbury, 2001",0.33 in amm_b_Paracrioceras denckmanni,LO,128.5712,43.985808
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,fragile,NA,75% rarocinctum,"Duxbury, 2001",0.75 in amm_b_Paracrioceras rarocinctum,LO,130.0275,43.39297222222222
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,cornutum,NA,75% bidentatum,"Duxbury, 2001",0.9 in amm_b_Simanocyloceras stolleyi,LO,126.477,44.844429999999996
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Cribroperidinium,confossum,NA,50% s. variabilis,"Duxbury, 2001",0.5 in amm_b_Simbirskites variabilis,LO,131.505,43.015388888888886
+Q13_14,Gonyaulacaceae,Leptodinioideae,Ctenidodinium,elegantulum,NA,85% deshayesi,"Duxbury, 2001",0.85 in amm_b_Deshayesites deshayesi,LO,124.1545,45.796655
+Q13_14,Areoligeraceae,all,Cyclonephelium,compactum,NA,100% tardefurcata,"Duxbury, 2001",1 in amm_b_Leymeriella tardefurcata,LO,110.87,49.691199999999995
+Q13_14,Areoligeraceae,all,Cyclonephelium,compactum,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,FO,122.98,46.2782
+Q13_14,Gonyaulacaceae,Leptodinioideae,Cymososphaeridium,validum,NA,50% inversum,"Duxbury, 2001",0.5 in amm_b_Speetoniceras inversum,LO,133.22,42.57711111111111
+Q13_14,Order Gonyaulacales Family uncertain,uncertain,Desmocysta,simplex,NA,0% s variabilis,"Duxbury, 2001",0 in amm_b_Simbirskites variabilis,LO,132.24,42.827555555555556
+Q13_14,Order Gonyaulacales Family uncertain,uncertain,Dingodinium,cerviculum,NA,50% schrammeni,"Duxbury, 2001",0.5 in amm_b_Leymeriella schrammeni,LO,112.11,49.3936
+Q13_14,Gonyaulacaceae,other,Discorsia,nannus,NA,0% dichotomites,"Duxbury, 2001",0 in amm_b_Prodichotomites,FO,136.84,41.652
+Q13_14,Ceratiaceae,all,Endoceratium,pflugii,NA,33% gotteschei,"Duxbury, 2001",0.33 in amm_b_Craspedodiscus gottschei,LO,132.7276,42.70294666666667
+Q13_14,Ceratiaceae,all,Endoceratium,pflugii,NA,50% speetonensis,"Duxbury, 2001",0.5 in amm_b_Milanowskia speetonensis,FO,132.95499999999998,42.64483333333334
+Q13_14,Gonyaulacaceae,Leptodinioideae,Endoscrinium,heikeae,NA,100% lautus,"Duxbury, 2001",1 in amm_b_Euhoplites lautus,LO,107.59,49.924099999999996
+Q13_14,Gonyaulacaceae,Leptodinioideae,Endoscrinium,heikeae,NA,0% tardefurcata,"Duxbury, 2001",0 in amm_b_Leymeriella tardefurcata,FO,111.27,49.5952
+Q13_14,Gonyaulacaceae,Leptodinioideae,Endoscrinium,hauterivianum,NA,100% speetonensis,"Duxbury, 2001",1 in amm_b_Milanowskia speetonensis,LO,132.82,42.67933333333333
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Exiguisphaera,plectilis,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,LO,122.98,46.2782
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Florentinia,abjuncta,NA,50% bowerbanki,"Duxbury, 2001",0.5 in amm_b_Tropaeum bowerbanki,LO,123.43,46.0937
+Q13_14,Gonyaulacaceae,Cribroperidinioideae,Florentinia,interrupta,NA,50% bowerbanki,"Duxbury, 2001",0.5 in amm_b_Tropaeum bowerbanki,LO,123.43,46.0937
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Gonyaulacysta,teicha,NA,50% fissicostatum,"Duxbury, 2001",0.5 in amm_b_Haplocrioceras fissicostatum,LO,129.685,43.52915
+Q13_14,Order Gonyaulacales Family uncertain,uncertain,Heslertonia,heslertonensis,NA,40% forbesi,"Duxbury, 2001",0.4 in amm_b_Deshayesites forbesi,LO,125.89,45.0851
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,ramoides,NA,100% bidentatum,"Duxbury, 2001",1 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3,44.917
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,voigtii,NA,100% bidentatum,"Duxbury, 2001",1 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3,44.917
+Q13_14,Goniodomaceae,all,Hystrichosphaeridium,arborispinum,NA,0% dichotomites,"Duxbury, 2001",0 in amm_b_Prodichotomites,FO,136.84,41.652
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Hystrichostrogylon,stolidotum,NA,40% forbesi,"Duxbury, 2001",0.4 in amm_b_Deshayesites forbesi,LO,125.89,45.0851
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,alectrolophum,NA,0% dentatus,"Duxbury, 2001",0 in amm_b_Hoplites dentatus,LO,110.22,49.8472
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,diversum,NA,52% bidentatum,"Duxbury, 2001",0.6 in amm_b_Simanocyloceras stolleyi,LO,126.678,44.76202
+Q13_14,Gonyaulacaceae,other,Isthmocystis,distincta,NA,15% speetonensis,"Duxbury, 2001",0.15 in amm_b_Milanowskia speetonensis,LO,133.0495,42.62068333333333
+Q13_14,Gonyaulacaceae,other,Kiokansium,prolatum,NA,100% Tardefurcata,"Duxbury, 2001",1 in amm_b_Leymeriella tardefurcata,LO,110.87,49.691199999999995
+Q13_14,Gonyaulacaceae,other,Kiokansium,prolatum,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,FO,122.98,46.2782
+Q13_14,Gonyaulacaceae,Leptodinioideae,Kleithriasphaeridium,eoinodes,NA,0% dentatus,"Duxbury, 2001",0 in amm_b_Hoplites dentatus,LO,110.22,49.8472
+Q13_14,Gonyaulacaceae,Leptodinioideae,Kleithriasphaeridium,corrugatum,NA,100% elegans,"Duxbury, 2001",1 in amm_b_Paracrioceras elegans,LO,129.02,43.80179999999999
+Q13_14,Gonyaulacaceae,Leptodinioideae,Kleithriasphaeridium,fasciatum,NA,85% bidentatum,"Duxbury, 2001",0.25 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3825,44.883175
+Q13_14,Gonyaulacaceae,other,Lagenorhytis,delicatula,NA,33% amblygonium,"Duxbury, 2001",0.33 in amm_b_Endemoceras amblygonium,LO,133.90709999999999,42.401518888888894
+Q13_14,Gonyaulacaceae,Leptodinioideae,Leptodinium,cancellatum,NA,25% fallax,"Duxbury, 2001",0.25 in amm_b_Mortoniceras fallax,LO,102.7775,49.972225
+Q13_14,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,siphoniphorum,NA,100% Lautus,"Duxbury, 2001",1 in amm_b_Euhoplites lautus,FO,107.59,49.924099999999996
+Q13_14,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,arundum,NA,0% tardefurcata,"Duxbury, 2001",0 in amm_b_Leymeriella tardefurcata,FO,111.27,49.5952
+Q13_14,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,arundum,NA,25% fallax,"Duxbury, 2001",0.25 in amm_b_Mortoniceras fallax,LO,102.7775,49.972225
+Q13_14,Cladopyxiaceae,all,Microdinium,setosum,NA,0% lautus,"Duxbury, 2001",0 in amm_b_Euhoplites lautus,LO,108.25,49.9175
+Q13_14,Ceratiaceae,all,Muderongia,tetracantha,NA,40% gotteschei,"Duxbury, 2001",0.4 in amm_b_Craspedodiscus gottschei,FO,132.708,42.70795555555556
+Q13_14,Ceratiaceae,all,Muderongia,extensiva,NA,67% amblygonium,"Duxbury, 2001",0.67 in amm_b_Endemoceras amblygonium,LO,133.8629,42.41281444444444
+Q13_14,Ceratiaceae,all,Muderongia,tetracantha,NA,100% rarocinctum,"Duxbury, 2001",1 in amm_b_Paracrioceras rarocinctum,LO,129.78,43.4902
+Q13_14,Ceratiaceae,all,Muderongia,staurota,NA,85% bidentatum,"Duxbury, 2001",0.25 in amm_b_Parancyloceras bidentatum / Parancyloceras scalare,LO,126.3825,44.883175
+Q13_14,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,0% rarocinctum,"Duxbury, 2001",0 in amm_b_Paracrioceras rarocinctum,LO,130.77,43.203222222222216
+Q13_14,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,0% dichotomites,"Duxbury, 2001",0 in amm_b_Prodichotomites,FO,136.84,41.652
+Q13_14,Gonyaulacaceae,Leptodinioideae,Occisucysta,tentorium,NA,0% dentatus,"Duxbury, 2001",0 in amm_b_Hoplites dentatus,LO,110.22,49.8472
+Q13_14,Gonyaulacaceae,Leptodinioideae,Occisucysta,echinata,NA,25% jabobi,"Duxbury, 2001",0.25 in amm_b_Hypacanthoplites jacobi,FO,115.86,48.4936
+Q13_14,Gonyaulacaceae,Leptodinioideae,Occisucysta,echinata,NA,67% schrammeni,"Duxbury, 2001",0.67 in amm_b_Leymeriella schrammeni,LO,111.8244,49.462144
+Q13_14,Ceratiaceae,all,Odontochitina,singhii,NA,0% tardefurcata,"Duxbury, 2001",0 in amm_b_Leymeriella tardefurcata,FO,111.27,49.5952
+Q13_14,Ceratiaceae,all,Odontochitina,singhii,NA,33% inflatum,"Duxbury, 2001",0.33 in amm_b_Mortoniceras inflatum,LO,103.67269999999999,49.963273
+Q13_14,Ceratiaceae,all,Odontochitina,operculata,NA,0% elegans,"Duxbury, 2001",0 in amm_b_Paracrioceras elegans,FO,129.59,43.5681
+Q13_14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,50% paratollia,"Duxbury, 2001",0.5 in amm_b_Paratollia/Platylenticeras,FO,138.10500000000002,41.32872222222222
+Q13_14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,perforatum,colum,25% jacobi,"Duxbury, 2001",0.25 in amm_b_Hypacanthoplites jacobi,FO,115.86,48.4936
+Q13_14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,perforatum,colum,50% schrammeni,"Duxbury, 2001",0.5 in amm_b_Leymeriella schrammeni,LO,112.11,49.3936
+Q13_14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,junctum,NA,15% speetonensis,"Duxbury, 2001",0.15 in amm_b_Milanowskia speetonensis,LO,133.0495,42.62068333333333
+Q13_14,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,abaculum,NA,50% variabilis,"Duxbury, 2001",0.5 in amm_b_Simbirskites variabilis,LO,131.505,43.015388888888886
+Q13_14,Peridiniaceae,other,Ovoidinium,incomptum,NA,50% jacobi,"Duxbury, 2001",0.5 in amm_b_Hypacanthoplites jacobi,LO,114.89,48.7264
+Q13_14,Peridiniaceae,other,Ovoidinium,scabrosum,NA,100% fallax,"Duxbury, 2001",1 in amm_b_Mortoniceras fallax,LO,101.72,49.9828
+Q13_14,misc,misc,Palaecysta,palmula,NA,33% polyptichites,"Duxbury, 2001",0.33 in amm_b_Polyptychites,LO,137.4028,41.50817333333333
+Q13_14,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,cretaceum,NA,100% elegans,"Duxbury, 2001",1 in amm_b_Paracrioceras elegans,FO,129.02,43.80179999999999
+Q13_14,Ceratiaceae,all,Phoberocysta,neocomica,NA,80% forbesi,"Duxbury, 2001",0.8 in amm_b_Deshayesites forbesi,LO,125.77,45.1343
+Q13_14,Gonyaulacaceae,other,Protoellipsodinium,clavulus,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,LO,112.95,49.192
+Q13_14,Gonyaulacaceae,other,Protoellipsodinium,spinocristatum,NA,5% deshayesi,"Duxbury, 2001",0.05 in amm_b_Deshayesites deshayesi,FO,125.6185,45.196415
+Q13_14,Gonyaulacaceae,other,Protoellipsodinium,spinocristatum,NA,25% fallax,"Duxbury, 2001",0.25 in amm_b_Mortoniceras fallax,LO,102.7775,49.972225
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Psaligonyaulax,deflandrei,NA,80% inflatum,"Duxbury, 2001",0.8 in amm_b_Mortoniceras inflatum,FO,103.292,49.96708
+Q13_14,Ceratiaceae,all,Pseudoceratium,anaphrissum,NA,100% fissocostatum,"Duxbury, 2001",1 in amm_b_Haplocrioceras fissicostatum,LO,129.59,43.5681
+Q13_14,Ceratiaceae,all,Pseudoceratium,distinctum,NA,0% jacobi,"Duxbury, 2001",0 in amm_b_Hypacanthoplites jacobi,LO,116.83,48.2608
+Q13_14,Ceratiaceae,all,Pseudoceratium,distinctum,NA,75% bowerbanki,"Duxbury, 2001",0.75 in amm_b_Tropaeum bowerbanki,FO,123.205,46.18595
+Q13_14,Ceratiaceae,all,Pseudoceratium,securigerum,NA,50% bowerbanki,"Duxbury, 2001",0.5 in amm_b_Tropaeum bowerbanki,LO,123.43,46.0937
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,aliferum,NA,40% nutfieldensis,"Duxbury, 2001",0.4 in amm_b_Parahoplites nutfieldiensis,LO,117.544,48.08944
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,premnon,NA,100% bowerbanki,"Duxbury, 2001",1 in amm_b_Tropaeum bowerbanki,LO,122.98,46.2782
+Q13_14,Gonyaulacaceae,Leptodinioideae,Rhynchodiniopsis,fimbriata,NA,67% denckmani,"Duxbury, 2001",0.67 in amm_b_Paracrioceras denckmanni,LO,128.1088,44.175391999999995
+Q13_14,Gonyaulacaceae,other,Scriniodinium,barremianum,NA,75% bidentatum,"Duxbury, 2001",0.9 in amm_b_Simanocyloceras stolleyi,LO,126.477,44.844429999999996
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,primaevus,NA,0% polyptichites,"Duxbury, 2001",0 in amm_b_Polyptychites,LO,137.68,41.437333333333335
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,dentatus,NA,33% rudedenckmani,"Duxbury, 2001",0.5 in amm_b_Prodichotomites,LO,136.255,41.801500000000004
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,fenestratus,NA,33% rudedenckmani,"Duxbury, 2001",0.5 in amm_b_Prodichotomites,LO,136.255,41.801500000000004
+Q13_14,Gonyaulacaceae,other,Stephodinium,spinulosum,NA,50% loricatus,"Duxbury, 2001",0.5 in amm_b_Euhoplites loricatus,LO,108.905,49.91095
+Q13_14,Gonyaulacaceae,other,Stephodinium,australicum,NA,100% jacobi,"Duxbury, 2001",1 in amm_b_Hypacanthoplites jacobi,FO,112.95,49.192
+Q13_14,Gonyaulacaceae,other,Stephodinium,dianneae,NA,80% nutfieldensis,"Duxbury, 2001",0.8 in amm_b_Parahoplites nutfieldiensis,LO,117.068,48.20368
+Q13_14,Gonyaulacaceae,Leptodinioideae,Systematophora,scoriacea,NA,0% polyptichites,"Duxbury, 2001",0 in amm_b_Polyptychites,LO,137.68,41.437333333333335
+Q13_14,Gonyaulacaceae,Gonyaulacoideae,Tubotuberella,apatela,NA,50% polyptichites,"Duxbury, 2001",0.5 in amm_b_Polyptychites,LO,137.26,41.54466666666667
+Q13_14,Ceratiaceae,all,Xenascus,ceratioides,NA,25% inflatum,"Duxbury, 2001",0.25 in amm_b_Mortoniceras inflatum,FO,103.7375,49.962625
 Rio Argos,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,neptuni,NA,80% b. jacobi,"Leereveld, 1995",0.8 in amm_t_Berriasella jacobi,FO,144.046,23.51322190517263
 Rio Argos,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,verdieri,NA,80% Loryi,"Leereveld, 1997a",0.8 in amm_t_Crioceratites loryi,FO,133.398,23.969041709869845
 Rio Argos,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,verdieri,NA,25% sartousiana,"Leereveld, 1997a",0.25 in amm_t_Gerhardtia sartousi,LO,128.34,24.808441266336832
@@ -6971,18 +6971,18 @@ Faroe-Shetland,Areoligeraceae,all,Senoniasphaera,inornata,NA,90% in P1c,"Mudge a
 Faroe-Shetland,Gonyaulacaceae,Cribroperidinioideae,Spongodinium,delitiense,NA,20% in NP2,"Mudge and Bujak, 2001",0.2 in nan_n_NP2,LO,65.338,49.0338
 Faroe-Shetland,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,delicata,NA,10% in P3b,"Mudge and Bujak, 2001",0.1 in plfor_B_P3b,LO,61.269999999999996,48.627
 Faroe-Shetland,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,0% in P1a,"Mudge and Bujak, 2001",0 in plfor_B_P1a,LO,65.72,49.072
-25/8-4,Goniodomaceae,all,Alisocysta,margarita,NA,80% NP8,"Viera et al., 2020",0.8 in nan_n_NP8,LO,57.508,47.6492
-25/8-4,Peridiniaceae,Wetzelielloideae,Apectodinium,augustum,NA,50% NP9,"Viera et al., 2020",0.5 in nan_n_NP9,FO,56.535,47.7465
-25/8-4,Areoligeraceae,all,Areoligera,gippingensis,NA,50% C26n,"Viera et al., 2020",0.5 in mag_C26n,FO,59.098,47.4902
-25/8-4,Areoligeraceae,all,Areoligera,gippingensis,NA,82% NP8,"Viera et al., 2020",0.82 in nan_n_NP8,LO,57.4782,47.65218
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,obscurum,NA,100% C26n,"Viera et al., 2020",1 in mag_C26n,FO,58.959,47.5041
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,obscurum,NA,60% NP8,"Viera et al., 2020",0.6 in nan_n_NP8,LO,57.806000000000004,47.6194
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,rhomboideus,NA,50% NP7,"Viera et al., 2020",0.5 in nan_n_NP7,FO,58.835,47.5165
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,fentonii,NA,25% NP8,"Viera et al., 2020",0.25 in nan_n_NP8,FO,58.3275,47.56725
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,fentonii,NA,45% NP8,"Viera et al., 2020",0.45 in nan_n_NP8,LO,58.0295,47.597049999999996
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,truncatus,NA,0% NP8,"Viera et al., 2020",0 in nan_n_NP8,FO,58.7,47.53
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,truncatus,NA,50% NP8,"Viera et al., 2020",0.5 in nan_n_NP8,LO,57.955,47.6045
-25/8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,rhomboideus,NA,50% P5b,"Viera et al., 2020",0.75 in plfor_B_P5,LO,56.245000000000005,47.775499999999994
+25_8-4,Goniodomaceae,all,Alisocysta,margarita,NA,80% NP8,"Viera et al., 2020",0.8 in nan_n_NP8,LO,57.508,47.6492
+25_8-4,Peridiniaceae,Wetzelielloideae,Apectodinium,augustum,NA,50% NP9,"Viera et al., 2020",0.5 in nan_n_NP9,FO,56.535,47.7465
+25_8-4,Areoligeraceae,all,Areoligera,gippingensis,NA,50% C26n,"Viera et al., 2020",0.5 in mag_C26n,FO,59.098,47.4902
+25_8-4,Areoligeraceae,all,Areoligera,gippingensis,NA,82% NP8,"Viera et al., 2020",0.82 in nan_n_NP8,LO,57.4782,47.65218
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,obscurum,NA,100% C26n,"Viera et al., 2020",1 in mag_C26n,FO,58.959,47.5041
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,obscurum,NA,60% NP8,"Viera et al., 2020",0.6 in nan_n_NP8,LO,57.806000000000004,47.6194
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,rhomboideus,NA,50% NP7,"Viera et al., 2020",0.5 in nan_n_NP7,FO,58.835,47.5165
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,fentonii,NA,25% NP8,"Viera et al., 2020",0.25 in nan_n_NP8,FO,58.3275,47.56725
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,fentonii,NA,45% NP8,"Viera et al., 2020",0.45 in nan_n_NP8,LO,58.0295,47.597049999999996
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,truncatus,NA,0% NP8,"Viera et al., 2020",0 in nan_n_NP8,FO,58.7,47.53
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,truncatus,NA,50% NP8,"Viera et al., 2020",0.5 in nan_n_NP8,LO,57.955,47.6045
+25_8-4,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,rhomboideus,NA,50% P5b,"Viera et al., 2020",0.75 in plfor_B_P5,LO,56.245000000000005,47.775499999999994
 El Kef,Goniodomaceae,all,Alisocysta,circumtabulata,NA,20% P2,"Guasti et al., 2005",0.2 in plfor_B_P2,LO,62.538000000000004,22.944989471458467
 El Kef,Peridiniaceae,Wetzelielloideae,Apectodinium,homomorphum,NA,10% P3b,"Guasti et al., 2005",0.1 in plfor_B_P3b,FO,61.269999999999996,22.91665748519093
 El Kef,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,australiense,NA,0% P1a,"Guasti et al., 2005",0 in plfor_B_P1a,FO,65.72,22.173186217242165
@@ -7040,124 +7040,124 @@ Trunch borehole,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,multispinulus,NA,0% 
 Trunch borehole,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,jarvisii,NA,100% in polyopsis,"Pearce, 2010",1 in amm_b_Placenticeras polyopsis,FO,84.52,43.2068
 Trunch borehole,misc,misc,Whitecliffia,spinosa,NA,10% Campanian,"Pearce, 2010",0.1 in stage_Campanian,FO,82.481,43.023289999999996
 Trunch borehole,misc,misc,Whitecliffia,spinosa,NA,60% in campanian,"Pearce, 2010",0.6 in stage_Campanian,LO,76.68599999999999,42.60116
-Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,biapertura,NA,95% Campanian,"Nøhr-Hansen et al., 2019",0.95 in stage_Campanian,FO,72.6295,56.20518
-Hold With Hope,Peridiniaceae,Deflandreoideae,Alterbidinium,ioannidesii,NA,33% Santonian,"Nøhr-Hansen et al., 2019",0.33 in stage_Santonian,FO,85.39540000000001,56.985586
-Hold With Hope,Ceratiaceae,all,Aptea,polymorpha,NA,18% Albian,"Nøhr-Hansen et al., 2019",0.18 in stage_Albian,FO,110.709,57.73693
-Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,granulatum,NA,20% Aptian,"Nøhr-Hansen et al., 2019",0.2 in stage_Aptian,FO,123.63,54.1843
-Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,spongiosum,NA,40% in late Valanginian,"Nøhr-Hansen et al., 2019",0.6 in stage_Valanginian,FO,136.084,50.05732
-Hold With Hope,Pareodiniaceae,all,Batioladinium,shaftesburiense,NA,40% Albian,"Nøhr-Hansen et al., 2019",0.4 in stage_Albian,FO,107.97,58.0218
-Hold With Hope,Pareodiniaceae,all,Batioladinium,longicornutum,NA,100% Barremian,"Nøhr-Hansen et al., 2019",1 in stage_Barremian,LO,126.3,53.143
-Hold With Hope,Pareodiniaceae,all,Batioladinium,longicornutum,NA,10% in Hauterivian,"Nøhr-Hansen et al., 2019",0.1 in stage_Hauterivian,FO,133.569,50.73637000000001
-Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Boreocysta,isfordica,NA,40% in late Valanginian,"Nøhr-Hansen et al., 2019",0.6 in stage_Valanginian,FO,136.084,50.05732
-Hold With Hope,Areoligeraceae,all,Canningia,reticulata,NA,75% in Aptian,"Nøhr-Hansen et al., 2019",0.75 in stage_Aptian,FO,116.2875,56.453875000000004
-Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Cauca,parva,NA,90% Aptian,"Nøhr-Hansen et al., 2019",0.9 in stage_Aptian,FO,114.285,56.91445
-Hold With Hope,Areoligeraceae,all,Cauveridinium,membraniphorum,NA,85% cenomanian,"Nøhr-Hansen et al., 2019",0.85 in stage_Cenomanian,FO,94.89,57.9379
-Hold With Hope,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,90% Campanian,"Nøhr-Hansen et al., 2019",0.9 in stage_Campanian,FO,73.209,56.22836
-Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,bondarenkoi,NA,30% Campanian,"Nøhr-Hansen et al., 2019",0.3 in stage_Campanian,FO,80.163,56.51467
-Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,spinosa,NA,35% in Coniacian,"Nøhr-Hansen et al., 2019",0.33 in stage_Coniacian,FO,88.6117,57.275053
-Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,spinosa,NA,60% in Santonian,"Nøhr-Hansen et al., 2019",0.6 in stage_Santonian,LO,84.688,56.92192
-Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,granulifera,NA,0% Turonian,"Nøhr-Hansen et al., 2019",0 in stage_Turonian,FO,93.9,57.829
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Chichaouadinium,vestitum,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,FO,108.8415,57.96951
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Chichaouadinium,vestitum,NA,40% Albian,"Nøhr-Hansen et al., 2019",0.4 in stage_Albian,LO,107.97,58.0218
-Hold With Hope,Areoligeraceae,all,Circulodinium,brevispinosum,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,LO,108.8415,57.96951
-Hold With Hope,Areoligeraceae,all,Circulodinium,brevispinosum,NA,20% Aptian,"Nøhr-Hansen et al., 2019",0.2 in stage_Aptian,FO,123.63,54.1843
-Hold With Hope,Areoligeraceae,all,Cyclonephelium,compactum,NA,85% cenomanian,"Nøhr-Hansen et al., 2019",0.85 in stage_Cenomanian,FO,94.89,57.9379
-Hold With Hope,Goniodomaceae,all,Dinopterygium,alatum,NA,75% Albian,"Nøhr-Hansen et al., 2019",0.75 in stage_Albian,FO,103.6125,58.28325
-Hold With Hope,Ceratiaceae,all,Endoceratium,exquisitum,NA,70% Albian,"Nøhr-Hansen et al., 2019",0.7 in stage_Albian,FO,104.235,58.2459
-Hold With Hope,Ceratiaceae,all,Endoceratium,exquisitum,NA,60% Cenomanian,"Nøhr-Hansen et al., 2019",0.6 in stage_Cenomanian,LO,96.54,58.1194
-Hold With Hope,Ceratiaceae,all,Endoceratium,ludbrookiae,NA,60% Cenomanian,"Nøhr-Hansen et al., 2019",0.6 in stage_Cenomanian,FO,96.54,58.1194
-Hold With Hope,Ceratiaceae,all,Endoceratium,ludbrookiae,NA,35% in Coniacian,"Nøhr-Hansen et al., 2019",0.35 in stage_Coniacian,LO,88.5415,57.268735
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Endoscrinium,hauterivianum,NA,0% in Hauterivian,"Nøhr-Hansen et al., 2019",0 in stage_Hauterivian,FO,133.88,50.6524
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Endoscrinium,hauterivianum,NA,30% Hauterivian,"Nøhr-Hansen et al., 2019",0.3 in stage_Hauterivian,LO,132.947,50.90431
-Hold With Hope,misc,misc,Epelidodyctium,imperfectum,NA,40% Albian,"Nøhr-Hansen et al., 2019",0.4 in stage_Albian,LO,107.97,58.0218
-Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,spinosa,NA,75% Albian,"Nøhr-Hansen et al., 2019",0.75 in stage_Albian,FO,103.6125,58.28325
-Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,manifesta,NA,10% Cenomanian,"Nøhr-Hansen et al., 2019",0.1 in stage_Cenomanian,FO,99.84,58.4824
-Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,spinosa,NA,17% in Cenomanian,"Nøhr-Hansen et al., 2019",0.17 in stage_Cenomanian,LO,99.378,58.43158
-Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,manifesta,NA,25% in Cenomanian,"Nøhr-Hansen et al., 2019",0.25 in stage_Cenomanian,LO,98.85,58.3735
-Hold With Hope,Gonyaulacaceae,Gonyaulacoideae,Exiguisphaera,plectilis,NA,20% Aptian,"Nøhr-Hansen et al., 2019",0.2 in stage_Aptian,LO,123.63,54.1843
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Ginginodinium,evittii,NA,70% Cenomanian,"Nøhr-Hansen et al., 2019",0.7 in stage_Cenomanian,LO,95.88000000000001,58.0468
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Ginginodinium,evittii,NA,60% Cenomanian,"Nøhr-Hansen et al., 2019",0.6 in stage_Cenomanian,FO,96.54,58.1194
-Hold With Hope,Pareodiniaceae,all,Gochteodinia,villosa,villosa,95% Berriasian,"Nøhr-Hansen et al., 2019",0.95 in stage_Berriassian,LO,139.671,49.08883
-Hold With Hope,Pareodiniaceae,all,Gochteodinia,villosa,villosa,75% in tithonian,"Nøhr-Hansen et al., 2019",0.75 in stage_Tithonian,FO,146.77249999999998,50.48995
-Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Hapsocysta,bentae,NA,0% Albian,"Nøhr-Hansen et al., 2019",0 in stage_Albian,FO,112.95,57.2215
-Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Hapsocysta,bentae,NA,75% Cenomanian,"Nøhr-Hansen et al., 2019",0.75 in stage_Cenomanian,LO,95.55000000000001,58.0105
-Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,difficile,NA,60% in Santonian,"Nøhr-Hansen et al., 2019",0.6 in stage_Santonian,LO,84.688,56.92192
-Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,difficile,NA,0% Turonian,"Nøhr-Hansen et al., 2019",0 in stage_Turonian,FO,93.9,57.829
-Hold With Hope,Peridiniaceae,Deflandreoideae,Isabelidinium,microarmum,NA,30% Campanian,"Nøhr-Hansen et al., 2019",0.3 in stage_Campanian,FO,80.163,56.51467
-Hold With Hope,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,70% Cenomanian,"Nøhr-Hansen et al., 2019",0.7 in stage_Cenomanian,FO,95.88000000000001,58.0468
-Hold With Hope,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,75% Coniacian,"Nøhr-Hansen et al., 2019",0.75 in stage_Coniacian,LO,87.1375,57.142375
-Hold With Hope,Gonyaulacaceae,other,Isthmocystis,distincta,NA,75% in tithonian,"Nøhr-Hansen et al., 2019",0.75 in stage_Tithonian,FO,146.77249999999998,50.48995
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,arcticum,NA,60% turonian,"Nøhr-Hansen et al., 2019",0.6 in stage_Turonian,FO,91.422,57.556419999999996
-Hold With Hope,Gonyaulacaceae,other,Lagenorhytis,delicatula,NA,67% in berriasian,"Nøhr-Hansen et al., 2019",0.67 in stage_Berriassian,FO,141.2446,49.273812
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Leptodinium,cancellatum,NA,40% Albian,"Nøhr-Hansen et al., 2019",0.4 in stage_Albian,LO,107.97,58.0218
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Leptodinium,hyalodermopse,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,LO,108.8415,57.96951
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Leptodinium,cancellatum,NA,50% in Aptian,"Nøhr-Hansen et al., 2019",0.5 in stage_Aptian,FO,119.625,55.68625
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,arundum,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,FO,108.8415,57.96951
-Hold With Hope,Ceratiaceae,all,Muderongia,simplex,microperforata,10% in Barremian,"Nøhr-Hansen et al., 2019",0.1 in stage_Barremian,FO,130.323,51.612790000000004
-Hold With Hope,Ceratiaceae,all,Muderongia,australis,NA,0% in Hauterivian,"Nøhr-Hansen et al., 2019",0 in stage_Hauterivian,FO,133.88,50.6524
-Hold With Hope,Ceratiaceae,all,Muderongia,australis,NA,100% Hauterivian,"Nøhr-Hansen et al., 2019",1 in stage_Hauterivian,LO,130.77,51.4921
-Hold With Hope,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,100% Hauterivian,"Nøhr-Hansen et al., 2019",1 in stage_Hauterivian,LO,130.77,51.4921
-Hold With Hope,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,50% in Late Valanginian,"Nøhr-Hansen et al., 2019",0.75 in stage_Valanginian,FO,135.2575,50.280475
-Hold With Hope,Ceratiaceae,all,Nyktericysta,vitrea,NA,75% Aptian,"Nøhr-Hansen et al., 2019",0.75 in stage_Aptian,LO,116.2875,56.453875000000004
-Hold With Hope,Ceratiaceae,all,Nyktericysta,tripenta,NA,80% Cenomanian,"Nøhr-Hansen et al., 2019",0.8 in stage_Cenomanian,LO,95.22,57.974199999999996
-Hold With Hope,Ceratiaceae,all,Odontochitina,singhii,NA,18% Albian,"Nøhr-Hansen et al., 2019",0.18 in stage_Albian,FO,110.709,57.73693
-Hold With Hope,Ceratiaceae,all,Odontochitina,singhii,NA,40% Albian,"Nøhr-Hansen et al., 2019",0.4 in stage_Albian,LO,107.97,58.0218
-Hold With Hope,Ceratiaceae,all,Odontochitina,ancala,NA,55% Albian,"Nøhr-Hansen et al., 2019",0.55 in stage_Albian,FO,106.1025,58.133849999999995
-Hold With Hope,Ceratiaceae,all,Odontochitina,nuda,NA,20% Aptian,"Nøhr-Hansen et al., 2019",0.2 in stage_Aptian,LO,123.63,54.1843
-Hold With Hope,Ceratiaceae,all,Odontochitina,nuda,NA,30% Barremian,"Nøhr-Hansen et al., 2019",0.3 in stage_Barremian,FO,129.429,51.92269
-Hold With Hope,Ceratiaceae,all,Odontochitina,rhakodes,NA,50% Coniacian,"Nøhr-Hansen et al., 2019",0.5 in stage_Coniacian,LO,88.015,57.22135
-Hold With Hope,Ceratiaceae,all,Odontochitina,porifera,NA,0% Santonian,"Nøhr-Hansen et al., 2019",0.3 in stage_Santonian,FO,85.474,56.99266
-Hold With Hope,Ceratiaceae,all,Odontochitina,rhakodes,NA,60% turonian,"Nøhr-Hansen et al., 2019",0.6 in stage_Turonian,FO,91.422,57.556419999999996
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,abaculum,NA,30% Barremian,"Nøhr-Hansen et al., 2019",0.3 in stage_Barremian,FO,129.429,51.92269
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,90% in berriasian,"Nøhr-Hansen et al., 2019",0.9 in stage_Berriassian,FO,139.952,49.01296
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,umbaculum,NA,100% Valanginian,"Nøhr-Hansen et al., 2019",1 in stage_Valanginian,LO,133.88,50.6524
-Hold With Hope,Peridiniaceae,other,Ovoidinium,epelidosphaeroides,NA,15% Cenomanian,"Nøhr-Hansen et al., 2019",0.15 in stage_Cenomanian,FO,99.51,58.4461
-Hold With Hope,Peridiniaceae,other,Ovoidinium,epelidosphaeroides,NA,50% Cenomanian,"Nøhr-Hansen et al., 2019",0.5 in stage_Cenomanian,LO,97.2,58.192
-Hold With Hope,misc,misc,Palaecysta,palmula,NA,67% in berriasian,"Nøhr-Hansen et al., 2019",0.67 in stage_Berriassian,FO,141.2446,49.273812
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Palaeohystrichophora,infusorioides,NA,60% Cenomanian,"Nøhr-Hansen et al., 2019",0.6 in stage_Cenomanian,FO,96.54,58.1194
-Hold With Hope,Pareodiniaceae,all,Paragonyaulacysta,borealis,NA,90% berriasian,"Nøhr-Hansen et al., 2019",0.9 in stage_Berriassian,LO,139.952,49.01296
-Hold With Hope,Pareodiniaceae,all,Paragonyaulacysta,capillosa,NA,95% Berriasian,"Nøhr-Hansen et al., 2019",0.95 in stage_Berriassian,LO,139.671,49.08883
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,expolitum,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,FO,108.8415,57.96951
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,iveri,NA,10% Aptian,"Nøhr-Hansen et al., 2019",0.1 in stage_Aptian,LO,124.965,53.663650000000004
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,toveae,NA,10% Aptian,"Nøhr-Hansen et al., 2019",0.1 in stage_Aptian,LO,124.965,53.663650000000004
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,retusum,NA,10% in Aptian,"Nøhr-Hansen et al., 2019",0.1 in stage_Aptian,FO,124.965,53.663650000000004
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,distinctum,NA,25% in Aptian,"Nøhr-Hansen et al., 2019",0.25 in stage_Aptian,FO,122.9625,54.444625
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,distinctum,NA,30% Aptian,"Nøhr-Hansen et al., 2019",0.3 in stage_Aptian,LO,122.295,54.704950000000004
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,anaphrissum,NA,40% Barremian,"Nøhr-Hansen et al., 2019",0.4 in stage_Barremian,LO,128.982,52.09702
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,toveae,NA,40% Barremian,"Nøhr-Hansen et al., 2019",0.4 in stage_Barremian,FO,128.982,52.09702
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,iveri,NA,90% in barremian,"Nøhr-Hansen et al., 2019",0.9 in stage_Barremian,FO,126.747,52.96867
-Hold With Hope,Ceratiaceae,all,Pseudoceratium,anaphrissum,NA,20% in late hauterivian,"Nøhr-Hansen et al., 2019",0.6 in stage_Hauterivian,FO,132.014,51.15622
-Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Raphidodinium,fucatum,NA,25% in Turonian,"Nøhr-Hansen et al., 2019",0.25 in stage_Turonian,FO,92.8675,57.715424999999996
-Hold With Hope,misc,misc,Rhombodella,paucispina,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,FO,108.8415,57.96951
-Hold With Hope,misc,misc,Rhombodella,paucispina,NA,85% Cenomanian,"Nøhr-Hansen et al., 2019",0.85 in stage_Cenomanian,LO,94.89,57.9379
-Hold With Hope,Gonyaulacaceae,Leptodinioideae,Rotosphaeropsis,thula,NA,67% berriasian,"Nøhr-Hansen et al., 2019",0.67 in stage_Berriassian,LO,141.2446,49.273812
-Hold With Hope,Gonyaulacaceae,other,Scriniodinium,pharo,NA,33% in berriasian,"Nøhr-Hansen et al., 2019",0.33 in stage_Berriassian,FO,143.1554,49.694188
-Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,15% in Albian,"Nøhr-Hansen et al., 2019",0.15 in stage_Albian,LO,111.0825,57.651025
-Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,85% Aptian,"Nøhr-Hansen et al., 2019",0.85 in stage_Aptian,FO,114.9525,56.760925
-Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,0% Cenomanian,"Nøhr-Hansen et al., 2019",0 in stage_Cenomanian,FO,100.5,58.47
-Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,50% Cenomanian,"Nøhr-Hansen et al., 2019",0.5 in stage_Cenomanian,LO,97.2,58.192
-Hold With Hope,Areoligeraceae,all,Senoniasphaera,rotundata,NA,50% coniacian,"Nøhr-Hansen et al., 2019",0.5 in stage_Coniacian,LO,88.015,57.22135
-Hold With Hope,Areoligeraceae,all,Senoniasphaera,rotundata,NA,25% in Turonian,"Nøhr-Hansen et al., 2019",0.25 in stage_Turonian,FO,92.8675,57.715424999999996
-Hold With Hope,misc,misc,Sindridinium,borealis,NA,75% Albian,"Nøhr-Hansen et al., 2019",0.75 in stage_Albian,FO,103.6125,58.28325
-Hold With Hope,misc,misc,Sindridinium,tarulosa,NA,55% Albian,"Nøhr-Hansen et al., 2019",0.55 in stage_Albian,FO,106.1025,58.133849999999995
-Hold With Hope,misc,misc,Sindridinium,anaanae,NA,50% Cenomanian,"Nøhr-Hansen et al., 2019",0.5 in stage_Cenomanian,FO,97.2,58.192
-Hold With Hope,misc,misc,Sindridinium,anaanae,NA,59% Cenomanian,"Nøhr-Hansen et al., 2019",0.59 in stage_Cenomanian,LO,96.60600000000001,58.12666
-Hold With Hope,Peridiniaceae,Deflandreoideae,Spinidinium,echinoideum,NA,35% in Coniacian,"Nøhr-Hansen et al., 2019",0.33 in stage_Coniacian,FO,88.6117,57.275053
-Hold With Hope,Gonyaulacaceae,other,Stephodinium,coronatum,NA,35% in Coniacian,"Nøhr-Hansen et al., 2019",0.35 in stage_Coniacian,LO,88.5415,57.268735
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Subtilisphaera,kalaalliti,NA,45% Albian,"Nøhr-Hansen et al., 2019",0.45 in stage_Albian,FO,107.3475,58.05915
-Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Subtilisphaera,kalaalliti,NA,95% Cenomanian,"Nøhr-Hansen et al., 2019",0.95 in stage_Cenomanian,LO,94.23,57.8653
-Hold With Hope,Gonyaulacaceae,other,Surculosphaeridium,longifurcatum,NA,85% cenomanian,"Nøhr-Hansen et al., 2019",0.85 in stage_Cenomanian,FO,94.89,57.9379
-Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,rhomboideum,NA,70% Cenomanian,"Nøhr-Hansen et al., 2019",0.7 in stage_Cenomanian,FO,95.88000000000001,58.0468
-Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,suspectum,NA,70% Cenomanian,"Nøhr-Hansen et al., 2019",0.7 in stage_Cenomanian,FO,95.88000000000001,58.0468
-Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,rhomboideum,NA,85% Cenomanian,"Nøhr-Hansen et al., 2019",0.85 in stage_Cenomanian,LO,94.89,57.9379
-Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,vermiculatum,NA,35% in Coniacian,"Nøhr-Hansen et al., 2019",0.33 in stage_Coniacian,FO,88.6117,57.275053
-Hold With Hope,Ceratiaceae,all,Vesperopsis,longicornis,NA,33% Albian,"Nøhr-Hansen et al., 2019",0.33 in stage_Albian,LO,108.8415,57.96951
-Hold With Hope,Ceratiaceae,all,Vesperopsis,mayi,NA,45% in Aptian,"Nøhr-Hansen et al., 2019",0.45 in stage_Aptian,FO,120.2925,55.485925
-Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Wigginsiella,grandstandica,NA,45% Albian,"Nøhr-Hansen et al., 2019",0.45 in stage_Albian,FO,107.3475,58.05915
-Hold With Hope,misc,misc,Wodehousia,gracile,NA,95% Campanian,"Nøhr-Hansen et al., 2019",0.95 in stage_Campanian,FO,72.6295,56.20518
-Hold With Hope,Ceratiaceae,all,Xenascus,plotei,NA,45% Cenomanian,"Nøhr-Hansen et al., 2019",0.45 in stage_Cenomanian,FO,97.53,58.2283
-Hold With Hope,Ceratiaceae,all,Xenascus,plotei,NA,55% Cenomanian,"Nøhr-Hansen et al., 2019",0.55 in stage_Cenomanian,LO,96.87,58.1557
-Hold With Hope,Ceratiaceae,all,Xenascus,gochtii,NA,20% in Coniacian,"Nøhr-Hansen et al., 2019",0.2 in stage_Coniacian,FO,89.068,57.31612
+Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,biapertura,NA,95% Campanian,"Nøhr-Hansen et al., 2020",0.95 in stage_Campanian,FO,72.6295,56.20518
+Hold With Hope,Peridiniaceae,Deflandreoideae,Alterbidinium,ioannidesii,NA,33% Santonian,"Nøhr-Hansen et al., 2020",0.33 in stage_Santonian,FO,85.39540000000001,56.985586
+Hold With Hope,Ceratiaceae,all,Aptea,polymorpha,NA,18% Albian,"Nøhr-Hansen et al., 2020",0.18 in stage_Albian,FO,110.709,57.73693
+Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,granulatum,NA,20% Aptian,"Nøhr-Hansen et al., 2020",0.2 in stage_Aptian,FO,123.63,54.1843
+Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,spongiosum,NA,40% in late Valanginian,"Nøhr-Hansen et al., 2020",0.6 in stage_Valanginian,FO,136.084,50.05732
+Hold With Hope,Pareodiniaceae,all,Batioladinium,shaftesburiense,NA,40% Albian,"Nøhr-Hansen et al., 2020",0.4 in stage_Albian,FO,107.97,58.0218
+Hold With Hope,Pareodiniaceae,all,Batioladinium,longicornutum,NA,100% Barremian,"Nøhr-Hansen et al., 2020",1 in stage_Barremian,LO,126.3,53.143
+Hold With Hope,Pareodiniaceae,all,Batioladinium,longicornutum,NA,10% in Hauterivian,"Nøhr-Hansen et al., 2020",0.1 in stage_Hauterivian,FO,133.569,50.73637000000001
+Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Boreocysta,isfordica,NA,40% in late Valanginian,"Nøhr-Hansen et al., 2020",0.6 in stage_Valanginian,FO,136.084,50.05732
+Hold With Hope,Areoligeraceae,all,Canningia,reticulata,NA,75% in Aptian,"Nøhr-Hansen et al., 2020",0.75 in stage_Aptian,FO,116.2875,56.453875000000004
+Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Cauca,parva,NA,90% Aptian,"Nøhr-Hansen et al., 2020",0.9 in stage_Aptian,FO,114.285,56.91445
+Hold With Hope,Areoligeraceae,all,Cauveridinium,membraniphorum,NA,85% cenomanian,"Nøhr-Hansen et al., 2020",0.85 in stage_Cenomanian,FO,94.89,57.9379
+Hold With Hope,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,90% Campanian,"Nøhr-Hansen et al., 2020",0.9 in stage_Campanian,FO,73.209,56.22836
+Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,bondarenkoi,NA,30% Campanian,"Nøhr-Hansen et al., 2020",0.3 in stage_Campanian,FO,80.163,56.51467
+Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,spinosa,NA,35% in Coniacian,"Nøhr-Hansen et al., 2020",0.33 in stage_Coniacian,FO,88.6117,57.275053
+Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,spinosa,NA,60% in Santonian,"Nøhr-Hansen et al., 2020",0.6 in stage_Santonian,LO,84.688,56.92192
+Hold With Hope,Peridiniaceae,Deflandreoideae,Chatangiella,granulifera,NA,0% Turonian,"Nøhr-Hansen et al., 2020",0 in stage_Turonian,FO,93.9,57.829
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Chichaouadinium,vestitum,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,FO,108.8415,57.96951
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Chichaouadinium,vestitum,NA,40% Albian,"Nøhr-Hansen et al., 2020",0.4 in stage_Albian,LO,107.97,58.0218
+Hold With Hope,Areoligeraceae,all,Circulodinium,brevispinosum,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,LO,108.8415,57.96951
+Hold With Hope,Areoligeraceae,all,Circulodinium,brevispinosum,NA,20% Aptian,"Nøhr-Hansen et al., 2020",0.2 in stage_Aptian,FO,123.63,54.1843
+Hold With Hope,Areoligeraceae,all,Cyclonephelium,compactum,NA,85% cenomanian,"Nøhr-Hansen et al., 2020",0.85 in stage_Cenomanian,FO,94.89,57.9379
+Hold With Hope,Goniodomaceae,all,Dinopterygium,alatum,NA,75% Albian,"Nøhr-Hansen et al., 2020",0.75 in stage_Albian,FO,103.6125,58.28325
+Hold With Hope,Ceratiaceae,all,Endoceratium,exquisitum,NA,70% Albian,"Nøhr-Hansen et al., 2020",0.7 in stage_Albian,FO,104.235,58.2459
+Hold With Hope,Ceratiaceae,all,Endoceratium,exquisitum,NA,60% Cenomanian,"Nøhr-Hansen et al., 2020",0.6 in stage_Cenomanian,LO,96.54,58.1194
+Hold With Hope,Ceratiaceae,all,Endoceratium,ludbrookiae,NA,60% Cenomanian,"Nøhr-Hansen et al., 2020",0.6 in stage_Cenomanian,FO,96.54,58.1194
+Hold With Hope,Ceratiaceae,all,Endoceratium,ludbrookiae,NA,35% in Coniacian,"Nøhr-Hansen et al., 2020",0.35 in stage_Coniacian,LO,88.5415,57.268735
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Endoscrinium,hauterivianum,NA,0% in Hauterivian,"Nøhr-Hansen et al., 2020",0 in stage_Hauterivian,FO,133.88,50.6524
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Endoscrinium,hauterivianum,NA,30% Hauterivian,"Nøhr-Hansen et al., 2020",0.3 in stage_Hauterivian,LO,132.947,50.90431
+Hold With Hope,misc,misc,Epelidodyctium,imperfectum,NA,40% Albian,"Nøhr-Hansen et al., 2020",0.4 in stage_Albian,LO,107.97,58.0218
+Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,spinosa,NA,75% Albian,"Nøhr-Hansen et al., 2020",0.75 in stage_Albian,FO,103.6125,58.28325
+Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,manifesta,NA,10% Cenomanian,"Nøhr-Hansen et al., 2020",0.1 in stage_Cenomanian,FO,99.84,58.4824
+Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,spinosa,NA,17% in Cenomanian,"Nøhr-Hansen et al., 2020",0.17 in stage_Cenomanian,LO,99.378,58.43158
+Hold With Hope,Peridiniaceae,other,Epelidosphaeridia,manifesta,NA,25% in Cenomanian,"Nøhr-Hansen et al., 2020",0.25 in stage_Cenomanian,LO,98.85,58.3735
+Hold With Hope,Gonyaulacaceae,Gonyaulacoideae,Exiguisphaera,plectilis,NA,20% Aptian,"Nøhr-Hansen et al., 2020",0.2 in stage_Aptian,LO,123.63,54.1843
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Ginginodinium,evittii,NA,70% Cenomanian,"Nøhr-Hansen et al., 2020",0.7 in stage_Cenomanian,LO,95.88000000000001,58.0468
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Ginginodinium,evittii,NA,60% Cenomanian,"Nøhr-Hansen et al., 2020",0.6 in stage_Cenomanian,FO,96.54,58.1194
+Hold With Hope,Pareodiniaceae,all,Gochteodinia,villosa,villosa,95% Berriasian,"Nøhr-Hansen et al., 2020",0.95 in stage_Berriassian,LO,139.671,49.08883
+Hold With Hope,Pareodiniaceae,all,Gochteodinia,villosa,villosa,75% in tithonian,"Nøhr-Hansen et al., 2020",0.75 in stage_Tithonian,FO,146.77249999999998,50.48995
+Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Hapsocysta,bentae,NA,0% Albian,"Nøhr-Hansen et al., 2020",0 in stage_Albian,FO,112.95,57.2215
+Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Hapsocysta,bentae,NA,75% Cenomanian,"Nøhr-Hansen et al., 2020",0.75 in stage_Cenomanian,LO,95.55000000000001,58.0105
+Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,difficile,NA,60% in Santonian,"Nøhr-Hansen et al., 2020",0.6 in stage_Santonian,LO,84.688,56.92192
+Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,difficile,NA,0% Turonian,"Nøhr-Hansen et al., 2020",0 in stage_Turonian,FO,93.9,57.829
+Hold With Hope,Peridiniaceae,Deflandreoideae,Isabelidinium,microarmum,NA,30% Campanian,"Nøhr-Hansen et al., 2020",0.3 in stage_Campanian,FO,80.163,56.51467
+Hold With Hope,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,70% Cenomanian,"Nøhr-Hansen et al., 2020",0.7 in stage_Cenomanian,FO,95.88000000000001,58.0468
+Hold With Hope,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,75% Coniacian,"Nøhr-Hansen et al., 2020",0.75 in stage_Coniacian,LO,87.1375,57.142375
+Hold With Hope,Gonyaulacaceae,other,Isthmocystis,distincta,NA,75% in tithonian,"Nøhr-Hansen et al., 2020",0.75 in stage_Tithonian,FO,146.77249999999998,50.48995
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,arcticum,NA,60% turonian,"Nøhr-Hansen et al., 2020",0.6 in stage_Turonian,FO,91.422,57.556419999999996
+Hold With Hope,Gonyaulacaceae,other,Lagenorhytis,delicatula,NA,67% in berriasian,"Nøhr-Hansen et al., 2020",0.67 in stage_Berriassian,FO,141.2446,49.273812
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Leptodinium,cancellatum,NA,40% Albian,"Nøhr-Hansen et al., 2020",0.4 in stage_Albian,LO,107.97,58.0218
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Leptodinium,hyalodermopse,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,LO,108.8415,57.96951
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Leptodinium,cancellatum,NA,50% in Aptian,"Nøhr-Hansen et al., 2020",0.5 in stage_Aptian,FO,119.625,55.68625
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Litosphaeridium,arundum,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,FO,108.8415,57.96951
+Hold With Hope,Ceratiaceae,all,Muderongia,simplex,microperforata,10% in Barremian,"Nøhr-Hansen et al., 2020",0.1 in stage_Barremian,FO,130.323,51.612790000000004
+Hold With Hope,Ceratiaceae,all,Muderongia,australis,NA,0% in Hauterivian,"Nøhr-Hansen et al., 2020",0 in stage_Hauterivian,FO,133.88,50.6524
+Hold With Hope,Ceratiaceae,all,Muderongia,australis,NA,100% Hauterivian,"Nøhr-Hansen et al., 2020",1 in stage_Hauterivian,LO,130.77,51.4921
+Hold With Hope,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,100% Hauterivian,"Nøhr-Hansen et al., 2020",1 in stage_Hauterivian,LO,130.77,51.4921
+Hold With Hope,Gonyaulacaceae,other,Nelchinopsis,kostromiensis,NA,50% in Late Valanginian,"Nøhr-Hansen et al., 2020",0.75 in stage_Valanginian,FO,135.2575,50.280475
+Hold With Hope,Ceratiaceae,all,Nyktericysta,vitrea,NA,75% Aptian,"Nøhr-Hansen et al., 2020",0.75 in stage_Aptian,LO,116.2875,56.453875000000004
+Hold With Hope,Ceratiaceae,all,Nyktericysta,tripenta,NA,80% Cenomanian,"Nøhr-Hansen et al., 2020",0.8 in stage_Cenomanian,LO,95.22,57.974199999999996
+Hold With Hope,Ceratiaceae,all,Odontochitina,singhii,NA,18% Albian,"Nøhr-Hansen et al., 2020",0.18 in stage_Albian,FO,110.709,57.73693
+Hold With Hope,Ceratiaceae,all,Odontochitina,singhii,NA,40% Albian,"Nøhr-Hansen et al., 2020",0.4 in stage_Albian,LO,107.97,58.0218
+Hold With Hope,Ceratiaceae,all,Odontochitina,ancala,NA,55% Albian,"Nøhr-Hansen et al., 2020",0.55 in stage_Albian,FO,106.1025,58.133849999999995
+Hold With Hope,Ceratiaceae,all,Odontochitina,nuda,NA,20% Aptian,"Nøhr-Hansen et al., 2020",0.2 in stage_Aptian,LO,123.63,54.1843
+Hold With Hope,Ceratiaceae,all,Odontochitina,nuda,NA,30% Barremian,"Nøhr-Hansen et al., 2020",0.3 in stage_Barremian,FO,129.429,51.92269
+Hold With Hope,Ceratiaceae,all,Odontochitina,rhakodes,NA,50% Coniacian,"Nøhr-Hansen et al., 2020",0.5 in stage_Coniacian,LO,88.015,57.22135
+Hold With Hope,Ceratiaceae,all,Odontochitina,porifera,NA,0% Santonian,"Nøhr-Hansen et al., 2020",0.3 in stage_Santonian,FO,85.474,56.99266
+Hold With Hope,Ceratiaceae,all,Odontochitina,rhakodes,NA,60% turonian,"Nøhr-Hansen et al., 2020",0.6 in stage_Turonian,FO,91.422,57.556419999999996
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,abaculum,NA,30% Barremian,"Nøhr-Hansen et al., 2020",0.3 in stage_Barremian,FO,129.429,51.92269
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,90% in berriasian,"Nøhr-Hansen et al., 2020",0.9 in stage_Berriassian,FO,139.952,49.01296
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,umbaculum,NA,100% Valanginian,"Nøhr-Hansen et al., 2020",1 in stage_Valanginian,LO,133.88,50.6524
+Hold With Hope,Peridiniaceae,other,Ovoidinium,epelidosphaeroides,NA,15% Cenomanian,"Nøhr-Hansen et al., 2020",0.15 in stage_Cenomanian,FO,99.51,58.4461
+Hold With Hope,Peridiniaceae,other,Ovoidinium,epelidosphaeroides,NA,50% Cenomanian,"Nøhr-Hansen et al., 2020",0.5 in stage_Cenomanian,LO,97.2,58.192
+Hold With Hope,misc,misc,Palaecysta,palmula,NA,67% in berriasian,"Nøhr-Hansen et al., 2020",0.67 in stage_Berriassian,FO,141.2446,49.273812
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Palaeohystrichophora,infusorioides,NA,60% Cenomanian,"Nøhr-Hansen et al., 2020",0.6 in stage_Cenomanian,FO,96.54,58.1194
+Hold With Hope,Pareodiniaceae,all,Paragonyaulacysta,borealis,NA,90% berriasian,"Nøhr-Hansen et al., 2020",0.9 in stage_Berriassian,LO,139.952,49.01296
+Hold With Hope,Pareodiniaceae,all,Paragonyaulacysta,capillosa,NA,95% Berriasian,"Nøhr-Hansen et al., 2020",0.95 in stage_Berriassian,LO,139.671,49.08883
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,expolitum,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,FO,108.8415,57.96951
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,iveri,NA,10% Aptian,"Nøhr-Hansen et al., 2020",0.1 in stage_Aptian,LO,124.965,53.663650000000004
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,toveae,NA,10% Aptian,"Nøhr-Hansen et al., 2020",0.1 in stage_Aptian,LO,124.965,53.663650000000004
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,retusum,NA,10% in Aptian,"Nøhr-Hansen et al., 2020",0.1 in stage_Aptian,FO,124.965,53.663650000000004
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,distinctum,NA,25% in Aptian,"Nøhr-Hansen et al., 2020",0.25 in stage_Aptian,FO,122.9625,54.444625
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,distinctum,NA,30% Aptian,"Nøhr-Hansen et al., 2020",0.3 in stage_Aptian,LO,122.295,54.704950000000004
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,anaphrissum,NA,40% Barremian,"Nøhr-Hansen et al., 2020",0.4 in stage_Barremian,LO,128.982,52.09702
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,toveae,NA,40% Barremian,"Nøhr-Hansen et al., 2020",0.4 in stage_Barremian,FO,128.982,52.09702
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,iveri,NA,90% in barremian,"Nøhr-Hansen et al., 2020",0.9 in stage_Barremian,FO,126.747,52.96867
+Hold With Hope,Ceratiaceae,all,Pseudoceratium,anaphrissum,NA,20% in late hauterivian,"Nøhr-Hansen et al., 2020",0.6 in stage_Hauterivian,FO,132.014,51.15622
+Hold With Hope,Order Gonyaulacales Family uncertain,uncertain,Raphidodinium,fucatum,NA,25% in Turonian,"Nøhr-Hansen et al., 2020",0.25 in stage_Turonian,FO,92.8675,57.715424999999996
+Hold With Hope,misc,misc,Rhombodella,paucispina,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,FO,108.8415,57.96951
+Hold With Hope,misc,misc,Rhombodella,paucispina,NA,85% Cenomanian,"Nøhr-Hansen et al., 2020",0.85 in stage_Cenomanian,LO,94.89,57.9379
+Hold With Hope,Gonyaulacaceae,Leptodinioideae,Rotosphaeropsis,thula,NA,67% berriasian,"Nøhr-Hansen et al., 2020",0.67 in stage_Berriassian,LO,141.2446,49.273812
+Hold With Hope,Gonyaulacaceae,other,Scriniodinium,pharo,NA,33% in berriasian,"Nøhr-Hansen et al., 2020",0.33 in stage_Berriassian,FO,143.1554,49.694188
+Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,15% in Albian,"Nøhr-Hansen et al., 2020",0.15 in stage_Albian,LO,111.0825,57.651025
+Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,85% Aptian,"Nøhr-Hansen et al., 2020",0.85 in stage_Aptian,FO,114.9525,56.760925
+Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,0% Cenomanian,"Nøhr-Hansen et al., 2020",0 in stage_Cenomanian,FO,100.5,58.47
+Hold With Hope,Areoligeraceae,all,Senoniasphaera,microreticulata,NA,50% Cenomanian,"Nøhr-Hansen et al., 2020",0.5 in stage_Cenomanian,LO,97.2,58.192
+Hold With Hope,Areoligeraceae,all,Senoniasphaera,rotundata,NA,50% coniacian,"Nøhr-Hansen et al., 2020",0.5 in stage_Coniacian,LO,88.015,57.22135
+Hold With Hope,Areoligeraceae,all,Senoniasphaera,rotundata,NA,25% in Turonian,"Nøhr-Hansen et al., 2020",0.25 in stage_Turonian,FO,92.8675,57.715424999999996
+Hold With Hope,misc,misc,Sindridinium,borealis,NA,75% Albian,"Nøhr-Hansen et al., 2020",0.75 in stage_Albian,FO,103.6125,58.28325
+Hold With Hope,misc,misc,Sindridinium,tarulosa,NA,55% Albian,"Nøhr-Hansen et al., 2020",0.55 in stage_Albian,FO,106.1025,58.133849999999995
+Hold With Hope,misc,misc,Sindridinium,anaanae,NA,50% Cenomanian,"Nøhr-Hansen et al., 2020",0.5 in stage_Cenomanian,FO,97.2,58.192
+Hold With Hope,misc,misc,Sindridinium,anaanae,NA,59% Cenomanian,"Nøhr-Hansen et al., 2020",0.59 in stage_Cenomanian,LO,96.60600000000001,58.12666
+Hold With Hope,Peridiniaceae,Deflandreoideae,Spinidinium,echinoideum,NA,35% in Coniacian,"Nøhr-Hansen et al., 2020",0.33 in stage_Coniacian,FO,88.6117,57.275053
+Hold With Hope,Gonyaulacaceae,other,Stephodinium,coronatum,NA,35% in Coniacian,"Nøhr-Hansen et al., 2020",0.35 in stage_Coniacian,LO,88.5415,57.268735
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Subtilisphaera,kalaalliti,NA,45% Albian,"Nøhr-Hansen et al., 2020",0.45 in stage_Albian,FO,107.3475,58.05915
+Hold With Hope,Peridiniaceae,Palaeoperidinioideae,Subtilisphaera,kalaalliti,NA,95% Cenomanian,"Nøhr-Hansen et al., 2020",0.95 in stage_Cenomanian,LO,94.23,57.8653
+Hold With Hope,Gonyaulacaceae,other,Surculosphaeridium,longifurcatum,NA,85% cenomanian,"Nøhr-Hansen et al., 2020",0.85 in stage_Cenomanian,FO,94.89,57.9379
+Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,rhomboideum,NA,70% Cenomanian,"Nøhr-Hansen et al., 2020",0.7 in stage_Cenomanian,FO,95.88000000000001,58.0468
+Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,suspectum,NA,70% Cenomanian,"Nøhr-Hansen et al., 2020",0.7 in stage_Cenomanian,FO,95.88000000000001,58.0468
+Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,rhomboideum,NA,85% Cenomanian,"Nøhr-Hansen et al., 2020",0.85 in stage_Cenomanian,LO,94.89,57.9379
+Hold With Hope,Peridiniaceae,Deflandreoideae,Trithyrodinium,vermiculatum,NA,35% in Coniacian,"Nøhr-Hansen et al., 2020",0.33 in stage_Coniacian,FO,88.6117,57.275053
+Hold With Hope,Ceratiaceae,all,Vesperopsis,longicornis,NA,33% Albian,"Nøhr-Hansen et al., 2020",0.33 in stage_Albian,LO,108.8415,57.96951
+Hold With Hope,Ceratiaceae,all,Vesperopsis,mayi,NA,45% in Aptian,"Nøhr-Hansen et al., 2020",0.45 in stage_Aptian,FO,120.2925,55.485925
+Hold With Hope,Gonyaulacaceae,Cribroperidinioideae,Wigginsiella,grandstandica,NA,45% Albian,"Nøhr-Hansen et al., 2020",0.45 in stage_Albian,FO,107.3475,58.05915
+Hold With Hope,misc,misc,Wodehousia,gracile,NA,95% Campanian,"Nøhr-Hansen et al., 2020",0.95 in stage_Campanian,FO,72.6295,56.20518
+Hold With Hope,Ceratiaceae,all,Xenascus,plotei,NA,45% Cenomanian,"Nøhr-Hansen et al., 2020",0.45 in stage_Cenomanian,FO,97.53,58.2283
+Hold With Hope,Ceratiaceae,all,Xenascus,plotei,NA,55% Cenomanian,"Nøhr-Hansen et al., 2020",0.55 in stage_Cenomanian,LO,96.87,58.1557
+Hold With Hope,Ceratiaceae,all,Xenascus,gochtii,NA,20% in Coniacian,"Nøhr-Hansen et al., 2020",0.2 in stage_Coniacian,FO,89.068,57.31612
 Barentz Sea,Gonyaulacaceae,Leptodinioideae,Ambonosphaera,calloviana,NA,100% in Bathonian,"Smelror, 1994",1 in stage_Bathonian,FO,166.07,60.746700000000004
 Barentz Sea,Gonyaulacaceae,Leptodinioideae,Ambonosphaera,calloviana,NA,0% in Oxfordian,"Smelror, 1994",0 in stage_Oxfordian,LO,163.47,61.2407
 Barentz Sea,Pareodiniaceae,all,Evansia,deflandrei,NA,0% in Oxfordian,"Smelror, 1994",0 in stage_Oxfordian,FO,163.47,61.2407
