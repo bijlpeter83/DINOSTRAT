@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4471204.svg)](https://doi.org/10.5281/zenodo.4471204)
+
 # DINOSTRAT
 The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.1, with data predating January 2021, updated in November 2021. 
 
