@@ -1,9 +1,11 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4471204.svg)](https://doi.org/10.5281/zenodo.4471204)
+
 # DINOSTRAT
-The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.0, completed in January 2021. 
+The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.1, with data predating January 2021, updated in November 2021. 
 
+Updates: adjusted some entries based on reported errors (thanks!), corrected references in the "modernst.csv", 
 
-!!!MIND YOU THE DATA IS STILL UNDER CONSTRUCTION, AND THE PAPER IN PREP/REVIEW!!!
-Please cite Bijl, submitted to Earth system science data when using this database.
+Please cite Bijl, 2021 Earth System Science Data when using this database.
 
 DINOSTRAT consists of 4 data frames:
 
@@ -137,6 +139,7 @@ Harland, R.: Dinoflagellate cysts of the Quaternary system, in: A stratigraphix 
 Head, M. J.: Pollen and dinoflagellates from the Red Crag at Walton-on-the-Naze, Essex: Evidence for a mild climatic phase during the early Late Pliocene of eastern England, Geological Magazine, 135(6), 803–817, 1998.
 Head, M. J. and Norris, G.: Palynology and dinocyst stratigraphy of the Eocene and Oligocene in ODP Leg 105, Hole 647A, Labrador Sea, edited by S. P. Srivastava, M. Arthur, and B. Clement, Proceedings of the ODP, Scientific Results, Leg 105, College Station, Texas., 1989.
 Head, M. J. and Norris, G.: New species of dinoflagellate cysts and other palynomorphs from the latest Miocene and Pliocene of DSDP Hole 603C, Western North Atlantic, Journal of Palaeontology, 77, 1–15, 2003.
+Head, M.J., Norris, G. and Mudie, P.J.: 25. Palynology and dinocyst stratigraphy of the Upper Miocene and lowermost Pliocene, ODP Leg 105, Site 646, Labrador Sea. In: Srivastava, S.P. et al., Ocean Drilling Program, Proceedings, Scientific Results, Leg 105, College Station, Texas, p.423–451, pl.1–7, 1989.
 Heilmann-Clausen, C.: Dinoflagellate stratigraphy of the uppermost Danian to Ypresien in the Viborg I borehole, central Jylland, Denmark, Danmarks Geologische untersogelse A, 7, 1–69, 1985.
 Heilmann-Clausen, C.: Lower Cretaceous dinoflagellate biostratigraphy in the Danish Central Trough, Danmarks Geologische untersogelse A, 17, 1-1–89, 1987.
 Heilmann-Clausen, C. and Van Simaeys, S.: Dinoflagellate cysts from the Middle Eocene to ?lowermost Oligocene succession in the Kysing research borehole, central Danish basin, Palynology, 29(1), 143–204, doi:10.1080/01916122.2005.9989606, 2005.
@@ -179,6 +182,7 @@ Mudge, D. C. and Bujak, J. P.: Biostratigraphic evidence for evolving palaeoenvi
 Mudie, P. J.: Palynology and dinoflagellate biostratigraphy of DSDP Leg 94, Sites 607 and 611, North Atlantic Ocean, Initial Reports of the DSDP vol.94, Washington, USA., 1987.
 Nikitenko, B., Pestchevitskaya, E. B., Lebedeva, N. K. and Ilyina, V. I.: Micropalaeontological and palynological analyses across the Jurassic-Cretaceous boundary on Nordvik Peninsula, Northeast Siberia, Newsletters on Stratigraphy, 42(3), 181–222, 2008.
 Oosting, A. M., Leereveld, H., Dickens, G. R., Henderson, R. A. and Brinkhuis, H.: Correlation of Barremian-Aptian (mid-Cretaceous) dinoflagellate cyst assemblages between the Tethyan and Austral realms, Cretaceous Research, 27(6), 792–813, doi:10.1016/j.cretres.2006.03.012, 2006.
+Pearce, M.A.: New organic-walled dinoflagellate cysts from the Cenomanian to Maastrichtian of the Trunch borehole, UK.Marine Micropalaeontology, v.29, p.51–72, pl.1–8, 2010
 Poulsen, N. E.: Jurassic dinoflagellate cyst biostratigraphy of the Danish Subbasin in relation to sequences in England and Poland; a preliminary review, Review of Palaeobotany and Palynology, 75(1), 1–32, 1992.
 Poulsen, N. E.: Upper Bajocian to Callovian (Jurassic) dinoflagellate cysts from central Poland, Acta Geologica Polonica, 48(3), 237–245, 1998.
 Powell, A. J.: Latest Palaeogene and Earliest Neogene dinoflagellate cysts from the Lemme section, NW Italy, AASP contributions series, 17, 83-83–104, 1986.
@@ -243,6 +247,7 @@ Van Simaeys, S., de Man, E., Vandenberghe, N., Brinkhuis, H. and Steurbaut, E.: 
 Van Simaeys, S., Munsterman, D. and Brinkhuis, H.: Oligocene dinoflagellate cyst biostratigraphy of the southern North Sea Basin, Review of Palaeobotany and Palynology, 134(1–2), 105–128, doi:10.1016/j.revpalbo.2004.12.003, 2005.
 Vellekoop, J., Smit, J., van de Schootbrugge, B., Weijers, J. W. H., Galeotti, S., Sinninghe Damsté, J. S. and Brinkhuis, H.: Palynological evidence for prolonged cooling along the Tunisian continental shelf following the K-Pg boundary impact., Palaeogeography, Palaeoclimatology, Palaeoecology, 426, 216–228, 2015
 Versteegh, G. J. M.: The onset of major Northern Hemisphere glaciations and their impact on dinoflagellate cysts an acritarchs from the Singa section, Calabria (southern Italy) and DSDP Holes 607/607A (North Atlantic), Marine Micropaleontology, 30(4), 319–343, 1997.
+Versteegh, G. J. M., Zevenboom, D.: New genera and species of dinoflagellate cysts from the Mediterranean Neogene, Review of Palaeobotany and Palynology 85, 213–229, 1995.
 Vieira, M., Casas-Gallego, M., Mahdi, S. and Fenton, J.: Impagidinium obscurum sp. nov., a marker dinoflagellate cyst for the Thanetian (Paleocene) of the North Sea and the Barents Sea., Palynology, 44(2), 382–390, doi:10.1080/01916122.2019.1630494, 2020.
 Williams, G. L. and Bujak, J. P.: Distribution patterns of some North Atlantic Cenozoic dinoflagellate cysts., Marine Micropaleontology, 2, 223–234, 1977.
 Williams, G. L., Stover, L. E. and Kidson, E. J.: Morphology and stratigraphic ranges of selected Mesozoic–Cenozoic dinoflagellate taxa in the Northern Hemisphere, Pap. Geol. Surv. Can., 92(10), 1993.
