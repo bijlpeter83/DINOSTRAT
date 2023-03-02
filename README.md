@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4471204.svg)](https://doi.org/10.5281/zenodo.4471204)
 
 # DINOSTRAT
-The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 1.1, with data predating January 2021, updated in November 2021. 
+The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 2.0, with data predating March 2023, updated in March 2023. 
 
-Updates: adjusted some entries based on reported errors (thanks!), corrected references in the "modernst.csv", 
+Updates: converted all ages to the Geologic Time Scale 2020, added a series of papers (including a new dinocyst surface sediment dataset from the Antarctic continental margin), included more ways to calibrate dinocyst events to (marine isotope stages, other nannofossil zonations), improved the figures.
 
 Please cite Bijl, 2021 Earth System Science Data when using this database.
 
@@ -26,14 +26,14 @@ Stable (lgl): if TRUE, the site is on a stable, solid plate, and the paleolatitu
 tier (chr): the tier of calibration. For further information, see Bijl, submittes Earth System Science Data; 
 pal_lat source (chr): indicates the source of the paleolatitude evolution of the site.
 
-2. modernst.csv This dataframe hosts the surface sediment sample locations. Source for this data is Marret et al., 2020, references therein and Mertens et al., 2014. We provide here the modified datasets from those sources.
+2. modernst.csv This dataframe hosts the surface sediment sample locations. Source for this data is Marret et al., 2020, references therein, Mertens et al., 2014, and Thöle et al., 2023. We provide here the modified datasets from those sources.
 Explanation of columns: 
 Source (chr): source of the surface sediment location; 
 location (chr): a unique name for each surface sediment station; 
 lat (dbl): present-day latitude of that station; 
 long (dbl): present-day longitude of that station; 
 
-3. Dinoevents_Jan2021.csv This data frame hosts the regional dinoflagellate cyst events, their calibration to the GTS2021, their Age and Paleolatitude.
+3. Dinoevents_Feb2023.csv This data frame hosts the regional dinoflagellate cyst events, their calibration to the GTS2021, their Age and Paleolatitude.
 Explanation of columns: 
 location (chr): Location of the event. corresponds to location column in Paleolatitude.csv; 
 Family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
@@ -48,7 +48,7 @@ FO_LO (chr): [FO] if the event is a first stratigraphic occurrence, [LO] if the 
 Age (dbl): Age of the event, calculated through its Calibration; 
 pal_lat (dbl): paleolatitude of the event, interpolated from the paleolatitude of the site in Paleolatitude.csv, using its Age.
 
-4. modernsp.csv This dataframe hosts the dinocyst composition of the surface sediment sites modernst.csv. We adapted the data from Marret et al., 2020 and Mertens et al., 2014. We added suprageneric classification, and we converted relative abundance data to presence of taxa. columns follow those of Dinoevents_Jan2021.csv
+4. modernsp.csv This dataframe hosts the dinocyst composition of the surface sediment sites modernst.csv. We adapted the data from Marret et al., 2020, Thöle et al., 2023 and Mertens et al., 2014. We added suprageneric classification, and we converted relative abundance data to presence of taxa. columns follow those of Dinoevents_Feb2023.csv
 Explanation of columns:
 Family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
 Subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup "other";  
@@ -62,7 +62,7 @@ FO_LO (chr): These are by definition all [LO];
 Age (dbl): 0 Ma, by default; 
 pal_lat (dbl): paleolatitude of the event, equals modern latitude of the site. 
 
-References of studies used in this review:
+Original references of studies used in this review:
 Açıkalın, S., Vellekoop, J., Ocakoğlu, F., Yılmaz, İ. Ö., Smit, J., Altıner, S. Ö., Goderis, S., Vonhof, H., Speijer, R. P., Woelders, L., Fornaciari, E. and Brinkhuis, H.: Geochemical and palaeontological characterization of a new K-Pg Boundary locality from the Northern branch of the Neo-Tethys: Mudurnu – Göynük Basin, NW Turkey, Cretaceous Research, 52, 251–267, 2015.
 Århus, N., Birkelund, T. and Smelror, M.: Biostratigraphy of some Callovian and Oxfordian cores off Vega, Helgeland, Norsk Geologisk Tidsskrift, 69, 39–56, 1989.
 Aubry, A. M. R., De Schepper, S. and de Vernal, A.: Dinocyst and acritarch biostratigraphy of the Late Pliocene to Early Pleistocene at Integrated Ocean Drilling Program Site U1307 in the Labrador Sea, Journal of Micropaleontology, 39(1), 41–60, doi:10.5194/jm-39-41-2020, 2020.
@@ -257,6 +257,10 @@ Woollam, R. and Riding, J. B.: Dinoflagellate cyst zonation of the English Juras
 Wrenn, J. H. and Kokinos, J. P.: Preliminary comments on Miocene through Pleistocene dinoflagellate cysts from De Soto Canyon, Gulf of Mexico, American Association of Stratigraphic Palynologists, Contributions Series,, 17, 169–225, 1986.
 Zegarra, M. and Helenes, J.: Changes in Miocene through Pleistocene dinoflagellates from the Eastern Equatorial Pacific (ODP Site 1039), in relation to primary productivity, Marine Micropaleontology, 81(3–4), 107–121, doi:10.1016/j.marmicro.2011.09.005, 2011.
 Zevenboom, D.: Dinoflagellate cysts from the Mediterranean late Oligocene and Miocene, PhD thesis, Utrecht University, Utrecht, the Netherlands., 1995.
+
+Added with Version 2.0:
+
+
 
 For Paleolatitude.csv:
 Van Hinsbergen, D. J. J., Torsvik, T. H., Schmid, S. M., Maţenco, L. C., Maffione, M., Vissers, R. L. M., Gürer, D. and Spakman, W.: Orogenic architecture of the Mediterranean region and kinematic reconstruction of its tectonic evolution since the Triassic, Gondwana Research, 81, 79–229, doi:10.1016/j.gr.2019.07.009, 2020
