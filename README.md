@@ -259,6 +259,21 @@ Zegarra, M. and Helenes, J.: Changes in Miocene through Pleistocene dinoflagella
 Zevenboom, D.: Dinoflagellate cysts from the Mediterranean late Oligocene and Miocene, PhD thesis, Utrecht University, Utrecht, the Netherlands., 1995.
 
 Added with Version 2.0:
+Bijl, P. K.: DINOSTRAT: A global database of the stratigraphic and paleolatitudinal distribution of Mesozoic-Cenozoic organic-walled dinoflagellate cysts, Earth System Science Data, 14, 579-617, 10.5194/essd-14-579-2022, 2022.
+Bujak, J., Bringué, M., Goryacheva, A. A., Lebedeva, N. K., Pestchevitskaya, E. B., Riding, J. B., and Smelror, M.: Jurassic palynoevents in the circum-Arctic region, Atlantic Geoscience, 58, 055 - 098, 10.4138/atlgeo.2022.003, 2022.
+Crouch, E. M., Clowes, C. D., Raine, J. I., Alegret, L., Cramwinckel, M. J., and Sutherland, R.: Latest Cretaceous and Paleocene biostratigraphy and paleogeography of northern Zealandia, IODP Site U1509, New Caledonia Trough, southwest Pacific, New Zealand Journal of Geology and Geophysics, 10.1080/00288306.2022.2090386, 2022.
+González Estebenet, M. S., Guler, M. V., and Pérez Panera, J. P.: Late Maastrichtian to Danian organic-walled dinoflagellate cysts and calcareous nannofossils from eastern Austral Basin, Patagonia, Argentina, Review of Palaeobotany and Palynology, 285, 10.1016/j.revpalbo.2020.104342, 2021.
+Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M.: Geologic Time Scale 2020, in, edited by: Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M., Elsevier, https://doi.org/10.1016/B978-0-12-824360-2.00032-2, 2020.
+Guerrero-Murcia, L. A. and Helenes, J.: Statistic biostratigraphy and paleoecology of tropical Upper Cretaceous dinoflagellate cysts, Journal of South American Earth Sciences, 115, 10.1016/j.jsames.2022.103730, 2022.
+Jarvis, I., Pearce, M., Püttmann, T., Voigt, S., and Walaszczyk, I.: Palynology and calcareous nannofossil biostratigraphy of the Turonian – Coniacian boundary: The proposed boundary stratotype at Salzgitter-Salder, Germany and its correlation in NW Europe, Cretaceous Research, 123, 10.1016/j.cretres.2021.104782, 2021.
+Pearce, M. A., Jarvis, I., Ball, P. J., and Laurin, J.: Palynology of the Cenomanian to lowermost Campanian (Upper Cretaceous) Chalk of the Trunch Borehole (Norfolk, UK) and a new dinoflagellate cyst bioevent stratigraphy for NW Europe, Review of Palaeobotany and Palynology, 278, 10.1016/j.revpalbo.2020.104188, 2020.
+Pearce, M. A., Jarvis, I., Monkenbusch, J., Thibault, N., Ullmann, C. V., and Martinez, M.: Coniacian-Campanian palynology, carbon isotopes and clay mineralogy of the Poigny borehole (Paris Basin) and its correlation in NW Europe, Comptes Rendus - Geoscience, 354, 10.5802/crgeos.118, 2022.
+Thöle, L. M. N., P.D.; Hou, S.; Wang, R.; Nie, S.; Michel, E.; Sauermilch, I.; Marret, F.; Sangiorgi, F.; Bijl, P.K.: An expanded database of Southern Hemisphere surface sediment dinoflagellate cyst assemblages and their oceanographic affinities, Journal of Micropaleontology, in review, 10.31223/X54948, 2022.
+Torricelli, S., Menichetti, E., and Knezaurek, G.: Climate-driven dinoflagellate cyst stratigraphy of the Oligocene-lower Miocene turbidite succession of the Lower Congo Basin (offshore NW Angola), Journal of African Earth Sciences, 192, 10.1016/j.jafrearsci.2022.104536, 2022.
+Vasilyeva, O. N. and Musatov, V. A.: Dinoflagellate cyst and nannoplankton assemblages from the Middle Eocene Kuma Formation of Crimean Peninsula — biostratigraphy and palynofacies, Palaeoworld, https://doi.org/10.1016/j.palwor.2022.11.006, 2022.
+Vieira, M. and Mahdi, S.: New Late Cretaceous to earliest Paleogene (Campanian–Danian) dinoflagellate cysts from the Møre Basin, offshore Norway, Palynology, 46, 1-19, 10.1080/01916122.2021.2006817, 2022.
+Vieira, M., Mahdi, S., and Holmes, N.: High resolution biostratigraphic zonation for the UK central North Sea Paleocene, Marine and Petroleum Geology, 117, 104400, https://doi.org/10.1016/j.marpetgeo.2020.104400, 2020.
+
 
 
 
