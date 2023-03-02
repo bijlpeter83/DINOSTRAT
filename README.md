@@ -3,9 +3,9 @@
 # DINOSTRAT
 The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 2.0, with data predating March 2023, updated in March 2023. 
 
-Updates: converted all ages to the Geologic Time Scale 2020, added a series of papers (including a new dinocyst surface sediment dataset from the Antarctic continental margin), included more ways to calibrate dinocyst events to (marine isotope stages, other nannofossil zonations), improved the figures.
+Updates: All ages were converted to the Geologic Time Scale 2020, the dinoflagellate cyst events from a series of papers were added (including a new dinocyst surface sediment dataset from the Antarctic continental margin), figure look and feel are improved.
 
-Please cite Bijl, 2021 Earth System Science Data when using this database.
+Please cite Bijl, 2022 Earth System Science Data when using this database.
 
 DINOSTRAT consists of 4 data frames:
 
@@ -22,36 +22,36 @@ Paleolatitude (dbl): the paleotatitude of that location and age;
 lower (dbl): the lower uncertainty limit of that paleolatitude; 
 upper (dbl): the upper uncertainty limit of that paleolatitude; 
 interpolated (lgl): if TRUE, the paleolatitude was interpolated between 10 million year tie points, if FALSE, the paleolatitude is from a 10 million year tie point. For more information see paleolatitude.org and Van Hinsbergen et al., 2015; 
-Stable (lgl): if TRUE, the site is on a stable, solid plate, and the paleolatitude calculation came from paleolatitude.org. If FALSE, the site is in an unstable plate boundary or orogenic zone, and different sources were used to estimate its paleolatitudinal evolution. See pal_lat source; 
+Stable (lgl): if TRUE, the site is on a stable, passive plate, and the paleolatitude calculation came from paleolatitude.org. If FALSE, the site is in an unstable plate boundary or orogenic zone, and different sources were used to estimate its paleolatitudinal evolution. See pal_lat source; 
 tier (chr): the tier of calibration. For further information, see Bijl, submittes Earth System Science Data; 
 pal_lat source (chr): indicates the source of the paleolatitude evolution of the site.
 
-2. modernst.csv This dataframe hosts the surface sediment sample locations. Source for this data is Marret et al., 2020, references therein, Mertens et al., 2014, and Thöle et al., 2023. We provide here the modified datasets from those sources.
+2. modernst.csv This dataframe hosts the surface sediment sample locations. Source for this data is Marret et al., 2020, references therein, Mertens et al., 2014, and Thöle et al., 2023. The modified datasets from those sources are used here.
 Explanation of columns: 
 Source (chr): source of the surface sediment location; 
 location (chr): a unique name for each surface sediment station; 
 lat (dbl): present-day latitude of that station; 
 long (dbl): present-day longitude of that station; 
 
-3. Dinoevents_Feb2023.csv This data frame hosts the regional dinoflagellate cyst events, their calibration to the GTS2021, their Age and Paleolatitude.
+3. Dinoevents_Feb_23.csv This data frame hosts the regional dinoflagellate cyst events, their calibration to the GTS2021, their Age and Paleolatitude.
 Explanation of columns: 
 location (chr): Location of the event. corresponds to location column in Paleolatitude.csv; 
 Family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
 Subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup "other"; 
-genus (chr): The taxonomic genus of the species based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, submitted to Earth System Science data); 
-species (chr): The taxonomic species name of based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, submitted to Earth System Science data); 
-subspecies (chr): The taxonomic subspecies name of based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, submitted to Earth System Science data). [NA] if no subspecies applies; 
+genus (chr): The taxonomic genus of the species based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, 2022); 
+species (chr): The taxonomic species name of based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, 2022); 
+subspecies (chr): The taxonomic subspecies name of based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, 2022). [NA] if no subspecies applies; 
 original entry (chr): the calibration of that event as recorded from the Source; 
 Source (chr): study that presented the event; 
-Calibration (chr): calibration of the event to the Geologic Time Scale 2012 (Gradstein et al., 2012); 
+Calibration (chr): calibration of the event to the Geologic Time Scale 2020 (Gradstein et al., 2020); 
 FO_LO (chr): [FO] if the event is a first stratigraphic occurrence, [LO] if the event is a last stratigraphic occurrence; 
 Age (dbl): Age of the event, calculated through its Calibration; 
 pal_lat (dbl): paleolatitude of the event, interpolated from the paleolatitude of the site in Paleolatitude.csv, using its Age.
 
-4. modernsp.csv This dataframe hosts the dinocyst composition of the surface sediment sites modernst.csv. We adapted the data from Marret et al., 2020, Thöle et al., 2023 and Mertens et al., 2014. We added suprageneric classification, and we converted relative abundance data to presence of taxa. columns follow those of Dinoevents_Feb2023.csv
+4. modernsp.csv This dataframe hosts the dinocyst composition of the surface sediment sites modernst.csv. We adapted the data from Marret et al., 2020, Thöle et al., 2023 and Mertens et al., 2014. Suprageneric classification was added, Relative abundance data was converted to presence of taxa. Columns follow those of Dinoevents_Feb2023.csv
 Explanation of columns:
 Family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
-Subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup "other";  
+Subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup [other];  
 genus (chr): The taxonomic genus of the species based on Fensome et al., (1993) and Williams et al., (2017); 
 species (chr): The taxonomic species name of based on Fensome et al., (1993) and Williams et al., (2017); 
 subspecies (chr): The taxonomic subspecies name of based on Fensome et al., (1993) and Williams et al., (2017). [NA] if no subspecies applies; 
@@ -259,11 +259,9 @@ Zegarra, M. and Helenes, J.: Changes in Miocene through Pleistocene dinoflagella
 Zevenboom, D.: Dinoflagellate cysts from the Mediterranean late Oligocene and Miocene, PhD thesis, Utrecht University, Utrecht, the Netherlands., 1995.
 
 Added with Version 2.0:
-Bijl, P. K.: DINOSTRAT: A global database of the stratigraphic and paleolatitudinal distribution of Mesozoic-Cenozoic organic-walled dinoflagellate cysts, Earth System Science Data, 14, 579-617, 10.5194/essd-14-579-2022, 2022.
 Bujak, J., Bringué, M., Goryacheva, A. A., Lebedeva, N. K., Pestchevitskaya, E. B., Riding, J. B., and Smelror, M.: Jurassic palynoevents in the circum-Arctic region, Atlantic Geoscience, 58, 055 - 098, 10.4138/atlgeo.2022.003, 2022.
 Crouch, E. M., Clowes, C. D., Raine, J. I., Alegret, L., Cramwinckel, M. J., and Sutherland, R.: Latest Cretaceous and Paleocene biostratigraphy and paleogeography of northern Zealandia, IODP Site U1509, New Caledonia Trough, southwest Pacific, New Zealand Journal of Geology and Geophysics, 10.1080/00288306.2022.2090386, 2022.
 González Estebenet, M. S., Guler, M. V., and Pérez Panera, J. P.: Late Maastrichtian to Danian organic-walled dinoflagellate cysts and calcareous nannofossils from eastern Austral Basin, Patagonia, Argentina, Review of Palaeobotany and Palynology, 285, 10.1016/j.revpalbo.2020.104342, 2021.
-Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M.: Geologic Time Scale 2020, in, edited by: Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M., Elsevier, https://doi.org/10.1016/B978-0-12-824360-2.00032-2, 2020.
 Guerrero-Murcia, L. A. and Helenes, J.: Statistic biostratigraphy and paleoecology of tropical Upper Cretaceous dinoflagellate cysts, Journal of South American Earth Sciences, 115, 10.1016/j.jsames.2022.103730, 2022.
 Jarvis, I., Pearce, M., Püttmann, T., Voigt, S., and Walaszczyk, I.: Palynology and calcareous nannofossil biostratigraphy of the Turonian – Coniacian boundary: The proposed boundary stratotype at Salzgitter-Salder, Germany and its correlation in NW Europe, Cretaceous Research, 123, 10.1016/j.cretres.2021.104782, 2021.
 Pearce, M. A., Jarvis, I., Ball, P. J., and Laurin, J.: Palynology of the Cenomanian to lowermost Campanian (Upper Cretaceous) Chalk of the Trunch Borehole (Norfolk, UK) and a new dinoflagellate cyst bioevent stratigraphy for NW Europe, Review of Palaeobotany and Palynology, 278, 10.1016/j.revpalbo.2020.104188, 2020.
@@ -275,13 +273,13 @@ Vieira, M. and Mahdi, S.: New Late Cretaceous to earliest Paleogene (Campanian�
 Vieira, M., Mahdi, S., and Holmes, N.: High resolution biostratigraphic zonation for the UK central North Sea Paleocene, Marine and Petroleum Geology, 117, 104400, https://doi.org/10.1016/j.marpetgeo.2020.104400, 2020.
 
 
-
-
 For Paleolatitude.csv:
 Van Hinsbergen, D. J. J., Torsvik, T. H., Schmid, S. M., Maţenco, L. C., Maffione, M., Vissers, R. L. M., Gürer, D. and Spakman, W.: Orogenic architecture of the Mediterranean region and kinematic reconstruction of its tectonic evolution since the Triassic, Gondwana Research, 81, 79–229, doi:10.1016/j.gr.2019.07.009, 2020
 Van Hinsbergen, D. J. J., De Groot, L. V., Van Schaik, S. J., Spakman, W., Bijl, P. K., Sluijs, A., Langereis, C. G. and Brinkhuis, H.: A paleolatitude calculator for paleoclimate studies, PLOS One, 10(6), 2015.
 Advokaat, E. L., Marshall, N. T., Li, S., Spakman, W., Krijgsman, W. and van Hinsbergen, D. J. J.: Cenozoic Rotation History of Borneo and Sundaland, SE Asia Revealed by Paleomagnetism, Seismic Tomography, and Kinematic Reconstruction, Tectonics, 37(8), 2486–2512, doi:10.1029/2018TC005010, 2018.
 
 
-
+Refernces used in this readme:
+Bijl, P. K.: DINOSTRAT: A global database of the stratigraphic and paleolatitudinal distribution of Mesozoic-Cenozoic organic-walled dinoflagellate cysts, Earth System Science Data, 14, 579-617, 10.5194/essd-14-579-2022, 2022.
+Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M.: Geologic Time Scale 2020, in, edited by: Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M., Elsevier, https://doi.org/10.1016/B978-0-12-824360-2.00032-2, 2020.
 
