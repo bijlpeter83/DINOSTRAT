@@ -424,181 +424,168 @@ U1356,Gonyaulacaceae,Cribroperidinioideae,Turbiosphaera,filosa,NA,50% C22n,"Bijl
 1171,Gonyaulacaceae,Cribroperidinioideae,Samlandia,chlamydophora,NA,0% C24n.2n,"Bijl et al., 2013",0 in mag_C24n.2n,LO,NA,NA,53.12,-62.123999999999995
 1171,Peridiniaceae,Deflandreoideae,Spinidinium,macmurdoense,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-61.66268
 1171,Peridiniaceae,Deflandreoideae,Vozzhennikovia,roehliae,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-62.144
-1172,Goniodomaceae,all,Alisocysta,circumtabulata,NA,50% C23r,"Bijl et al., 2013",0.5 in mag_C23r,LO,NA,NA,52.132,-57.76904
-1172,Peridiniaceae,Wetzelielloideae,Apectodinium,homomorphum,NA,0% C25n,"Bijl et al., 2013",0 in mag_C25n,FO,NA,NA,57.656,-58.98432
-1172,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,australiense,NA,25% C18n,"Bijl et al., 2013",0.25 in mag_C18n,FO,NA,NA,39.654250000000005,-57.699732499999996
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,agremom,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
+1172,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,alcicornu,NA,75% in C31r,"Bijl et al., 2021",0.75 in mag_C31r,FO,NA,NA,69.81600000000002,-61.36504
 1172,Gonyaulacaceae,other,Arachnodinium,antarcticum,NA,50% C17n,"Bijl et al., 2013",0.5 in mag_C17n,LO,NA,NA,37.327,-57.024829999999994
+1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,angulata,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
+1172,Peridiniaceae,Deflandreoideae,Deflandrea,antarctica,NA,50% C25n,"Bijl et al., 2013",0.5 in mag_C25n,FO,NA,NA,57.3785,-58.92327
 1172,Gonyaulacaceae,other,Arachnodinium,antarcticum,NA,75% C22n,"Bijl et al., 2013",0.75 in mag_C22n,FO,NA,NA,49.075,-57.34625
-1172,Areoligeraceae,all,Areoligera,senonensis,NA,0% C21r,"Bijl et al., 2013",0 in mag_C21r,LO,NA,NA,48.878,-57.3561
-1172,Areoligeraceae,all,Areoligera,senonensis,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,apertura,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,apertura,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,articulata,NA,75% C23r,"Bijl et al., 2013",0.75 in mag_C23r,FO,NA,NA,51.928,-57.72416
+1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,apertura,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Peridiniaceae,other,Octodinium,askiniae,NA,50% C23r,"Bijl et al., 2013",0.5 in mag_C23r,FO,NA,NA,52.132,-57.76904
+1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,articulata,NA,50% C23n,"Bijl et al., 2013",0.5 in mag_C23n,LO,NA,NA,51.2455,-57.574009999999994
+1172,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,australiense,NA,25% C18n,"Bijl et al., 2013",0.25 in mag_C18n,FO,NA,NA,39.654250000000005,-57.699732499999996
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,bullatum,NA,75% C21r,"Bijl et al., 2013",0.75 in mag_C21r,LO,NA,NA,48.0395,-57.398025
+1172,Peridiniaceae,Deflandreoideae,Palaeocystodinium,australinum,NA,50% in C31n,"Bijl et al., 2021",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
+1172,Order Gonyaulacales Family uncertain,uncertain,Cerebrocysta,bartonensis,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
+1172,Gonyaulacaceae,Leptodinioideae,Cooksonidium,capricornum,NA,75% C18n,"Bijl et al., 2013",0.75 in mag_C18n,LO,NA,NA,38.81675,-57.4568575
+1172,Peridiniaceae,Deflandreoideae,Senegalinium,bicavatum,NA,10% in C28n,"Bijl et al., 2021",0.1 in mag_C28n,FO,NA,NA,64.5342,-60.361498
+1172,Gonyaulacaceae,other,Fibrocysta,bipolaris,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,breva,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Gonyaulacaceae,Leptodinioideae,Cooksonidium,capricornum,NA,75% C18n,"Bijl et al., 2013",0.75 in mag_C18n,FO,NA,NA,38.81675,-57.4568575
 1172,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,cassiculus,NA,25% C21r,"Bijl et al., 2013",0.25 in mag_C21r,LO,NA,NA,48.5985,-57.370075
 1172,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,cassiculus,NA,0% C24n,"Bijl et al., 2013",0 in mag_C24n,FO,NA,NA,53.9,-58.158
-1172,Protoperidiniaceae,all,Brigantedinium,simplex,NA,25% C15r,"Bijl et al., 2013",0.25 in mag_C15r,FO,NA,NA,35.519,-56.50051
-1172,Areoligeraceae,all,Cassidium,filosum,NA,75% C25n,"Bijl et al., 2013",0.75 in mag_C25n,LO,NA,NA,57.23975,-58.892745
-1172,Areoligeraceae,all,Cassidium,filosum,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Order Gonyaulacales Family uncertain,uncertain,Cerebrocysta,waipawaensis,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Peridiniaceae,Wetzelielloideae,Charlesdowniea,edwardsii,NA,0% C21r,"Bijl et al., 2013",0 in mag_C21r,LO,NA,NA,48.878,-57.3561
-1172,Peridiniaceae,Wetzelielloideae,Charlesdowniea,columna,NA,50% C22n,"Bijl et al., 2013",0.25 in mag_C22n,LO,NA,NA,49.468999999999994,-57.32655
-1172,Peridiniaceae,Wetzelielloideae,Charlesdowniea,edwardsii,NA,25% C22n,"Bijl et al., 2013",0.25 in mag_C22n,FO,NA,NA,49.468999999999994,-57.32655
-1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,polypetellum,NA,25% C22n,"Bijl et al., 2013",0.25 in mag_C23n,LO,NA,NA,51.48475,-57.626644999999996
-1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,polypetellum,NA,0% C24n,"Bijl et al., 2013",0 in mag_C24n,FO,NA,NA,53.9,-58.158
-1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,diversispinosum,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,diversispinosum,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,FO,NA,NA,49.666,-57.3167
-1172,Gonyaulacaceae,Leptodinioideae,Cooksonidium,capricornum,NA,75% C18n,"Bijl et al., 2013",0.75 in mag_C18n,FO,NA,NA,38.81675,-57.4568575
-1172,Gonyaulacaceae,Leptodinioideae,Cooksonidium,capricornum,NA,75% C18n,"Bijl et al., 2013",0.75 in mag_C18n,LO,NA,NA,38.81675,-57.4568575
-1172,Gonyaulacaceae,Gonyaulacoideae,Corrudinium,regulare,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Gonyaulacaceae,Gonyaulacoideae,Corrudinium,regulare,NA,50% C22n,"Bijl et al., 2013",0.5 in mag_C22n,FO,NA,NA,49.272,-57.3364
-1172,Gonyaulacaceae,Cribroperidinioideae,Danea,crassimurata,NA,50% C21r,"Bijl et al., 2013",0.5 in mag_C21r,LO,NA,NA,48.319,-57.384049999999995
-1172,Gonyaulacaceae,Cribroperidinioideae,Danea,crassimurata,NA,0% C22n,"Bijl et al., 2013",0 in mag_C22n,FO,NA,NA,49.666,-57.3167
-1172,Peridiniaceae,Deflandreoideae,Deflandrea,convexa,NA,50% in C16r,"Bijl et al., 2013",0.5 in mag_C16r,LO,NA,NA,36.462,-56.77398
-1172,Peridiniaceae,Deflandreoideae,Deflandrea,antarctica,NA,50% C25n,"Bijl et al., 2013",0.5 in mag_C25n,FO,NA,NA,57.3785,-58.92327
-1172,Peridiniaceae,Wetzelielloideae,Dracodinium,rhomboideum,NA,25% C18n,"Bijl et al., 2013",0.25 in mag_C18n,FO,NA,NA,39.654250000000005,-57.699732499999996
-1172,Peridiniaceae,Wetzelielloideae,Dracodinium,rhomboideum,NA,25% C18n,"Bijl et al., 2013",0.25 in mag_C18n,LO,NA,NA,39.654250000000005,-57.699732499999996
-1172,Peridiniaceae,Wetzelielloideae,Dracodinium,waipawaense,NA,50% C22r,"Bijl et al., 2013",0.5 in mag_C22r,LO,NA,NA,50.216499999999996,-57.347629999999995
-1172,Peridiniaceae,Wetzelielloideae,Dracodinium,waipawaense,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
-1172,Goniodomaceae,all,Eisenackia,reticulata,NA,50% C24n.3n,"Bijl et al., 2013",0.5 in mag_C24n.3n,LO,NA,NA,53.575,-58.0865
-1172,Cladopyxiaceae,all,Enneadocysta,multicornuta,NA,50% C15r,"Bijl et al., 2013",0.5 in mag_C15r,LO,NA,NA,35.458,-56.48282
-1172,Cladopyxiaceae,all,Enneadocysta,multicornuta,NA,100% C21r,"Bijl et al., 2013",1 in mag_C21r,FO,NA,NA,47.76,-57.412
-1172,Cladopyxiaceae,all,Enneadocysta,dictyostila,NA,50% C21r,"Bijl et al., 2013",0.5 in mag_C21r,FO,NA,NA,48.319,-57.384049999999995
-1172,Goniodomaceae,all,Eocladopyxis,peniculata,NA,50% C13n,"Bijl et al., 2013",0.5 in mag_C13n,LO,NA,NA,33.47,-55.906299999999995
-1172,Goniodomaceae,all,Eocladopyxis,peniculata,NA,100% C21r,"Bijl et al., 2013",1 in mag_C21r,FO,NA,NA,47.76,-57.412
-1172,Gonyaulacaceae,Cribroperidinioideae,Florentinia,reichartii,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,FO,NA,NA,56.30075,-58.686165
-1172,Gonyaulacaceae,Cribroperidinioideae,Florentinia,reichartii,NA,30% C24r,"Bijl et al., 2013",0.3 in mag_C24r,LO,NA,NA,56.140699999999995,-58.650954
-1172,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,100% C18n,"Bijl et al., 2013",1 in mag_C18n,LO,NA,NA,38.398,-57.33542
-1172,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,0% C18n.1r,"Bijl et al., 2013",0 in mag_C18n.1r,FO,NA,NA,39.666,-57.70314
-1172,Areoligeraceae,all,Glaphyrocysta,delicata,NA,100% C21n,"Bijl et al., 2013",1 in mag_C21n,LO,NA,NA,46.235,-57.488249999999994
-1172,Areoligeraceae,all,Glaphyrocysta,retiintexta,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,LO,NA,NA,49.666,-57.3167
-1172,Areoligeraceae,all,Glaphyrocysta,ordinata,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,LO,NA,NA,56.30075,-58.686165
-1172,Areoligeraceae,all,Glaphyrocysta,pastielsii,NA,40% in C24r,"Bijl et al., 2013",0.4 in mag_C24r,LO,NA,NA,55.8206,-58.580532
-1172,Areoligeraceae,all,Glaphyrocysta,retiintexta,NA,75% C24r,"Bijl et al., 2013",0.75 in mag_C24r,FO,NA,NA,54.70025,-58.334055
-1172,Cladopyxiaceae,all,Histiocysta,palla,NA,25% C20r,"Bijl et al., 2013",0.25 in mag_C20r,FO,NA,NA,45.53875,-57.523062499999995
-1172,Cladopyxiaceae,all,Histiocysta,palla,NA,25% C20r,"Bijl et al., 2013",0.25 in mag_C20r,LO,NA,NA,45.53875,-57.523062499999995
-1172,Goniodomaceae,all,Homotryblium,tasmaniense,NA,0% C20r,"Bijl et al., 2013",0 in mag_C20r,LO,NA,NA,46.235,-57.488249999999994
-1172,Goniodomaceae,all,Homotryblium,tasmaniense,NA,C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,50% C17r,"Bijl et al., 2013",0.5 in mag_C17r,LO,NA,NA,38.23950000000001,-57.289455
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,pusillum,NA,0% C21r,"Bijl et al., 2013",0 in mag_C21r,FO,NA,NA,48.878,-57.3561
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,pusillum,NA,50% C21r,"Bijl et al., 2013",0.5 in mag_C21r,LO,NA,NA,48.319,-57.384049999999995
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,bullatum,NA,75% C21r,"Bijl et al., 2013",0.75 in mag_C21r,LO,NA,NA,48.0395,-57.398025
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,spinosum,NA,C23n,"Bijl et al., 2013",0.5 in mag_C23n,FO,NA,NA,51.2455,-57.574009999999994
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,C23n,"Bijl et al., 2013",0.5 in mag_C23n,FO,NA,NA,51.2455,-57.574009999999994
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,rigaudiae,NA,C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
-1172,Goniodomaceae,all,Hystrichosphaeridium,truswelliae,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Gonyaulacaceae,Gonyaulacoideae,Hystrichostrogylon,membraniphorum,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Gonyaulacaceae,Gonyaulacoideae,Hystrichostrogylon,membraniphorum,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,FO,NA,NA,49.666,-57.3167
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,parvireticulatum,NA,50% C15r,"Bijl et al., 2013",0.5 in mag_C15r,LO,NA,NA,35.458,-56.48282
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,parvireticulatum,NA,75% C20r,"Bijl et al., 2013",0.75 in mag_C20r,FO,NA,NA,44.14625,-57.5926875
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,crassimuratum,NA,100% in C22r,"Bijl et al., 2013",1 in mag_C22r,LO,NA,NA,49.666,-57.3167
 1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,cassiculus,NA,50% C23r,"Bijl et al., 2013",0.5 in mag_C23r,LO,NA,NA,52.132,-57.76904
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,victorianum,NA,25% C23r,"Bijl et al., 2013",0.25 in mag_C23r,FO,NA,NA,52.336,-57.813919999999996
+1172,Goniodomaceae,all,Alisocysta,circumtabulata,NA,50% C23r,"Bijl et al., 2013",0.5 in mag_C23r,LO,NA,NA,52.132,-57.76904
 1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,cassiculus,NA,75% C24r,"Bijl et al., 2013",0.75 in mag_C24r,FO,NA,NA,54.70025,-58.334055
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,crassimuratum,NA,50% C24r,"Bijl et al., 2013",0.5 in mag_C24r,FO,NA,NA,55.5005,-58.51011
-1172,Gonyaulacaceae,Cribroperidinioideae,Lingulodinium,machaerophorum,NA,50% C25n,"Bijl et al., 2013",0.5 in mag_C25n,FO,NA,NA,57.3785,-58.92327
-1172,Gonyaulacaceae,Leptodinioideae,Lophocysta,spp.,NA,50% C18n.1n,"Bijl et al., 2013",0.5 in mag_C18n.1n,LO,NA,NA,38.99,-57.5071
-1172,Gonyaulacaceae,Leptodinioideae,Lophocysta,spp.,NA,100% C19r,"Bijl et al., 2013",1 in mag_C19r,FO,NA,NA,41.18,-57.741
-1172,Areoligeraceae,all,Membranophoridium,perforatum,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
-1172,Order Gonyaulacales Family uncertain,uncertain,Minisphaeridium,latirictum,NA,0% C18r,"Bijl et al., 2013",0 in mag_C18r,FO,NA,NA,41.03,-57.7485
-1172,Order Gonyaulacales Family uncertain,uncertain,Minisphaeridium,latirictum,NA,0% C18r,"Bijl et al., 2013",0 in mag_C18r,LO,NA,NA,41.03,-57.7485
-1172,Gonyaulacaceae,Gonyaulacoideae,Nematosphaeropsis,labyrinthus,NA,25% C23n,"Bijl et al., 2013",0.25 in mag_C23n,FO,NA,NA,51.48475,-57.626644999999996
-1172,Peridiniaceae,other,Octodinium,askiniae,NA,50% C23r,"Bijl et al., 2013",0.5 in mag_C23r,FO,NA,NA,52.132,-57.76904
-1172,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,pyrophorum,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,LO,NA,NA,59.098,-59.30156
-1172,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,comatum,NA,100% C21n,"Bijl et al., 2013",1 in mag_C21n,FO,NA,NA,46.235,-57.488249999999994
-1172,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,stockmansii,NA,50% C25n,"Bijl et al., 2013",0.5 in mag_C25n,FO,NA,NA,57.3785,-58.92327
-1172,Goniodomaceae,all,Polysphaeridium,subtile,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Peridiniaceae,Wetzelielloideae,Rhombodinium,draco,NA,50% C22n,"Bijl et al., 2013",0.5 in mag_C22n,LO,NA,NA,49.272,-57.3364
-1172,Gonyaulacaceae,Cribroperidinioideae,Samlandia,delicata,NA,50% C22n,"Bijl et al., 2013",0.5 in mag_C22n,LO,NA,NA,49.272,-57.3364
-1172,Gonyaulacaceae,Cribroperidinioideae,Samlandia,septata,NA,100% C24n.2r,"Bijl et al., 2013",1 in mag_C24n.2r,FO,NA,NA,53.12,-57.986399999999996
-1172,Gonyaulacaceae,Cribroperidinioideae,Samlandia,delicata,NA,50% C24r,"Bijl et al., 2013",0.5 in mag_C24r,FO,NA,NA,55.5005,-58.51011
-1172,Areoligeraceae,all,Schematophora,speciosa,NA,50% C16n,"Bijl et al., 2013",0.5 in mag_C16n,FO,NA,NA,35.9655,-56.629994999999994
-1172,Areoligeraceae,all,Schematophora,obscura,NA,100% C18n,"Bijl et al., 2013",1 in mag_C18n,LO,NA,NA,38.398,-57.33542
-1172,Areoligeraceae,all,Schematophora,obscura,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
-1172,Protoperidiniaceae,all,Selenopemphix,nephroides,NA,0% C22n,"Bijl et al., 2013",0 in mag_C22n,FO,NA,NA,49.666,-57.3167
-1172,Peridiniaceae,Deflandreoideae,Spinidinium,macmurdoense,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,FO,NA,NA,56.30075,-58.686165
-1172,Gonyaulacaceae,Cribroperidinioideae,Stoveracysta,ornata,NA,100% C16r,"Bijl et al., 2013",1 in mag_C16r,FO,NA,NA,36.351,-56.741789999999995
-1172,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,variecalamus,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,LO,NA,NA,59.098,-59.30156
-1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,delicata,NA,50% in C21n,"Bijl et al., 2013",0.5 in mag_C21r,LO,NA,NA,48.319,-57.384049999999995
-1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,delicata,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,pelagica,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,FO,NA,NA,56.30075,-58.686165
-1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,pelagica,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,apertura,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
-1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,roehliae,NA,50% C23n,"Bijl et al., 2013",0.5 in mag_C23n,LO,NA,NA,51.2455,-57.574009999999994
-1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,stickleyae,NA,100% C24r,"Bijl et al., 2013",1 in mag_C24r,FO,NA,NA,53.9,-58.158
-1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,articulata,NA,50% C23n,"Bijl et al., 2013",0.5 in mag_C23n,LO,NA,NA,51.2455,-57.574009999999994
-1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,samlandica,NA,50% C23n,"Bijl et al., 2013",0.5 in mag_C23n,LO,NA,NA,51.2455,-57.574009999999994
-1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,articulata,NA,75% C23r,"Bijl et al., 2013",0.75 in mag_C23r,FO,NA,NA,51.928,-57.72416
-1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,samlandica,NA,75% C23r,"Bijl et al., 2013",0.75 in mag_C23r,FO,NA,NA,51.928,-57.72416
-1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,echinosuturatum,NA,25% C20r,"Bijl et al., 2013",0.25 in mag_C20r,LO,NA,NA,45.53875,-57.523062499999995
-1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,echinosuturatum,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,FO,NA,NA,49.666,-57.3167
-1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,ornatum,NA,50% C22r,"Bijl et al., 2013",0.5 in mag_C22r,LO,NA,NA,50.216499999999996,-57.347629999999995
-1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,ornatum,NA,100% C24n.1r,"Bijl et al., 2013",1 in mag_C24n.1r,FO,NA,NA,52.93,-57.9446
-1172,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,waipawaense,NA,75% C22n,"Bijl et al., 2013",0.75 in mag_C22n,LO,NA,NA,49.075,-57.34625
-1172,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,waipawaense,NA,0% C24n,"Bijl et al., 2013",0 in mag_C24n,FO,NA,NA,53.9,-58.158
-1172,Protoperidiniaceae,all,Lejeunecysta,rotunda,NA,660 mbsf,"Bijl et al., 2021",0.51 in mag_C26r,LO,NA,NA,60.72709,-59.6381471
-1172,Protoperidiniaceae,all,Lejeunecysta,rotunda,NA,684 mbsf,"Bijl et al., 2021",0 in mag_C26r,FO,NA,NA,62.278,-59.93282
-1172,Goniodomaceae,all,Alisocysta,circumtabulata,NA,50% C31n,"Brinkhuis et al., 2003b",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
-1172,Peridiniaceae,Deflandreoideae,Cerodinium,medcalfii,NA,50% C26r,"Brinkhuis et al., 2003b",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
-1172,Peridiniaceae,Deflandreoideae,Cerodinium,striatum,NA,50% C30n,"Brinkhuis et al., 2003b",0.5 in mag_C30n,FO,NA,NA,67.27900000000001,-60.88301
-1172,Peridiniaceae,Deflandreoideae,Cerodinium,speciosum,NA,50% C30n,"Brinkhuis et al., 2003b",0.5 in mag_C30n,FO,NA,NA,67.27900000000001,-60.88301
-1172,Peridiniaceae,Deflandreoideae,Deflandrea,convexa,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
 1172,Goniodomaceae,all,Dinopterygium,cladoides,NA,100% C30,"Brinkhuis et al., 2003b",1 in mag_C30n,LO,NA,NA,66.38000000000001,-60.7122
-1172,Gonyaulacaceae,Cribroperidinioideae,Diphyes,colligerum,NA,25% C26r,"Brinkhuis et al., 2003b",0.25 in mag_C26r,FO,NA,NA,61.51775,-59.7883725
-1172,Goniodomaceae,all,Eisenackia,reticulata,NA,50% C31n,"Brinkhuis et al., 2003b",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
-1172,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,breva,NA,50% C28n,"Brinkhuis et al., 2003b",0.5 in mag_C28n,FO,NA,NA,64.091,-60.27729
-1172,Areoligeraceae,all,Glaphyrocysta,delicata,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Areoligeraceae,all,Glaphyrocysta,ordinata,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Areoligeraceae,all,Glaphyrocysta,pastielsii,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Goniodomaceae,all,Hystrichosphaeridium,truswelliae,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Goniodomaceae,all,Hystrichosphaeridium,tubiferum,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Ceratiaceae,all,Odontochitina,operculata,NA,50% C31n,"Brinkhuis et al., 2003b",0.5 in mag_C31n,LO,NA,NA,68.811,-61.17409
-1172,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,verrucosum,NA,50% C26r,"Brinkhuis et al., 2003b",0.5 in mag_C26r,LO,NA,NA,60.7575,-59.643925
-1172,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,pyrophorum,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Goniodomaceae,all,Polysphaeridium,subtile,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Areoligeraceae,all,Senoniasphaera,inornata,NA,50% C29n,"Brinkhuis et al., 2003b",0.5 in mag_C29n,FO,NA,NA,65.281,-60.50339
-1172,Peridiniaceae,Deflandreoideae,Spinidinium,schellenbergii,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,50% C26r,"Brinkhuis et al., 2003b",0.5 in mag_C26r,LO,NA,NA,60.7575,-59.643925
-1172,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,100% C29n,"Brinkhuis et al., 2003b",1 in mag_C29n,FO,NA,NA,64.862,-60.42378
-1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,apertura,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
-1172,Gonyaulacaceae,Cribroperidinioideae,Stoveracysta,kakanuiensis,NA,20% C13r,"Sluijs et al., 2003",0.2 in mag_C13r,FO,NA,NA,34.8268,-56.299772
-1172,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C28n,FO,NA,NA,64.091,-60.27729
-1172,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,alcicornu,NA,75% in C31r,"Bijl et al., 2021",0.75 in mag_C31r,FO,NA,NA,69.81600000000002,-61.36504
-1172,Goniodomaceae,all,Hystrichosphaeridium,tubiferum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,dispertitum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,xanthiopyxides,NA,80%in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Peridiniaceae,Deflandreoideae,Palaeocystodinium,australinum,NA,50% in C31n,"Bijl et al., 2021",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,crouchiae,NA,0% in C31n,"Bijl et al., 2021",0 in mag_C31n,FO,NA,NA,69.271000000000015,-61.26149
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,agremom,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,dispertitum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
-1172,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,druggii,NA,50% in C31n,"Bijl et al., 2021",0.5 in mag_C31n,LO,NA,NA,68.811,-61.17409
+1172,Peridiniaceae,Wetzelielloideae,Charlesdowniea,columna,NA,50% C22n,"Bijl et al., 2013",0.25 in mag_C22n,LO,NA,NA,49.468999999999994,-57.32655
+1172,Goniodomaceae,all,Alisocysta,chilensis,NA,50% in C31n,"Bijl et al., 2021",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
 1172,Areoligeraceae,all,Circulodinium,compactum,NA,75% in C31r,"Bijl et al., 2021",0.75 in mag_C31r,LO,NA,NA,69.81600000000002,-61.36504
 1172,Goniodomaceae,all,Alisocysta,circumtabulata,NA,0% in C31n,"Bijl et al., 2021",0 in mag_C31n,FO,NA,NA,69.271000000000015,-61.26149
-1172,Goniodomaceae,all,Alisocysta,reticulata,NA,0% in C31n,"Bijl et al., 2021",0 in mag_C31n,FO,NA,NA,69.271000000000015,-61.26149
-1172,Goniodomaceae,all,Alisocysta,margarita,NA,100% in C31n,"Bijl et al., 2021",1 in mag_C31n,FO,NA,NA,68.35100000000001,-61.086690000000004
-1172,Goniodomaceae,all,Alisocysta,chilensis,NA,50% in C31n,"Bijl et al., 2021",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
+1172,Peridiniaceae,Deflandreoideae,Deflandrea,convexa,NA,50% in C16r,"Bijl et al., 2013",0.5 in mag_C16r,LO,NA,NA,36.462,-56.77398
+1172,Gonyaulacaceae,Cribroperidinioideae,Diphyes,colligerum,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
+1172,Gonyaulacaceae,Cribroperidinioideae,Danea,crassimurata,NA,50% C21r,"Bijl et al., 2013",0.5 in mag_C21r,LO,NA,NA,48.319,-57.384049999999995
+1172,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,comatum,NA,100% C21n,"Bijl et al., 2013",1 in mag_C21n,FO,NA,NA,46.235,-57.488249999999994
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,crassimuratum,NA,100% in C22r,"Bijl et al., 2013",1 in mag_C22r,LO,NA,NA,49.666,-57.3167
+1172,Peridiniaceae,Deflandreoideae,Deflandrea,convexa,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Areoligeraceae,all,Glaphyrocysta,delicata,NA,100% C21n,"Bijl et al., 2013",1 in mag_C21n,LO,NA,NA,46.235,-57.488249999999994
+1172,Gonyaulacaceae,Gonyaulacoideae,Spiniferella,cornuta,NA,10% in C28n,"Bijl et al., 2021",0.1 in mag_C28n,FO,NA,NA,64.5342,-60.361498
+1172,Gonyaulacaceae,Cribroperidinioideae,Danea,crassimurata,NA,0% C22n,"Bijl et al., 2013",0 in mag_C22n,FO,NA,NA,49.666,-57.3167
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,crassimuratum,NA,50% C24r,"Bijl et al., 2013",0.5 in mag_C24r,FO,NA,NA,55.5005,-58.51011
+1172,Gonyaulacaceae,Cribroperidinioideae,Samlandia,delicata,NA,50% C22n,"Bijl et al., 2013",0.5 in mag_C22n,LO,NA,NA,49.272,-57.3364
+1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,delicata,NA,50% in C21n,"Bijl et al., 2013",0.5 in mag_C21r,LO,NA,NA,48.319,-57.384049999999995
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,crouchiae,NA,0% in C31n,"Bijl et al., 2021",0 in mag_C31n,FO,NA,NA,69.271000000000015,-61.26149
 1172,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,90% in C30n,"Bijl et al., 2021",0.9 in mag_C30n,LO,NA,NA,66.55980000000001,-60.746362
+1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,diversispinosum,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Areoligeraceae,all,Glaphyrocysta,delicata,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Peridiniaceae,Wetzelielloideae,Rhombodinium,draco,NA,50% C22n,"Bijl et al., 2013",0.5 in mag_C22n,LO,NA,NA,49.272,-57.3364
+1172,Gonyaulacaceae,Cribroperidinioideae,Samlandia,delicata,NA,50% C24r,"Bijl et al., 2013",0.5 in mag_C24r,FO,NA,NA,55.5005,-58.51011
+1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,delicata,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,druggii,NA,50% in C31n,"Bijl et al., 2021",0.5 in mag_C31n,LO,NA,NA,68.811,-61.17409
+1172,Cladopyxiaceae,all,Enneadocysta,dictyostila,NA,50% C21r,"Bijl et al., 2013",0.5 in mag_C21r,FO,NA,NA,48.319,-57.384049999999995
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,dispertitum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
+1172,Areoligeraceae,all,Glaphyrocysta,divaricata,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
+1172,Peridiniaceae,Deflandreoideae,Manumiella,druggii,NA,0% in C28n,"Bijl et al., 2021",0 in mag_C28n,LO,NA,NA,64.645,-60.38255
+1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,echinosuturatum,NA,25% C20r,"Bijl et al., 2013",0.25 in mag_C20r,LO,NA,NA,45.53875,-57.523062499999995
+1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,diversispinosum,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,FO,NA,NA,49.666,-57.3167
+1172,Peridiniaceae,Wetzelielloideae,Charlesdowniea,edwardsii,NA,0% C21r,"Bijl et al., 2013",0 in mag_C21r,LO,NA,NA,48.878,-57.3561
+1172,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,50% C26r,"Brinkhuis et al., 2003b",0.5 in mag_C26r,LO,NA,NA,60.7575,-59.643925
+1172,Areoligeraceae,all,Cassidium,filosum,NA,75% C25n,"Bijl et al., 2013",0.75 in mag_C25n,LO,NA,NA,57.23975,-58.892745
+1172,Order Gonyaulacales Family uncertain,uncertain,Minisphaeridium,latirictum,NA,0% C18r,"Bijl et al., 2013",0 in mag_C18r,LO,NA,NA,41.03,-57.7485
+1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,echinosuturatum,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,FO,NA,NA,49.666,-57.3167
+1172,Peridiniaceae,Wetzelielloideae,Charlesdowniea,edwardsii,NA,25% C22n,"Bijl et al., 2013",0.25 in mag_C22n,FO,NA,NA,49.468999999999994,-57.32655
+1172,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,100% C29n,"Brinkhuis et al., 2003b",1 in mag_C29n,FO,NA,NA,64.862,-60.42378
 1172,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,fibrospinosum,NA,100% C30n,"Bijl et al., 2021",1 in mag_C30n,FO,NA,NA,66.38000000000001,-60.7122
+1172,Gonyaulacaceae,other,Pyxidinopsis,meadensis,NA,10% in C28n,"Bijl et al., 2021",0.1 in mag_C28n,LO,NA,NA,64.5342,-60.361498
+1172,Gonyaulacaceae,Gonyaulacoideae,Hystrichostrogylon,membraniphorum,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Areoligeraceae,all,Cassidium,filosum,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
+1172,Cladopyxiaceae,all,Enneadocysta,multicornuta,NA,50% C15r,"Bijl et al., 2013",0.5 in mag_C15r,LO,NA,NA,35.458,-56.48282
+1172,Areoligeraceae,all,Cassidium,fragile,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
+1172,Areoligeraceae,all,Schematophora,obscura,NA,100% C18n,"Bijl et al., 2013",1 in mag_C18n,LO,NA,NA,38.398,-57.33542
+1172,Ceratiaceae,all,Odontochitina,operculata,NA,50% C31n,"Brinkhuis et al., 2003b",0.5 in mag_C31n,LO,NA,NA,68.811,-61.17409
+1172,Peridiniaceae,Wetzelielloideae,Apectodinium,homomorphum,NA,0% C25n,"Bijl et al., 2013",0 in mag_C25n,FO,NA,NA,57.656,-58.98432
+1172,Areoligeraceae,all,Senoniasphaera,inornata,NA,50% C29n,"Brinkhuis et al., 2003b",0.5 in mag_C29n,FO,NA,NA,65.281,-60.50339
+1172,Gonyaulacaceae,Cribroperidinioideae,Stoveracysta,kakanuiensis,NA,20% C13r,"Sluijs et al., 2003",0.2 in mag_C13r,FO,NA,NA,34.8268,-56.299772
+1172,Areoligeraceae,all,Glaphyrocysta,ordinata,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,LO,NA,NA,56.30075,-58.686165
+1172,Gonyaulacaceae,Gonyaulacoideae,Nematosphaeropsis,labyrinthus,NA,25% C23n,"Bijl et al., 2013",0.25 in mag_C23n,FO,NA,NA,51.48475,-57.626644999999996
+1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,ornatum,NA,50% C22r,"Bijl et al., 2013",0.5 in mag_C22r,LO,NA,NA,50.216499999999996,-57.347629999999995
+1172,Order Gonyaulacales Family uncertain,uncertain,Minisphaeridium,latirictum,NA,0% C18r,"Bijl et al., 2013",0 in mag_C18r,FO,NA,NA,41.03,-57.7485
+1172,Cladopyxiaceae,all,Histiocysta,palla,NA,25% C20r,"Bijl et al., 2013",0.25 in mag_C20r,LO,NA,NA,45.53875,-57.523062499999995
+1172,Gonyaulacaceae,Cribroperidinioideae,Lingulodinium,machaerophorum,NA,50% in C26r,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,parvireticulatum,NA,50% C15r,"Bijl et al., 2013",0.5 in mag_C15r,LO,NA,NA,35.458,-56.48282
+1172,Areoligeraceae,all,Glaphyrocysta,pastielsii,NA,40% in C24r,"Bijl et al., 2013",0.4 in mag_C24r,LO,NA,NA,55.8206,-58.580532
+1172,Peridiniaceae,Deflandreoideae,Spinidinium,macmurdoense,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,FO,NA,NA,56.30075,-58.686165
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
+1172,Goniodomaceae,all,Alisocysta,margarita,NA,100% in C31n,"Bijl et al., 2021",1 in mag_C31n,FO,NA,NA,68.35100000000001,-61.086690000000004
+1172,Peridiniaceae,Deflandreoideae,Cerodinium,medcalfii,NA,50% C26r,"Brinkhuis et al., 2003b",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Gonyaulacaceae,Gonyaulacoideae,Hystrichostrogylon,membraniphorum,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,FO,NA,NA,49.666,-57.3167
+1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,pelagica,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Cladopyxiaceae,all,Enneadocysta,multicornuta,NA,100% C21r,"Bijl et al., 2013",1 in mag_C21r,FO,NA,NA,47.76,-57.412
+1172,Protoperidiniaceae,all,Selenopemphix,nephroides,NA,0% C22n,"Bijl et al., 2013",0 in mag_C22n,FO,NA,NA,49.666,-57.3167
+1172,Goniodomaceae,all,Eocladopyxis,peniculata,NA,50% C13n,"Bijl et al., 2013",0.5 in mag_C13n,LO,NA,NA,33.47,-55.906299999999995
+1172,Areoligeraceae,all,Schematophora,obscura,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
+1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,polypetellum,NA,25% C22n,"Bijl et al., 2013",0.25 in mag_C23n,LO,NA,NA,51.48475,-57.626644999999996
 1172,Gonyaulacaceae,Gonyaulacoideae,Corrudinium,obscurum,NA,50% C30n,"Bijl et al., 2021",0.5 in mag_C30n,FO,NA,NA,67.27900000000001,-60.88301
 1172,Areoligeraceae,all,Glaphyrocysta,ordinata,NA,20% in C30n,"Bijl et al., 2021",0.2 in mag_C30n,FO,NA,NA,67.81840000000001,-60.985496
-1172,Areoligeraceae,all,Cassidium,fragile,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
-1172,Areoligeraceae,all,Cassidium,filosum,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
-1172,Order Gonyaulacales Family uncertain,uncertain,Cerebrocysta,bartonensis,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
-1172,Peridiniaceae,Deflandreoideae,Cerodinium,striatum,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
-1172,Gonyaulacaceae,Cribroperidinioideae,Diphyes,colligerum,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
-1172,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,breva,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
-1172,Gonyaulacaceae,other,Fibrocysta,bipolaris,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,pusillum,NA,50% C21r,"Bijl et al., 2013",0.5 in mag_C21r,LO,NA,NA,48.319,-57.384049999999995
+1172,Gonyaulacaceae,Cribroperidinioideae,Stoveracysta,ornata,NA,100% C16r,"Bijl et al., 2013",1 in mag_C16r,FO,NA,NA,36.351,-56.741789999999995
+1172,Peridiniaceae,Wetzelielloideae,Wilsonidinium,ornatum,NA,100% C24n.1r,"Bijl et al., 2013",1 in mag_C24n.1r,FO,NA,NA,52.93,-57.9446
+1172,Cladopyxiaceae,all,Histiocysta,palla,NA,25% C20r,"Bijl et al., 2013",0.25 in mag_C20r,FO,NA,NA,45.53875,-57.523062499999995
+1172,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,pyrophorum,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,LO,NA,NA,59.098,-59.30156
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,parvireticulatum,NA,75% C20r,"Bijl et al., 2013",0.75 in mag_C20r,FO,NA,NA,44.14625,-57.5926875
 1172,Areoligeraceae,all,Glaphyrocysta,pastielsii,NA,100% in C28n,"Bijl et al., 2021",1 in mag_C28n,FO,NA,NA,63.537,-60.17203
-1172,Areoligeraceae,all,Glaphyrocysta,divaricata,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
-1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,100% in C28n,"Bijl et al., 2021",1 in mag_C28n,FO,NA,NA,63.537,-60.17203
-1172,Gonyaulacaceae,Cribroperidinioideae,Lingulodinium,machaerophorum,NA,50% in C26r,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
-1172,Peridiniaceae,Deflandreoideae,Manumiella,druggii,NA,0% in C28n,"Bijl et al., 2021",0 in mag_C28n,LO,NA,NA,64.645,-60.38255
+1172,Gonyaulacaceae,Cribroperidinioideae,Thalassiphora,pelagica,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,FO,NA,NA,56.30075,-58.686165
+1172,Gonyaulacaceae,Gonyaulacoideae,Corrudinium,regulare,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Gonyaulacaceae,Cribroperidinioideae,Florentinia,reichartii,NA,30% C24r,"Bijl et al., 2013",0.3 in mag_C24r,LO,NA,NA,56.140699999999995,-58.650954
+1172,Goniodomaceae,all,Eisenackia,reticulata,NA,50% C24n.3n,"Bijl et al., 2013",0.5 in mag_C24n.3n,LO,NA,NA,53.575,-58.0865
+1172,Areoligeraceae,all,Glaphyrocysta,retiintexta,NA,100% C22r,"Bijl et al., 2013",1 in mag_C22r,LO,NA,NA,49.666,-57.3167
+1172,Goniodomaceae,all,Eocladopyxis,peniculata,NA,100% C21r,"Bijl et al., 2013",1 in mag_C21r,FO,NA,NA,47.76,-57.412
+1172,Areoligeraceae,all,Membranophoridium,perforatum,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
+1172,Order Gonyaulacales Family uncertain,uncertain,Cleistosphaeridium,polypetellum,NA,0% C24n,"Bijl et al., 2013",0 in mag_C24n,FO,NA,NA,53.9,-58.158
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,pusillum,NA,0% C21r,"Bijl et al., 2013",0 in mag_C21r,FO,NA,NA,48.878,-57.3561
 1172,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,pyrophorum,NA,90% in C30n,"Bijl et al., 2021",0.9 in mag_C30n,FO,NA,NA,66.55980000000001,-60.746362
-1172,Gonyaulacaceae,other,Pyxidinopsis,meadensis,NA,10% in C28n,"Bijl et al., 2021",0.1 in mag_C28n,LO,NA,NA,64.5342,-60.361498
-1172,Peridiniaceae,Deflandreoideae,Senegalinium,bicavatum,NA,10% in C28n,"Bijl et al., 2021",0.1 in mag_C28n,FO,NA,NA,64.5342,-60.361498
-1172,Gonyaulacaceae,Gonyaulacoideae,Spiniferella,cornuta,NA,10% in C28n,"Bijl et al., 2021",0.1 in mag_C28n,FO,NA,NA,64.5342,-60.361498
+1172,Peridiniaceae,Wetzelielloideae,Dracodinium,rhomboideum,NA,25% C18n,"Bijl et al., 2013",0.25 in mag_C18n,LO,NA,NA,39.654250000000005,-57.699732499999996
+1172,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,pyrophorum,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C28n,FO,NA,NA,64.091,-60.27729
+1172,Gonyaulacaceae,Gonyaulacoideae,Corrudinium,regulare,NA,50% C22n,"Bijl et al., 2013",0.5 in mag_C22n,FO,NA,NA,49.272,-57.3364
+1172,Gonyaulacaceae,Cribroperidinioideae,Florentinia,reichartii,NA,25% C24r,"Bijl et al., 2013",0.25 in mag_C24r,FO,NA,NA,56.30075,-58.686165
+1172,Goniodomaceae,all,Alisocysta,reticulata,NA,0% in C31n,"Bijl et al., 2021",0 in mag_C31n,FO,NA,NA,69.271000000000015,-61.26149
+1172,Goniodomaceae,all,Eisenackia,reticulata,NA,50% C31n,"Brinkhuis et al., 2003b",0.5 in mag_C31n,FO,NA,NA,68.811,-61.17409
+1172,Areoligeraceae,all,Glaphyrocysta,retiintexta,NA,75% C24r,"Bijl et al., 2013",0.75 in mag_C24r,FO,NA,NA,54.70025,-58.334055
+1172,Peridiniaceae,Wetzelielloideae,Dracodinium,rhomboideum,NA,25% C18n,"Bijl et al., 2013",0.25 in mag_C18n,FO,NA,NA,39.654250000000005,-57.699732499999996
+1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,roehliae,NA,50% C23n,"Bijl et al., 2013",0.5 in mag_C23n,LO,NA,NA,51.2455,-57.574009999999994
+1172,Protoperidiniaceae,all,Lejeunecysta,rotunda,NA,660 mbsf,"Bijl et al., 2021",0.51 in mag_C26r,LO,NA,NA,60.72709,-59.6381471
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,rigaudiae,NA,C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
+1172,Protoperidiniaceae,all,Lejeunecysta,rotunda,NA,684 mbsf,"Bijl et al., 2021",0 in mag_C26r,FO,NA,NA,62.278,-59.93282
+1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,samlandica,NA,75% C23r,"Bijl et al., 2013",0.75 in mag_C23r,FO,NA,NA,51.928,-57.72416
+1172,Peridiniaceae,Wetzelielloideae,Wetzeliella,samlandica,NA,50% C23n,"Bijl et al., 2013",0.5 in mag_C23n,LO,NA,NA,51.2455,-57.574009999999994
 1172,Peridiniaceae,Deflandreoideae,Spinidinium,schellenbergii,NA,33% in C26r,"Bijl et al., 2021",0.33 in mag_C26r,FO,NA,NA,61.27447,-59.7421493
-1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,apertura,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
+1172,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,0% C18n.1r,"Bijl et al., 2013",0 in mag_C18n.1r,FO,NA,NA,39.666,-57.70314
+1172,Areoligeraceae,all,Areoligera,senonensis,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Gonyaulacaceae,Cribroperidinioideae,Samlandia,septata,NA,100% C24n.2r,"Bijl et al., 2013",1 in mag_C24n.2r,FO,NA,NA,53.12,-57.986399999999996
+1172,Protoperidiniaceae,all,Brigantedinium,simplex,NA,25% C15r,"Bijl et al., 2013",0.25 in mag_C15r,FO,NA,NA,35.519,-56.50051
+1172,Areoligeraceae,all,Schematophora,speciosa,NA,50% C16n,"Bijl et al., 2013",0.5 in mag_C16n,FO,NA,NA,35.9655,-56.629994999999994
+1172,Areoligeraceae,all,Glaphyrocysta,semitecta,NA,100% C18n,"Bijl et al., 2013",1 in mag_C18n,LO,NA,NA,38.398,-57.33542
+1172,Peridiniaceae,Deflandreoideae,Cerodinium,speciosum,NA,50% C30n,"Brinkhuis et al., 2003b",0.5 in mag_C30n,FO,NA,NA,67.27900000000001,-60.88301
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,spinosum,NA,C23n,"Bijl et al., 2013",0.5 in mag_C23n,FO,NA,NA,51.2455,-57.574009999999994
+1172,Gonyaulacaceae,Leptodinioideae,Lophocysta,spp.,NA,100% C19r,"Bijl et al., 2013",1 in mag_C19r,FO,NA,NA,41.18,-57.741
 1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,stickleyae,NA,50% in C28n,"Bijl et al., 2021",0.5 in mag_C26r,FO,NA,NA,60.7575,-59.643925
-1172,Peridiniaceae,Deflandreoideae,Vozzhennikovia,angulata,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
+1172,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,stockmansii,NA,50% C25n,"Bijl et al., 2013",0.5 in mag_C25n,FO,NA,NA,57.3785,-58.92327
+1172,Peridiniaceae,Deflandreoideae,Cerodinium,striatum,NA,10% in C26r,"Bijl et al., 2021",0.1 in mag_C26r,FO,NA,NA,61.9739,-59.875041
+1172,Areoligeraceae,all,Areoligera,senonensis,NA,0% C21r,"Bijl et al., 2013",0 in mag_C21r,LO,NA,NA,48.878,-57.3561
+1172,Peridiniaceae,Deflandreoideae,Cerodinium,striatum,NA,50% C30n,"Brinkhuis et al., 2003b",0.5 in mag_C30n,FO,NA,NA,67.27900000000001,-60.88301
+1172,Gonyaulacaceae,Leptodinioideae,Lophocysta,spp.,NA,50% C18n.1n,"Bijl et al., 2013",0.5 in mag_C18n.1n,LO,NA,NA,38.99,-57.5071
+1172,Goniodomaceae,all,Polysphaeridium,subtile,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Goniodomaceae,all,Homotryblium,tasmaniense,NA,C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
+1172,Goniodomaceae,all,Polysphaeridium,subtile,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Goniodomaceae,all,Homotryblium,tasmaniense,NA,0% C20r,"Bijl et al., 2013",0 in mag_C20r,LO,NA,NA,46.235,-57.488249999999994
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,50% C17r,"Bijl et al., 2013",0.5 in mag_C17r,LO,NA,NA,38.23950000000001,-57.289455
+1172,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,100% in C28n,"Bijl et al., 2021",1 in mag_C28n,FO,NA,NA,63.537,-60.17203
+1172,Goniodomaceae,all,Hystrichosphaeridium,truswelliae,NA,50% C26n,"Brinkhuis et al., 2003b",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Goniodomaceae,all,Hystrichosphaeridium,tubiferum,NA,80% in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
+1172,Goniodomaceae,all,Hystrichosphaeridium,truswelliae,NA,0% C17n,"Bijl et al., 2013",0 in mag_C17n,LO,NA,NA,38.081,-57.24349
+1172,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,variecalamus,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,LO,NA,NA,59.098,-59.30156
+1172,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,victorianum,NA,25% C23r,"Bijl et al., 2013",0.25 in mag_C23r,FO,NA,NA,52.336,-57.813919999999996
+1172,Peridiniaceae,Wetzelielloideae,Dracodinium,waipawaense,NA,50% C24n,"Bijl et al., 2013",0.5 in mag_C24n,FO,NA,NA,53.22,-58.008399999999995
+1172,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,verrucosum,NA,50% C26r,"Brinkhuis et al., 2003b",0.5 in mag_C26r,LO,NA,NA,60.7575,-59.643925
+1172,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,waipawaense,NA,0% C24n,"Bijl et al., 2013",0 in mag_C24n,FO,NA,NA,53.9,-58.158
+1172,Peridiniaceae,Wetzelielloideae,Dracodinium,waipawaense,NA,50% C22r,"Bijl et al., 2013",0.5 in mag_C22r,LO,NA,NA,50.216499999999996,-57.347629999999995
+1172,Order Gonyaulacales Family uncertain,uncertain,Cerebrocysta,waipawaensis,NA,50% C26n,"Bijl et al., 2013",0.5 in mag_C26n,FO,NA,NA,59.098,-59.30156
+1172,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,waipawaense,NA,75% C22n,"Bijl et al., 2013",0.75 in mag_C22n,LO,NA,NA,49.075,-57.34625
+1172,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,xanthiopyxides,NA,80%in C31r,"Bijl et al., 2021",0.8 in mag_C31r,FO,NA,NA,69.70700000000002,-61.34433
 U1356A,Order Gonyaulacales Family uncertain,uncertain,Reticulatosphaera,actinocoronata,NA,0% in Oi1,"Bijl et al., 2013",0 in iso_Oi1,FO,NA,NA,33.91,-57.909
 U1356A,Gonyaulacaceae,Gonyaulacoideae,Ataxiodinium,choane,NA,60% in C13n,"Bijl et al., 2018",0.6 in mag_C13n,FO,NA,NA,33.4188,-57.95812
 U1356A,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,compta,NA,70% C13n,"Bijl et al., 2018",0.7 in mag_C13n,LO,NA,NA,33.367599999999996,-57.96324
@@ -3167,7 +3154,6 @@ Mossy Grove,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,inodes,NA,100% 
 646,Gonyaulacaceae,Cribroperidinioideae,Lingulodinium,machaerophorum,NA,50% CN9b,"Head et al., 1989",0.5 in nan_c_CN9b,LO,NA,NA,7.135,55.92253
 646,Gonyaulacaceae,other,Melitasphaeridium,choanophorum,NA,50% NN12,"Head et al., 1989",0.5 in nan_n_NN12,LO,NA,NA,5.305,56.51179
 646,Gonyaulacaceae,Gonyaulacoideae,Nematosphaeropsis,labyrinthus,NA,45% CN9a,"Head et al., 1989",0.45 in nan_c_CN9a,FO,NA,NA,7.912,55.672336
-646,Gonyaulacaceae,Gonyaulacoideae,Nematosphaeropsis,labyrinthus,NA,40% CN9b,"Head et al., 1989",0.4 in nan_c_CN9b,LO,NA,NA,7.198,55.902243999999996
 646,Gonyaulacaceae,Gonyaulacoideae,Nematosphaeropsis,major,NA,40% NN10,"Head et al., 1989",0.4 in nan_n_NN10,LO,NA,NA,9.081999999999999,55.295596
 646,Gonyaulacaceae,Cribroperidinioideae,Operculodinium,centrocarpum,NA,50% NN10,"Head et al., 1989",0.5 in nan_n_NN10,FO,NA,NA,8.95,55.3381
 646,Gonyaulacaceae,Cribroperidinioideae,Operculodinium,eirikianum,NA,50% NN10,"Head et al., 1989",0.5 in nan_n_NN10,FO,NA,NA,8.95,55.3381
@@ -3823,7 +3809,7 @@ Jylland,Order Gonyaulacales Family uncertain,uncertain,Reticulatosphaera,actinoc
 913,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,cinctum,NA,100% C17n.1n,"Firth, 1996",1 in mag_C17n.1n,LO,NA,NA,36.573,66.15675
 913,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,rigaudiae,NA,0% C19n,"Firth, 1996",0 in mag_C19n,FO,NA,NA,41.18,64.7808
 913,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,cinctum,NA,0% C19r,"Firth, 1996",0 in mag_C19r,FO,NA,NA,42.196,64.33376
-913,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,25% C15n,"Firth, 1996",0.25 in mag_C15n,LO,NA,NA,35.277499999999996,66.480625
+913,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,25% C15n,"Firth, 1996",0.25 in mag_C15n,FO,NA,NA,35.277499999999996,66.480625
 913,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,50% C18n.1r,"Firth, 1996",0.5 in mag_C18n.1r,LO,NA,NA,39.623999999999995,65.394
 913,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,0% C19r,"Firth, 1996",0 in mag_C19r,FO,NA,NA,42.196,64.33376
 913,Gonyaulacaceae,Cribroperidinioideae,Lingulodinium,machaerophorum,NA,75% C19r,"Firth, 1996",0.75 in mag_C19r,FO,NA,NA,41.434,64.66904
@@ -4571,7 +4557,7 @@ Scotian Margin,Gonyaulacaceae,Gonyaulacoideae,Spiniferites,ovatus,NA,50% between
 647,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,pallidum,NA,50% NP13,"Head and Norris, 1989",0.5 in nan_n_NP13,FO,NA,NA,49.722815,42.355437
 647,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,0% NP21,"Head and Norris, 1989",0 in nan_n_NP21,FO,NA,NA,34.44,45.24250000000001
 647,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,pallidum,NA,100% NP23,"Head and Norris, 1989",1 in nan_n_NP23,LO,NA,NA,27.133300000000002,46.591434285714286
-647,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,100% NP23,"Head and Norris, 1989",1 in nan_n_NP23,LO,NA,NA,27.133300000000002,46.591434285714286
+647,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,100% NP23,"Head and Norris, 1989",1 in nan_n_NP23,FO,NA,NA,27.133300000000002,46.591434285714286
 647,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,brooksii,NA,100% NP15,"Head and Norris, 1989",1 in nan_n_NP15,LO,NA,NA,43.3873,43.56488125
 647,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,comatum,NA,100% NP22,"Head and Norris, 1989",1 in nan_n_NP22,LO,NA,NA,32.02,45.69625
 647,Peridiniaceae,Palaeoperidinioideae,Phthanoperidinium,brooksii,NA,50% NP15,"Head and Norris, 1989",0.5 in nan_n_NP15,FO,NA,NA,45.05515,43.252159375000005
@@ -6298,199 +6284,197 @@ Arctic,misc,misc,Sverdrupiella,mutabilis,NA,0% Hettangian,"Mangerud et al., 2020
 Arctic,misc,misc,Sverdrupiella,ornaticingulata,NA,0% Hettangian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,56.35666666666667
 Arctic,misc,misc,Sverdrupiella,raiaformis,NA,0% Hettangian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,56.35666666666667
 Arctic,misc,misc,Sverdrupiella,septentrionalis,NA,0% Hettangian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,56.35666666666667
-748,Peridiniaceae,Deflandreoideae,Abratopdinium,cardioforme,NA,25% CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
-748,Peridiniaceae,Deflandreoideae,Abratopdinium,kerguelense,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
-748,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
-748,Peridiniaceae,Deflandreoideae,Alterbidinium,minus,NA,60% in CC24,"Mao and Mohr, 1992",0.6 in nan_n_CC24,LO,NA,NA,70.98460000000001,-62.017545999999996
-748,Gonyaulacaceae,other,Amphorosphaeridium,fenestratum,NA,30% CC24,"Mao and Mohr, 1992",0.3 in nan_n_CC24,FO,NA,NA,71.61580000000001,-61.708257999999994
-748,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,maculatum,NA,33% CC22,"Mao and Mohr, 1992",0.33 in nan_n_CC22,FO,NA,NA,76.46464280000001,-59.332325028
-748,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,maculatum,maculatum,40% in CC23,"Mao and Mohr, 1992",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
-748,Areoligeraceae,all,Areoligera,coronata,NA,10% CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,FO,NA,NA,76.674366,-59.22956066
-748,Areoligeraceae,all,Areoligera,senonensis,NA,80% in CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,LO,NA,NA,72.968342,-61.045512419999994
-748,Peridiniaceae,Deflandreoideae,Bulbodinium,seitzii,NA,40% in CC23,"Mao and Mohr, 1992",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
-748,Areoligeraceae,all,Canningia,reticulata,NA,75% in CC23,"Mao and Mohr, 1992",0.75 in nan_n_CC23,LO,NA,NA,73.14867750000002,-60.95714802499999
-748,Gonyaulacaceae,Gonyaulacoideae,Cannosphaeropsis,utinensis,NA,20% CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,FO,NA,NA,71.82620000000001,-61.60516199999999
-748,Gonyaulacaceae,Gonyaulacoideae,Cannosphaeropsis,utinensis,NA,40% in CC24,"Mao and Mohr, 1992",0.4 in nan_n_CC24,LO,NA,NA,71.40540000000001,-61.811353999999994
-748,Peridiniaceae,Deflandreoideae,Chatangiella,biapertura,NA,50% in CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Peridiniaceae,Deflandreoideae,Chatangiella,ditissima,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Chatangiella,ditissima,NA,55% in CC22,"Mao and Mohr, 1992",0.55 in nan_n_CC22,LO,NA,NA,76.264038,-59.43062138
-748,Peridiniaceae,Deflandreoideae,Chatangiella,granulifera,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Chatangiella,granulifera,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
-748,Peridiniaceae,Deflandreoideae,Chatangiella,spectabilis,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Chatangiella,spectabilis,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
-748,Peridiniaceae,Deflandreoideae,Chatangiella,tripartita,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Chatangiella,verrucosa,NA,25% CC22,"Mao and Mohr, 1992",0.25 in nan_n_CC22,FO,NA,NA,76.53759000000001,-59.296580899999995
-748,Peridiniaceae,Deflandreoideae,Chatangiella,verrucosa,NA,60% in CC23,"Mao and Mohr, 1992",0.6 in nan_n_CC23,LO,NA,NA,73.68968400000001,-60.69205483999999
-748,Peridiniaceae,Deflandreoideae,Chatangiella,victoriensis,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Chatangiella,victoriensis,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
-748,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,nyei,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
-748,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,discreta,NA,20% in CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,LO,NA,NA,71.82620000000001,-61.60516199999999
-748,Areoligeraceae,all,Circulodinium,kukebaiense,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
-748,Areoligeraceae,all,Circulodinium,kukebaiense,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
-748,Areoligeraceae,all,Cyclonephelium,hughesii,NA,10% CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,FO,NA,NA,76.674366,-59.22956066
-748,Areoligeraceae,all,Cyclonephelium,hughesii,NA,20% in CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,LO,NA,NA,76.58318200000001,-59.274240819999996
-748,Areoligeraceae,all,Cyclonephelium,paucimarginatum,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
-748,Areoligeraceae,all,Cyclonephelium,brevispinatum,NA,35% in CC23,"Mao and Mohr, 1992",0.35 in nan_n_CC23,LO,NA,NA,74.5913615,-60.250232865
-748,Areoligeraceae,all,Cyclonephelium,compactum,NA,40% in CC23,"Mao and Mohr, 1992",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
-748,Areoligeraceae,all,Cyclonephelium,paucimarginatum,NA,50% in CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Areoligeraceae,all,Cyclonephelium,longispinosum,NA,80% in CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,LO,NA,NA,72.968342,-61.045512419999994
-748,Peridiniaceae,Palaeoperidinioideae,Diconodinium,psilatum,NA,33% CC24,"Mao and Mohr, 1992",0.33 in nan_n_CC24,LO,NA,NA,71.55268000000001,-61.7391868
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,albertii,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,albertii,NA,95% CC22,"Mao and Mohr, 1992",0.95 in nan_n_CC22,FO,NA,NA,75.899302,-59.60934202
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,digitus,NA,10% CC23,"Mao and Mohr, 1992",0.1 in nan_n_CC23,LO,NA,NA,75.49303900000001,-59.80841089
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,undulosum,NA,50% CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,FO,NA,NA,74.05035500000001,-60.51532605
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,undulosum,NA,50% in CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,longicorne,NA,10% in CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,LO,NA,NA,72.03660000000002,-61.50206599999999
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,westralium,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Order Gonyaulacales Family uncertain,uncertain,Downiesphaeridium,flexuosum,NA,60% in CC23,"Mao and Mohr, 1992",0.6 in nan_n_CC23,LO,NA,NA,73.68968400000001,-60.69205483999999
-748,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,druggii,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
-748,Peridiniaceae,Deflandreoideae,Eucladinium,gambangense,NA,50% CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,FO,NA,NA,74.05035500000001,-60.51532605
-748,Peridiniaceae,Deflandreoideae,Eucladinium,gambangense,NA,60% in CC24,"Mao and Mohr, 1992",0.6 in nan_n_CC24,LO,NA,NA,70.98460000000001,-62.017545999999996
-748,Peridiniaceae,Deflandreoideae,Eucladinium,madurense,NA,67% in CC23,"Mao and Mohr, 1992",0.67 in nan_n_CC23,LO,NA,NA,73.43721430000001,-60.815764992999995
-748,Peridiniaceae,Deflandreoideae,Eucladinium,spinossissum,NA,10% CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,FO,NA,NA,76.674366,-59.22956066
-748,Peridiniaceae,Deflandreoideae,Eurydinium,eyrense,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Eurydinium,eyrense,NA,40% in CC22,"Mao and Mohr, 1992",0.4 in nan_n_CC22,LO,NA,NA,76.40081400000001,-59.36360113999999
-748,Peridiniaceae,Deflandreoideae,Eurydinium,ingramii,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
-748,Peridiniaceae,Deflandreoideae,Eurydinium,ingramii,NA,20% in CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,LO,NA,NA,71.82620000000001,-61.60516199999999
-748,Peridiniaceae,Deflandreoideae,Eurydinium,tempestivum,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
-748,Peridiniaceae,Deflandreoideae,Eurydinium,tempestivum,NA,75% in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
-748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,arnace,NA,20% CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,FO,NA,NA,71.82620000000001,-61.60516199999999
-748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,arnace,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,multifurcatum,NA,65% in CC23,"Mao and Mohr, 1992",0.65 in nan_n_CC23,LO,NA,NA,73.50934850000002,-60.78041923499999
-748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,phragmites,NA,0% CC23,"Mao and Mohr, 1992",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
-748,Gonyaulacaceae,Cribroperidinioideae,Florentinia,mantellii,NA,10% in CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,LO,NA,NA,76.674366,-59.22956066
-748,misc,misc,Fromea,chytra,NA,10% CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,LO,NA,NA,72.03660000000002,-61.50206599999999
-748,misc,misc,Gymnodinium,longicorne,NA,95% CC22,"Mao and Mohr, 1992",0.95 in nan_n_CC22,FO,NA,NA,75.899302,-59.60934202
-748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,conjunctum,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
-748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,cordiforme,NA,80% CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,FO,NA,NA,72.968342,-61.045512419999994
-748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,cordiforme,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
-748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,heteracanthum,NA,75% in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
-748,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,pulchrum,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,cristatum,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,90% CC22,"Mao and Mohr, 1992",0.9 in nan_n_CC22,LO,NA,NA,75.944894,-59.58700194
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,bakeri,NA,55% in CC24,"Mao and Mohr, 1992",0.55 in nan_n_CC24,LO,NA,NA,71.08980000000001,-61.96599799999999
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,korojonense,NA,75%in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,thomasii,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,granulatum,NA,30% CC24,"Mao and Mohr, 1992",0.3 in nan_n_CC24,FO,NA,NA,71.61580000000001,-61.708257999999994
-748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,granulatum,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,helbyi,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
-748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,ringnesiorum,NA,0% CC23,"Mao and Mohr, 1992",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
-748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,ringnesiorum,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Gonyaulacaceae,other,Kiokansium,unituberculatum,NA,40% CC22,"Mao and Mohr, 1992",0.4 in nan_n_CC22,LO,NA,NA,76.40081400000001,-59.36360113999999
-748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,arcticum,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
-748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,williamsii,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
-748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,arcticum,NA,50% CC22,"Mao and Mohr, 1992",0.5 in nan_n_CC22,FO,NA,NA,76.30963,-59.4082813
-748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,williamsii,NA,100% in CC23,"Mao and Mohr, 1992",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
-748,Peridiniaceae,other,Leberidocysta,chlamydata,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Peridiniaceae,other,Maduradinium,pentagonum,NA,85% in CC23,"Mao and Mohr, 1992",0.85 in nan_n_CC23,LO,NA,NA,72.78800650000001,-61.133876814999994
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,oviformis,0% CC23,"Mao and Mohr, 1992",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,oviformis,75% in CC23,"Mao and Mohr, 1992",0.75 in nan_n_CC23,LO,NA,NA,73.14867750000002,-60.95714802499999
-748,Cladopyxiaceae,all,Microdinium,ornatum,NA,75% in CC23,"Mao and Mohr, 1992",0.75 in nan_n_CC23,LO,NA,NA,73.14867750000002,-60.95714802499999
-748,Ceratiaceae,all,Odontochitina,cribropoda,NA,100% in CC23,"Mao and Mohr, 1992",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
-748,Ceratiaceae,all,Odontochitina,operculata,NA,95% in CC23,"Mao and Mohr, 1992",0.95 in nan_n_CC23,LO,NA,NA,72.42733550000001,-61.31060560499999
-748,Ceratiaceae,all,Odontochitina,porifera,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
-748,Ceratiaceae,all,Odontochitina,porifera,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
-748,Ceratiaceae,all,Odontochitina,spinosa,NA,95% CC24,"Mao and Mohr, 1992",0.95 in nan_n_CC24,LO,NA,NA,70.24820000000001,-62.378381999999995
-748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,pulcherrimum,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
-748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
-748,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,parvum,NA,70% in CC22,"Mao and Mohr, 1992",0.7 in nan_n_CC22,LO,NA,NA,76.127262,-59.49764162
-748,Peridiniaceae,Deflandreoideae,Pierceites,schizocystus,NA,55% in CC23,"Mao and Mohr, 1992",0.55 in nan_n_CC23,LO,NA,NA,73.87001950000001,-60.603690445
-748,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,cingulatum,cingulatum,10% in CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,LO,NA,NA,72.03660000000002,-61.50206599999999
-748,Peridiniaceae,Deflandreoideae,Satyrodinium,haumuriense,NA,10% CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,FO,NA,NA,72.03660000000002,-61.50206599999999
-748,Peridiniaceae,Deflandreoideae,Satyrodinium,haumuriense,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
-748,Gonyaulacaceae,other,Sepispinula,huguoniotti,NA,80% CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,FO,NA,NA,72.968342,-61.045512419999994
-748,Peridiniaceae,Deflandreoideae,Spinidinium,clavus,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Spinidinium,lanterna,NA,80% in CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,LO,NA,NA,76.036078,-59.54232178
-748,Peridiniaceae,Deflandreoideae,Spinidinium,uncinatum,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
-748,Peridiniaceae,Deflandreoideae,Spinidinium,clavus,NA,10%v in CC23,"Mao and Mohr, 1992",0.1 in nan_n_CC23,LO,NA,NA,75.49303900000001,-59.80841089
-748,Peridiniaceae,Deflandreoideae,Spinidinium,uncinatum,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
-748,Peridiniaceae,Palaeoperidinioideae,Subtilisphaera,perlucida,NA,90% in CC23,"Mao and Mohr, 1992",0.9 in nan_n_CC23,LO,NA,NA,72.60767100000001,-61.22224120999999
-748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,variecalamus,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,xanthiopyxides,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
-748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,variecalamus,NA,20% in CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,LO,NA,NA,71.82620000000001,-61.60516199999999
-748,Gonyaulacaceae,other,Trichodinium,castanea,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Gonyaulacaceae,other,Trichodinium,castanea,NA,75% in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
-748,Gonyaulacaceae,other,Trichodinium,fragile,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,70% in CC24,"Mao and Mohr, 1992",0.7 in nan_n_CC24,LO,NA,NA,70.77420000000001,-62.120642
-748,Peridiniaceae,Deflandreoideae,Abratopdinium,kerguelense,NA,25% in A.p. expansa,"Mohr and Mao, 1997",0.25 in nan_e_Broinsonia parca expansa,FO,NA,NA,87.689005,-57.21554975
-748,Peridiniaceae,Deflandreoideae,Abratopdinium,cardioforme,NA,60% in A.p. expansa,"Mohr and Mao, 1997",0.6 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.167612,-57.3416194
-748,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,67% in C. costatum,"Mohr and Mao, 1997",0.05 in stage_Campanian,FO,NA,NA,83.07600000000001,-57.446200000000005
-748,Peridiniaceae,Deflandreoideae,Alterbidinium,acutulum,NA,0% in N. watkinsii,"Mohr and Mao, 1997",0.8 in nan_n_CC23,FO,NA,NA,72.968342,-61.045512419999994
-748,Peridiniaceae,Deflandreoideae,Alterbidinium,minus,NA,20% in C. costatum,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
-748,Peridiniaceae,Deflandreoideae,Amphidiadema,denticulata,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Peridiniaceae,Deflandreoideae,Amphidiadema,denticulata,NA,20% in C. costata,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
-748,Areoligeraceae,all,Areoligera,senonensis,NA,20% in C. costata,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
-748,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,reticulata,NA,50% in A.p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
-748,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,reticulata,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Peridiniaceae,Deflandreoideae,Bulbodinium,seitzii,NA,33% in A.p. expansa,"Mohr and Mao, 1997",0.33 in nan_e_Broinsonia parca expansa,FO,NA,NA,87.1126866,-57.24436567
-748,Areoligeraceae,all,Canningia,reticulata,NA,100% in A.p. expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
-748,Areoligeraceae,all,Canningia,senonica,NA,60% in C. costatum,"Mohr and Mao, 1997",0.1 in stage_Campanian,FO,NA,NA,82.50200000000001,-57.4749
-748,Areoligeraceae,all,Canningia,senonica,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Gonyaulacaceae,Gonyaulacoideae,Cannosphaeropsis,utinensis,NA,15% in CC22,"Mohr and Mao, 1997",0.15 in nan_n_CC22,FO,NA,NA,76.628774,-59.251900739999996
-748,Gonyaulacaceae,Gonyaulacoideae,Cannosphaeropsis,utinensis,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,LO,NA,NA,75.85371,-59.6316821
-748,Order Gonyaulacales Family uncertain,uncertain,Cassiculosphaeridia,reticulata,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
-748,Order Gonyaulacales Family uncertain,uncertain,Cassiculosphaeridia,reticulata,NA,50% in CC24,"Mohr and Mao, 1997",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
-748,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,60% in CC22,"Mohr and Mao, 1997",0.6 in nan_n_CC22,FO,NA,NA,76.218446,-59.45296146
-748,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,25% in CC23,"Mohr and Mao, 1997",0.25 in nan_n_CC23,LO,NA,NA,74.9520325,-60.073504075
-748,Peridiniaceae,Deflandreoideae,Chatangiella,serratula,NA,60% in C. costatum,"Mohr and Mao, 1997",0.1 in stage_Campanian,FO,NA,NA,82.50200000000001,-57.4749
-748,Peridiniaceae,Deflandreoideae,Chatangiella,serratula,NA,25% in CC23,"Mohr and Mao, 1997",0.25 in nan_n_CC23,LO,NA,NA,74.9520325,-60.073504075
-748,Peridiniaceae,Deflandreoideae,Chatangiella,tripartita,NA,0% CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,LO,NA,NA,76.76555,-59.1848805
-748,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,nyei,NA,60% in C. costatum,"Mohr and Mao, 1997",0.1 in stage_Campanian,FO,NA,NA,82.50200000000001,-57.4749
-748,Areoligeraceae,all,Circulodinium,colliveri,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,LO,NA,NA,75.85371,-59.6316821
-748,Areoligeraceae,all,Circulodinium,distinctum,NA,100% in CC23,"Mohr and Mao, 1997",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
-748,Areoligeraceae,all,Cyclonephelium,brevispinatum,NA,50% in A.p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
-748,Areoligeraceae,all,Cyclonephelium,crassimarginatum,NA,58% Campanian,"Mohr and Mao, 1997",0.58 in stage_Campanian,LO,NA,NA,76.9916,-59.074116
-748,Peridiniaceae,Palaeoperidinioideae,Diconodinium,psilatum,NA,100% in CC22,"Mohr and Mao, 1997",1 in nan_n_CC22,FO,NA,NA,75.85371,-59.6316821
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,digitus,NA,75% in A.p. expansa,"Mohr and Mao, 1997",0.75 in nan_e_Broinsonia parca expansa,FO,NA,NA,84.08701500000001,-57.39564925
-748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,westralium,NA,15% in C. costatum,"Mohr and Mao, 1997",0.9 in stage_Santonian,FO,NA,NA,83.855,-57.407250000000005
-748,Order Gonyaulacales Family uncertain,uncertain,Downiesphaeridium,armatum,NA,0% in CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Order Gonyaulacales Family uncertain,uncertain,Downiesphaeridium,armatum,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,druggii,NA,0% in CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Eucladinium,madurense,NA,100% in A.p. expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
-748,Peridiniaceae,Deflandreoideae,Eucladinium,spinossissum,NA,67% in Campanian,"Mohr and Mao, 1997",0.67 in stage_Campanian,LO,NA,NA,75.9584,-59.580384
-748,Peridiniaceae,Deflandreoideae,Eurydinium,ellipticum,NA,40% in CC23,"Mohr and Mao, 1997",0.4 in nan_n_CC23,FO,NA,NA,74.411026,-60.33859726
-748,misc,misc,Fromea,chytra,NA,50% in C. costatum,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
-748,Cladopyxiaceae,all,Gillinia,hymenophora,NA,50% in B. dentata,"Mohr and Mao, 1997",0.16 in stage_Campanian,FO,NA,NA,81.81320000000001,-57.50934
-748,Cladopyxiaceae,all,Gillinia,hymenophora,NA,40% in CC23,"Mohr and Mao, 1997",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
-748,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,pulchrum,NA,33% in C. costatum,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
-748,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,cristatum,NA,50% in A. P. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,thomasii,NA,60% in A. p. expansa,"Mohr and Mao, 1997",0.6 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.167612,-57.3416194
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,korojonense,NA,50% in C. costatum,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,52% Campanian,"Mohr and Mao, 1997",0.52 in stage_Campanian,FO,NA,NA,77.6804,-58.736604
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,microarmum,NA,52% Campanian,"Mohr and Mao, 1997",0.52 in stage_Campanian,LO,NA,NA,77.6804,-58.736604
 748,Peridiniaceae,Deflandreoideae,Isabelidinium,acuminatum,NA,100% in CC22,"Mohr and Mao, 1997",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,bakeri,NA,0% in CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,FO,NA,NA,74.05035500000001,-60.51532605
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,pellucidum,NA,10% in CC23,"Mohr and Mao, 1997",0.1 in nan_n_CC23,FO,NA,NA,75.49303900000001,-59.80841089
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,cooksoniae,NA,25% in CC24,"Mohr and Mao, 1997",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
-748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,NA,50% in CC24,"Mohr and Mao, 1997",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,albertii,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,arcticum,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
+748,Order Gonyaulacales Family uncertain,uncertain,Downiesphaeridium,armatum,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
 748,Peridiniaceae,Deflandreoideae,Isabelidinium,acuminatum,NA,50% in G. diabolum,"Mohr and Mao, 1997",0.75 in nan_e_Marthasterites furcatus,FO,NA,NA,93.571875,-56.5285
-748,Gonyaulacaceae,other,Kiokansium,unituberculatum,NA,0% Campanian,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
-748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,firmum,NA,50% in C. costatum,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
-748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,firmum,NA,20% in CC23,"Mohr and Mao, 1997",0.2 in nan_n_CC23,LO,NA,NA,75.13236800000001,-59.985139679999996
-748,Peridiniaceae,other,Leberidocysta,chlamydata,NA,50% in A. p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
-748,Peridiniaceae,other,Maduradinium,pentagonum,NA,25% in A.p. expansa,"Mohr and Mao, 1997",0.25 in nan_e_Broinsonia parca expansa,FO,NA,NA,87.689005,-57.21554975
-748,Cladopyxiaceae,all,Microdinium,ornatum,NA,100% in A.p. expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
-748,Cladopyxiaceae,all,Microdinium,cassiculus,NA,67% in CC24,"Mohr and Mao, 1997",0.67 in nan_n_CC24,LO,NA,NA,70.83732000000002,-62.08971319999999
-748,Peridiniaceae,Deflandreoideae,Nelsoniella,semireticulata,NA,100% in R. levis,"Mohr and Mao, 1997",1 in nan_n_CC21,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Nelsoniella,tuberculata,NA,100% in R. levis,"Mohr and Mao, 1997",1 in nan_n_CC21,FO,NA,NA,76.76555,-59.1848805
-748,Peridiniaceae,Deflandreoideae,Nelsoniella,semireticulata,NA,20% in CC22,"Mohr and Mao, 1997",0.2 in nan_n_CC22,LO,NA,NA,76.58318200000001,-59.274240819999996
-748,Ceratiaceae,all,Odontochitina,costata,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Ceratiaceae,all,Odontochitina,cribropoda,NA,15% in C. costata,"Mohr and Mao, 1997",0.9 in stage_Santonian,FO,NA,NA,83.855,-57.407250000000005
-748,Ceratiaceae,all,Odontochitina,operculata,NA,100% in A.p.expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
-748,Ceratiaceae,all,Odontochitina,spinosa,NA,90% in R. levis,"Mohr and Mao, 1997",0.85 in nan_n_CC21,FO,NA,NA,76.88522900000001,-59.12623779
-748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,pulcherrimum,NA,50% Campanian,"Mohr and Mao, 1997",0.5 in stage_Campanian,FO,NA,NA,77.91,-58.624100000000006
-748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,33% in R. levis,"Mohr and Mao, 1997",0 in nan_n_CC21,FO,NA,NA,77.56341,-58.7939291
-748,Peridiniaceae,Palaeoperidinioideae,Palaeohystrichophora,infusorioides,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
-748,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,cingulatum,NA,50% in R. levis,"Mohr and Mao, 1997",0.15 in nan_n_CC21,FO,NA,NA,77.443731,-58.85257181
-748,Peridiniaceae,Deflandreoideae,Satyrodinium,bengalense,NA,67% in CC22,"Mohr and Mao, 1997",0.67 in nan_n_CC22,FO,NA,NA,76.1546172,-59.484237572
-748,Peridiniaceae,Deflandreoideae,Spinidinium,lanterna,NA,50% in C. costata,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
-748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,xanthiopyxides,NA,67% in B. dentata,"Mohr and Mao, 1997",0.22 in stage_Campanian,FO,NA,NA,81.12440000000001,-57.54378
-748,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,20% in C. costata,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
-748,Peridiniaceae,Deflandreoideae,Trithyrodinium,suspectum,NA,100% in CC23,"Mohr and Mao, 1997",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
-748,Ceratiaceae,all,Xenascus,ceratioides,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,LO,NA,NA,75.85371,-59.6316821
-748,Peridiniaceae,Deflandreoideae,Xenikoon,australis,NA,50% in A.p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
+748,Peridiniaceae,Deflandreoideae,Alterbidinium,acutulum,NA,0% in N. watkinsii,"Mohr and Mao, 1997",0.8 in nan_n_CC23,FO,NA,NA,72.968342,-61.045512419999994
+748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,arnace,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,albertii,NA,95% CC22,"Mao and Mohr, 1992",0.95 in nan_n_CC22,FO,NA,NA,75.899302,-59.60934202
 748,Peridiniaceae,Deflandreoideae,Xenikoon,australis,NA,60% in CC24,"Mohr and Mao, 1997",0.6 in nan_n_CC24,LO,NA,NA,70.98460000000001,-62.017545999999996
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,bakeri,NA,55% in CC24,"Mao and Mohr, 1992",0.55 in nan_n_CC24,LO,NA,NA,71.08980000000001,-61.96599799999999
+748,Peridiniaceae,Deflandreoideae,Chatangiella,biapertura,NA,50% in CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,arcticum,NA,50% CC22,"Mao and Mohr, 1992",0.5 in nan_n_CC22,FO,NA,NA,76.30963,-59.4082813
+748,Areoligeraceae,all,Cyclonephelium,brevispinatum,NA,35% in CC23,"Mao and Mohr, 1992",0.35 in nan_n_CC23,LO,NA,NA,74.5913615,-60.250232865
+748,Peridiniaceae,Deflandreoideae,Abratopdinium,cardioforme,NA,25% CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
+748,Order Gonyaulacales Family uncertain,uncertain,Downiesphaeridium,armatum,NA,0% in CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Cladopyxiaceae,all,Microdinium,cassiculus,NA,67% in CC24,"Mohr and Mao, 1997",0.67 in nan_n_CC24,LO,NA,NA,70.83732000000002,-62.08971319999999
+748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,arnace,NA,20% CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,FO,NA,NA,71.82620000000001,-61.60516199999999
+748,Gonyaulacaceae,other,Trichodinium,castanea,NA,75% in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
+748,Peridiniaceae,Deflandreoideae,Xenikoon,australis,NA,50% in A.p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
+748,Ceratiaceae,all,Xenascus,ceratioides,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,LO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,bakeri,NA,0% in CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Peridiniaceae,Deflandreoideae,Satyrodinium,bengalense,NA,67% in CC22,"Mohr and Mao, 1997",0.67 in nan_n_CC22,FO,NA,NA,76.1546172,-59.484237572
+748,Peridiniaceae,other,Leberidocysta,chlamydata,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Areoligeraceae,all,Cyclonephelium,brevispinatum,NA,50% in A.p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
+748,misc,misc,Fromea,chytra,NA,10% CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,LO,NA,NA,72.03660000000002,-61.50206599999999
+748,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,cingulatum,cingulatum,10% in CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,LO,NA,NA,72.03660000000002,-61.50206599999999
+748,Peridiniaceae,Deflandreoideae,Spinidinium,clavus,NA,10%v in CC23,"Mao and Mohr, 1992",0.1 in nan_n_CC23,LO,NA,NA,75.49303900000001,-59.80841089
+748,Peridiniaceae,Deflandreoideae,Abratopdinium,cardioforme,NA,60% in A.p. expansa,"Mohr and Mao, 1997",0.6 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.167612,-57.3416194
+748,Areoligeraceae,all,Circulodinium,colliveri,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,LO,NA,NA,75.85371,-59.6316821
+748,Gonyaulacaceae,other,Trichodinium,castanea,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Areoligeraceae,all,Cyclonephelium,compactum,NA,40% in CC23,"Mao and Mohr, 1992",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
+748,Peridiniaceae,other,Leberidocysta,chlamydata,NA,50% in A. p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
+748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,cooksoniae,NA,25% in CC24,"Mohr and Mao, 1997",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
+748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,cordiforme,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
+748,Ceratiaceae,all,Odontochitina,costata,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Areoligeraceae,all,Cyclonephelium,crassimarginatum,NA,58% Campanian,"Mohr and Mao, 1997",0.58 in stage_Campanian,LO,NA,NA,76.9916,-59.074116
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,oviformis,75% in CC23,"Mao and Mohr, 1992",0.75 in nan_n_CC23,LO,NA,NA,73.14867750000002,-60.95714802499999
+748,misc,misc,Fromea,chytra,NA,50% in C. costatum,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,NA,50% in CC24,"Mohr and Mao, 1997",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Gonyaulacaceae,Gonyaulacoideae,Pterodinium,cingulatum,NA,50% in R. levis,"Mohr and Mao, 1997",0.15 in nan_n_CC21,FO,NA,NA,77.443731,-58.85257181
+748,Ceratiaceae,all,Odontochitina,cribropoda,NA,100% in CC23,"Mao and Mohr, 1992",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
+748,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,cristatum,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
+748,Peridiniaceae,Deflandreoideae,Amphidiadema,denticulata,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,25% in CC23,"Mohr and Mao, 1997",0.25 in nan_n_CC23,LO,NA,NA,74.9520325,-60.073504075
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,digitus,NA,10% CC23,"Mao and Mohr, 1992",0.1 in nan_n_CC23,LO,NA,NA,75.49303900000001,-59.80841089
+748,Peridiniaceae,Deflandreoideae,Spinidinium,clavus,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,discreta,NA,20% in CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,LO,NA,NA,71.82620000000001,-61.60516199999999
+748,Areoligeraceae,all,Circulodinium,distinctum,NA,100% in CC23,"Mohr and Mao, 1997",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
+748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,complex,NA,33% in R. levis,"Mohr and Mao, 1997",0 in nan_n_CC21,FO,NA,NA,77.56341,-58.7939291
+748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,conjunctum,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
+748,Peridiniaceae,Deflandreoideae,Chatangiella,ditissima,NA,55% in CC22,"Mao and Mohr, 1992",0.55 in nan_n_CC22,LO,NA,NA,76.264038,-59.43062138
+748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,cordiforme,NA,80% CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,FO,NA,NA,72.968342,-61.045512419999994
+748,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,druggii,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
+748,Areoligeraceae,all,Areoligera,coronata,NA,10% CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,FO,NA,NA,76.674366,-59.22956066
+748,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,70% in CC24,"Mao and Mohr, 1992",0.7 in nan_n_CC24,LO,NA,NA,70.77420000000001,-62.120642
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,oviformis,0% CC23,"Mao and Mohr, 1992",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Eurydinium,eyrense,NA,40% in CC22,"Mao and Mohr, 1992",0.4 in nan_n_CC22,LO,NA,NA,76.40081400000001,-59.36360113999999
+748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,firmum,NA,20% in CC23,"Mohr and Mao, 1997",0.2 in nan_n_CC23,LO,NA,NA,75.13236800000001,-59.985139679999996
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,cretaceum,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,FO,NA,NA,74.05035500000001,-60.51532605
+748,Order Gonyaulacales Family uncertain,uncertain,Downiesphaeridium,flexuosum,NA,60% in CC23,"Mao and Mohr, 1992",0.6 in nan_n_CC23,LO,NA,NA,73.68968400000001,-60.69205483999999
+748,Peridiniaceae,Deflandreoideae,Eucladinium,gambangense,NA,60% in CC24,"Mao and Mohr, 1992",0.6 in nan_n_CC24,LO,NA,NA,70.98460000000001,-62.017545999999996
+748,Ceratiaceae,all,Odontochitina,cribropoda,NA,15% in C. costata,"Mohr and Mao, 1997",0.9 in stage_Santonian,FO,NA,NA,83.855,-57.407250000000005
+748,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,cristatum,NA,50% in A. P. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
+748,Peridiniaceae,Deflandreoideae,Amphidiadema,denticulata,NA,20% in C. costata,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
+748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,granulatum,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Peridiniaceae,Deflandreoideae,Chatangiella,granulifera,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Satyrodinium,haumuriense,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
+748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,helbyi,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
+748,Order Gonyaulacales Family uncertain,uncertain,Heterosphaeridium,heteracanthum,NA,75% in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
+748,Areoligeraceae,all,Cyclonephelium,hughesii,NA,20% in CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,LO,NA,NA,76.58318200000001,-59.274240819999996
+748,Cladopyxiaceae,all,Gillinia,hymenophora,NA,40% in CC23,"Mohr and Mao, 1997",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
+748,Peridiniaceae,Palaeoperidinioideae,Palaeohystrichophora,infusorioides,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Peridiniaceae,Deflandreoideae,Cerodinium,diebelii,NA,60% in CC22,"Mohr and Mao, 1997",0.6 in nan_n_CC22,FO,NA,NA,76.218446,-59.45296146
+748,Peridiniaceae,Deflandreoideae,Eurydinium,ingramii,NA,20% in CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,LO,NA,NA,71.82620000000001,-61.60516199999999
+748,Peridiniaceae,Deflandreoideae,Abratopdinium,kerguelense,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,digitus,NA,75% in A.p. expansa,"Mohr and Mao, 1997",0.75 in nan_e_Broinsonia parca expansa,FO,NA,NA,84.08701500000001,-57.39564925
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,korojonense,NA,75%in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
+748,Areoligeraceae,all,Circulodinium,kukebaiense,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
+748,Peridiniaceae,Deflandreoideae,Spinidinium,lanterna,NA,80% in CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,LO,NA,NA,76.036078,-59.54232178
+748,Peridiniaceae,Deflandreoideae,Chatangiella,ditissima,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Order Gonyaulacales Family uncertain,uncertain,Elytrocysta,druggii,NA,0% in CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,longicorne,NA,10% in CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,LO,NA,NA,72.03660000000002,-61.50206599999999
+748,Areoligeraceae,all,Cyclonephelium,longispinosum,NA,80% in CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,LO,NA,NA,72.968342,-61.045512419999994
+748,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,maculatum,maculatum,40% in CC23,"Mao and Mohr, 1992",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
+748,Peridiniaceae,Deflandreoideae,Eurydinium,ellipticum,NA,40% in CC23,"Mohr and Mao, 1997",0.4 in nan_n_CC23,FO,NA,NA,74.411026,-60.33859726
+748,Peridiniaceae,Deflandreoideae,Eucladinium,madurense,NA,67% in CC23,"Mao and Mohr, 1992",0.67 in nan_n_CC23,LO,NA,NA,73.43721430000001,-60.815764992999995
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,90% CC22,"Mao and Mohr, 1992",0.9 in nan_n_CC22,LO,NA,NA,75.944894,-59.58700194
+748,Gonyaulacaceae,Cribroperidinioideae,Florentinia,mantellii,NA,10% in CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,LO,NA,NA,76.674366,-59.22956066
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,microarmum,NA,52% Campanian,"Mohr and Mao, 1997",0.52 in stage_Campanian,LO,NA,NA,77.6804,-58.736604
+748,Peridiniaceae,Deflandreoideae,Trithyrodinium,evittii,NA,20% in C. costata,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
+748,Peridiniaceae,Deflandreoideae,Alterbidinium,minus,NA,60% in CC24,"Mao and Mohr, 1992",0.6 in nan_n_CC24,LO,NA,NA,70.98460000000001,-62.017545999999996
+748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,multifurcatum,NA,65% in CC23,"Mao and Mohr, 1992",0.65 in nan_n_CC23,LO,NA,NA,73.50934850000002,-60.78041923499999
+748,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,nyei,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
+748,Ceratiaceae,all,Odontochitina,operculata,NA,95% in CC23,"Mao and Mohr, 1992",0.95 in nan_n_CC23,LO,NA,NA,72.42733550000001,-61.31060560499999
+748,Cladopyxiaceae,all,Microdinium,ornatum,NA,75% in CC23,"Mao and Mohr, 1992",0.75 in nan_n_CC23,LO,NA,NA,73.14867750000002,-60.95714802499999
+748,Peridiniaceae,Palaeoperidinioideae,Palaeoperidinium,parvum,NA,70% in CC22,"Mao and Mohr, 1992",0.7 in nan_n_CC22,LO,NA,NA,76.127262,-59.49764162
+748,Areoligeraceae,all,Cyclonephelium,paucimarginatum,NA,50% in CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Peridiniaceae,Deflandreoideae,Eurydinium,eyrense,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Peridiniaceae,other,Maduradinium,pentagonum,NA,85% in CC23,"Mao and Mohr, 1992",0.85 in nan_n_CC23,LO,NA,NA,72.78800650000001,-61.133876814999994
+748,Gonyaulacaceae,other,Amphorosphaeridium,fenestratum,NA,30% CC24,"Mao and Mohr, 1992",0.3 in nan_n_CC24,FO,NA,NA,71.61580000000001,-61.708257999999994
+748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,firmum,NA,50% in C. costatum,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
+748,Peridiniaceae,Palaeoperidinioideae,Subtilisphaera,perlucida,NA,90% in CC23,"Mao and Mohr, 1992",0.9 in nan_n_CC23,LO,NA,NA,72.60767100000001,-61.22224120999999
+748,Gonyaulacaceae,other,Trichodinium,fragile,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Ceratiaceae,all,Odontochitina,porifera,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
+748,Peridiniaceae,Palaeoperidinioideae,Diconodinium,psilatum,NA,33% CC24,"Mao and Mohr, 1992",0.33 in nan_n_CC24,LO,NA,NA,71.55268000000001,-61.7391868
+748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,pulcherrimum,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Eucladinium,gambangense,NA,50% CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,FO,NA,NA,74.05035500000001,-60.51532605
+748,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,pulchrum,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,25% in CC24,"Mao and Mohr, 1992",0.25 in nan_n_CC24,LO,NA,NA,71.72100000000002,-61.65670999999999
+748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,granulatum,NA,30% CC24,"Mao and Mohr, 1992",0.3 in nan_n_CC24,FO,NA,NA,71.61580000000001,-61.708257999999994
+748,Areoligeraceae,all,Canningia,reticulata,NA,75% in CC23,"Mao and Mohr, 1992",0.75 in nan_n_CC23,LO,NA,NA,73.14867750000002,-60.95714802499999
+748,Peridiniaceae,Deflandreoideae,Chatangiella,granulifera,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,reticulata,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Peridiniaceae,Deflandreoideae,Satyrodinium,haumuriense,NA,10% CC24,"Mao and Mohr, 1992",0.1 in nan_n_CC24,FO,NA,NA,72.03660000000002,-61.50206599999999
+748,Areoligeraceae,all,Cyclonephelium,hughesii,NA,10% CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,FO,NA,NA,76.674366,-59.22956066
+748,Gonyaulacaceae,other,Sepispinula,huguoniotti,NA,80% CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,FO,NA,NA,72.968342,-61.045512419999994
+748,Cladopyxiaceae,all,Gillinia,hymenophora,NA,50% in B. dentata,"Mohr and Mao, 1997",0.16 in stage_Campanian,FO,NA,NA,81.81320000000001,-57.50934
+748,Peridiniaceae,Deflandreoideae,Eurydinium,ingramii,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
+748,Order Gonyaulacales Family uncertain,uncertain,Cassiculosphaeridia,reticulata,NA,50% in CC24,"Mohr and Mao, 1997",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Peridiniaceae,Deflandreoideae,Abratopdinium,kerguelense,NA,25% in A.p. expansa,"Mohr and Mao, 1997",0.25 in nan_e_Broinsonia parca expansa,FO,NA,NA,87.689005,-57.21554975
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,korojonense,NA,50% in C. costatum,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
+748,Areoligeraceae,all,Circulodinium,kukebaiense,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
+748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,ringnesiorum,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Peridiniaceae,Deflandreoideae,Spinidinium,lanterna,NA,50% in C. costata,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
+748,misc,misc,Gymnodinium,longicorne,NA,95% CC22,"Mao and Mohr, 1992",0.95 in nan_n_CC22,FO,NA,NA,75.899302,-59.60934202
+748,Gonyaulacaceae,Cribroperidinioideae,Apteodinium,maculatum,NA,33% CC22,"Mao and Mohr, 1992",0.33 in nan_n_CC22,FO,NA,NA,76.46464280000001,-59.332325028
+748,Peridiniaceae,Deflandreoideae,Pierceites,schizocystus,NA,55% in CC23,"Mao and Mohr, 1992",0.55 in nan_n_CC23,LO,NA,NA,73.87001950000001,-60.603690445
+748,Peridiniaceae,Deflandreoideae,Eucladinium,madurense,NA,100% in A.p. expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
+748,Peridiniaceae,Deflandreoideae,Bulbodinium,seitzii,NA,40% in CC23,"Mao and Mohr, 1992",0.4 in nan_n_CC23,LO,NA,NA,74.411026,-60.33859726
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,magnum,NA,52% Campanian,"Mohr and Mao, 1997",0.52 in stage_Campanian,FO,NA,NA,77.6804,-58.736604
+748,Peridiniaceae,Deflandreoideae,Nelsoniella,semireticulata,NA,20% in CC22,"Mohr and Mao, 1997",0.2 in nan_n_CC22,LO,NA,NA,76.58318200000001,-59.274240819999996
+748,Peridiniaceae,Deflandreoideae,Alterbidinium,minus,NA,20% in C. costatum,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
+748,Areoligeraceae,all,Areoligera,senonensis,NA,80% in CC23,"Mao and Mohr, 1992",0.8 in nan_n_CC23,LO,NA,NA,72.968342,-61.045512419999994
+748,Order Gonyaulacales Family uncertain,uncertain,Chlamydophorella,nyei,NA,60% in C. costatum,"Mohr and Mao, 1997",0.1 in stage_Campanian,FO,NA,NA,82.50200000000001,-57.4749
+748,Areoligeraceae,all,Canningia,senonica,NA,50% in CC23,"Mohr and Mao, 1997",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Peridiniaceae,Deflandreoideae,Chatangiella,serratula,NA,25% in CC23,"Mohr and Mao, 1997",0.25 in nan_n_CC23,LO,NA,NA,74.9520325,-60.073504075
+748,Ceratiaceae,all,Odontochitina,operculata,NA,100% in A.p.expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
+748,Peridiniaceae,Deflandreoideae,Chatangiella,spectabilis,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
+748,Ceratiaceae,all,Odontochitina,spinosa,NA,95% CC24,"Mao and Mohr, 1992",0.95 in nan_n_CC24,LO,NA,NA,70.24820000000001,-62.378381999999995
+748,Cladopyxiaceae,all,Microdinium,ornatum,NA,100% in A.p. expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
+748,Peridiniaceae,Deflandreoideae,Eucladinium,spinossissum,NA,67% in Campanian,"Mohr and Mao, 1997",0.67 in stage_Campanian,LO,NA,NA,75.9584,-59.580384
+748,Areoligeraceae,all,Cyclonephelium,paucimarginatum,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,pellucidum,NA,10% in CC23,"Mohr and Mao, 1997",0.1 in nan_n_CC23,FO,NA,NA,75.49303900000001,-59.80841089
+748,Peridiniaceae,other,Maduradinium,pentagonum,NA,25% in A.p. expansa,"Mohr and Mao, 1997",0.25 in nan_e_Broinsonia parca expansa,FO,NA,NA,87.689005,-57.21554975
+748,Order Gonyaulacales Family uncertain,uncertain,Exochosphaeridium,phragmites,NA,0% CC23,"Mao and Mohr, 1992",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Trithyrodinium,suspectum,NA,100% in CC23,"Mohr and Mao, 1997",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
+748,Ceratiaceae,all,Odontochitina,porifera,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
+748,Peridiniaceae,Palaeoperidinioideae,Diconodinium,psilatum,NA,100% in CC22,"Mohr and Mao, 1997",1 in nan_n_CC22,FO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Eurydinium,tempestivum,NA,75% in CC24,"Mao and Mohr, 1992",0.75 in nan_n_CC24,LO,NA,NA,70.66900000000001,-62.17218999999999
+748,Gonyaulacaceae,Leptodinioideae,Oligosphaeridium,pulcherrimum,NA,50% Campanian,"Mohr and Mao, 1997",0.5 in stage_Campanian,FO,NA,NA,77.91,-58.624100000000006
+748,Gonyaulacaceae,Gonyaulacoideae,Hystrichodinium,pulchrum,NA,33% in C. costatum,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
+748,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,ramulifera,NA,67% in C. costatum,"Mohr and Mao, 1997",0.05 in stage_Campanian,FO,NA,NA,83.07600000000001,-57.446200000000005
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,thomasii,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Order Gonyaulacales Family uncertain,uncertain,Batiacasphaera,reticulata,NA,50% in A.p. expansa,"Mohr and Mao, 1997",0.5 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.88801000000001,-57.3055995
+748,Areoligeraceae,all,Canningia,reticulata,NA,100% in A.p. expansa,"Mohr and Mao, 1997",1 in nan_e_Broinsonia parca expansa,FO,NA,NA,82.28602000000001,-57.485699000000004
+748,Order Gonyaulacales Family uncertain,uncertain,Cassiculosphaeridia,reticulata,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
+748,Gonyaulacaceae,Cribroperidinioideae,Kallosphaeridium,ringnesiorum,NA,0% CC23,"Mao and Mohr, 1992",0 in nan_n_CC23,FO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Bulbodinium,seitzii,NA,33% in A.p. expansa,"Mohr and Mao, 1997",0.33 in nan_e_Broinsonia parca expansa,FO,NA,NA,87.1126866,-57.24436567
+748,Peridiniaceae,Deflandreoideae,Chatangiella,tripartita,NA,0% CC22,"Mohr and Mao, 1997",0 in nan_n_CC22,LO,NA,NA,76.76555,-59.1848805
+748,Peridiniaceae,Deflandreoideae,Spinidinium,uncinatum,NA,80% in CC24,"Mao and Mohr, 1992",0.8 in nan_n_CC24,LO,NA,NA,70.56380000000001,-62.22373799999999
+748,Peridiniaceae,Deflandreoideae,Nelsoniella,semireticulata,NA,100% in R. levis,"Mohr and Mao, 1997",1 in nan_n_CC21,FO,NA,NA,76.76555,-59.1848805
+748,Areoligeraceae,all,Areoligera,senonensis,NA,20% in C. costata,"Mohr and Mao, 1997",0.95 in stage_Santonian,FO,NA,NA,83.75250000000001,-57.412375
+748,Areoligeraceae,all,Canningia,senonica,NA,60% in C. costatum,"Mohr and Mao, 1997",0.1 in stage_Campanian,FO,NA,NA,82.50200000000001,-57.4749
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,undulosum,NA,50% in CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,LO,NA,NA,74.05035500000001,-60.51532605
+748,Gonyaulacaceae,other,Kiokansium,unituberculatum,NA,40% CC22,"Mao and Mohr, 1992",0.4 in nan_n_CC22,LO,NA,NA,76.40081400000001,-59.36360113999999
+748,Peridiniaceae,Deflandreoideae,Chatangiella,serratula,NA,60% in C. costatum,"Mohr and Mao, 1997",0.1 in stage_Campanian,FO,NA,NA,82.50200000000001,-57.4749
+748,Peridiniaceae,Deflandreoideae,Chatangiella,spectabilis,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Ceratiaceae,all,Odontochitina,spinosa,NA,90% in R. levis,"Mohr and Mao, 1997",0.85 in nan_n_CC21,FO,NA,NA,76.88522900000001,-59.12623779
+748,Peridiniaceae,Deflandreoideae,Eucladinium,spinossissum,NA,10% CC22,"Mao and Mohr, 1992",0.1 in nan_n_CC22,FO,NA,NA,76.674366,-59.22956066
+748,Peridiniaceae,Deflandreoideae,Eurydinium,tempestivum,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
+748,Peridiniaceae,Deflandreoideae,Isabelidinium,thomasii,NA,60% in A. p. expansa,"Mohr and Mao, 1997",0.6 in nan_e_Broinsonia parca expansa,FO,NA,NA,85.167612,-57.3416194
+748,Gonyaulacaceae,Gonyaulacoideae,Cannosphaeropsis,utinensis,NA,0% in CC23,"Mohr and Mao, 1997",0 in nan_n_CC23,LO,NA,NA,75.85371,-59.6316821
+748,Peridiniaceae,Deflandreoideae,Chatangiella,tripartita,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Peridiniaceae,Deflandreoideae,Nelsoniella,tuberculata,NA,100% in R. levis,"Mohr and Mao, 1997",1 in nan_n_CC21,FO,NA,NA,76.76555,-59.1848805
+748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,variecalamus,NA,20% in CC24,"Mao and Mohr, 1992",0.2 in nan_n_CC24,LO,NA,NA,71.82620000000001,-61.60516199999999
+748,Peridiniaceae,Deflandreoideae,Chatangiella,verrucosa,NA,60% in CC23,"Mao and Mohr, 1992",0.6 in nan_n_CC23,LO,NA,NA,73.68968400000001,-60.69205483999999
+748,Peridiniaceae,Deflandreoideae,Spinidinium,uncinatum,NA,80% CC22,"Mao and Mohr, 1992",0.8 in nan_n_CC22,FO,NA,NA,76.036078,-59.54232178
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,undulosum,NA,50% CC23,"Mao and Mohr, 1992",0.5 in nan_n_CC23,FO,NA,NA,74.05035500000001,-60.51532605
+748,Gonyaulacaceae,other,Kiokansium,unituberculatum,NA,0% Campanian,"Mohr and Mao, 1997",0 in stage_Campanian,FO,NA,NA,83.65,-57.417500000000004
+748,Gonyaulacaceae,Gonyaulacoideae,Cannosphaeropsis,utinensis,NA,15% in CC22,"Mohr and Mao, 1997",0.15 in nan_n_CC22,FO,NA,NA,76.628774,-59.251900739999996
+748,Peridiniaceae,Deflandreoideae,Chatangiella,victoriensis,NA,100% in CC22,"Mao and Mohr, 1992",1 in nan_n_CC22,LO,NA,NA,75.85371,-59.6316821
+748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,variecalamus,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Peridiniaceae,Deflandreoideae,Chatangiella,verrucosa,NA,25% CC22,"Mao and Mohr, 1992",0.25 in nan_n_CC22,FO,NA,NA,76.53759000000001,-59.296580899999995
+748,Peridiniaceae,Deflandreoideae,Chatangiella,victoriensis,NA,0% CC22,"Mao and Mohr, 1992",0 in nan_n_CC22,FO,NA,NA,76.76555,-59.1848805
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,westralium,NA,15% in C. costatum,"Mohr and Mao, 1997",0.9 in stage_Santonian,FO,NA,NA,83.855,-57.407250000000005
+748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,williamsii,NA,20% CC22,"Mao and Mohr, 1992",0.2 in nan_n_CC22,FO,NA,NA,76.58318200000001,-59.274240819999996
+748,Ptychodiscaceae,Dinogymnioideae,Dinogymnium,westralium,NA,50% in CC24,"Mao and Mohr, 1992",0.5 in nan_n_CC24,LO,NA,NA,71.19500000000002,-61.91444999999999
+748,Peridiniaceae,Palaeoperidinioideae,Laciniadinium,williamsii,NA,100% in CC23,"Mao and Mohr, 1992",1 in nan_n_CC23,LO,NA,NA,72.24700000000001,-61.39896999999999
+748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,xanthiopyxides,NA,67% in B. dentata,"Mohr and Mao, 1997",0.22 in stage_Campanian,FO,NA,NA,81.12440000000001,-57.54378
+748,Order Gonyaulacales Family uncertain,uncertain,Tanyosphaeridium,xanthiopyxides,NA,100% in CC24,"Mao and Mohr, 1992",1 in nan_n_CC24,LO,NA,NA,70.14300000000001,-62.42992999999999
 638B,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,neptuni,NA,100% CC3b,"Masure, 1988",1 in nan_n_CC3b,FO,NA,NA,132.96647180046412,32.36603507591646
 638B,Gonyaulacaceae,Gonyaulacoideae,Achomosphaera,triangulata,NA,50% CC6,"Masure, 1988",0.75 in nan_n_CC6,FO,NA,NA,122.49516476682136,34.25087034197216
 638B,Comparodiniaceae,all,Biorbifera,johnwingii,NA,75% CC3b,"Masure, 1988",0.75 in nan_n_CC3b,LO,NA,NA,133.87211486716947,32.203019323909494
@@ -9007,7 +8991,7 @@ Massignano,Order Gonyaulacales Family uncertain,uncertain,Ynezidinium,brevisulca
 1053,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,cinctum,NA,0% C13r,"Van Mourik et al., 2001",0 in mag_C13r,LO,NA,NA,35.102,24.5347
 1053,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,0% CP15a,"Van Mourik et al., 2001",0 in nan_c_CP15,FO,NA,NA,37.77,24.1345
 1053,Gonyaulacaceae,Cribroperidinioideae,Hystrichokolpoma,truncatum,NA,50% CP15a,"Van Mourik et al., 2001",0.25 in nan_c_CP15,LO,NA,NA,36.9375,24.259375
-1053,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,50% C15r,"Van Mourik et al., 2001",0.5 in mag_C15r,LO,NA,NA,35.458,24.4813
+1053,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,velorum,NA,50% C15r,"Van Mourik et al., 2001",0.5 in mag_C15r,FO,NA,NA,35.458,24.4813
 1053,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,0% CP15a,"Van Mourik et al., 2001",0 in nan_c_CP15,FO,NA,NA,37.77,24.1345
 1053,Gonyaulacaceae,Gonyaulacoideae,Impagidinium,maculatum,NA,50% CP15a,"Van Mourik et al., 2001",0.25 in nan_c_CP15,LO,NA,NA,36.9375,24.259375
 1053,Peridiniaceae,Deflandreoideae,Lentinia,serrata,NA,10% CP15a,"Van Mourik et al., 2001",0.05 in nan_c_CP15,FO,NA,NA,37.603500000000004,24.159475
