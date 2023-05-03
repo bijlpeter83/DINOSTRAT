@@ -1,0 +1,195 @@
+﻿standard sorting order,Long List (formatted),Rank,Black/White/None text font colour,CMYK,Cyan,Magenta,Yellow,Black,Red,Green,Blue,HTML
+1,Meghalayan,Stage,Black,0/10/5/0,0,10,5,0,253,237,236,#FDEDEC
+2,Upper/Late Holocene,Subseries,Black,0/10/5/0,0,10,5,0,253,237,236,#FDEDEC
+3,Northgrippian,Stage,Black,0/10/10/0,0,10,10,0,253,236,228,#FDECE4
+4,Middle Holocene,Subseries,Black,0/10/10/0,0,10,10,0,253,236,228,#FDECE4
+5,Greenlandian,Stage,Black,0/10/15/0,0,10,15,0,254,236,219,#FEECDB
+6,Lower/Early Holocene,Subseries,Black,0/10/15/0,0,10,15,0,254,236,219,#FEECDB
+7,Holocene,Series,Black,0/10/20/0,0,10,20,0,254,235,210,#FEEBD2
+8,Upper Pleistocene,Stage,Black,0/5/15/0,0,5,15,0,255,242,211,#FFF2D3
+9,Upper/Late Pleistocene,Subseries,Black,0/5/15/0,0,5,15,0,255,242,211,#FFF2D3
+10,Chibanian,Stage,Black,0/5/20/0,0,5,20,0,255,242,199,#FFF2C7
+11,Middle Pleistocene,Subseries,Black,0/5/20/0,0,5,20,0,255,242,199,#FFF2C7
+12,Calabrian,Stage,Black,0/5/25/0,0,5,25,0,255,242,186,#FFF2BA
+13,Gelasian,Stage,Black,0/5/30/0,0,5,30,0,255,237,179,#FFEDB3
+14,Lower/Early Pleistocene,Subseries,Black,0/5/35/0,0,5,35,0,255,240,185,#FFF0B9
+15,Pleistocene,Series,Black,0/5/40/0,0,5,40,0,255,239,175,#FFEFAF
+16,Quaternary,System,Black,0/0/50/0,0,0,50,0,249,249,127,#F9F97F
+17,Piacenzian,Stage,Black,0/0/25/0,0,0,25,0,255,255,191,#FFFFBF
+18,Upper/Late Pliocene,Subseries,Black,0/5/25/0,0,5,25,0,255,242,205,#FFF2CD
+19,Zanclean,Stage,Black,0/0/30/0,0,0,30,0,255,255,179,#FFFFB3
+20,Lower/Early Pliocene,Subseries,Black,0/5/30/0,0,5,30,0,255,242,195,#FFF2C3
+21,Pliocene,Series,Black,0/0/40/0,0,0,40,0,255,255,153,#FFFF99
+22,Messinian,Stage,Black,0/0/55/0,0,0,55,0,255,255,115,#FFFF73
+23,Tortonian,Stage,Black,0/0/60/0,0,0,60,0,255,255,102,#FFFF66
+24,Upper/Late Miocene,Subseries,Black,0/5/55/0,0,5,55,0,255,236,140,#FFEC8C
+25,Serravallian,Stage,Black,0/0/65/0,0,0,65,0,255,255,89,#FFFF59
+26,Langhian,Stage,Black,0/0/70/0,0,0,70,0,255,255,77,#FFFF4D
+27,Middle Miocene,Subseries,Black,0/5/65/0,0,5,65,0,255,236,115,#FFEC73
+28,Burdigalian,Stage,Black,0/0/75/0,0,0,75,0,255,255,65,#FFFF41
+29,Aquitanian,Stage,Black,0/0/80/0,0,0,80,0,255,255,51,#FFFF33
+30,Lower/Early Miocene,Subseries,Black,0/5/75/0,0,5,75,0,255,236,85,#FFEC55
+31,Miocene,Series,Black,0/0/100/0,0,0,100,0,255,255,0,#FFFF00
+32,Neogene,System,Black,0/10/90/0,0,10,90,0,255,230,25,#FFE619
+33,Chattian,Stage,Black,0/10/30/0,0,10,30,0,254,230,170,#FEE6AA
+34,Rupelian,Stage,Black,0/15/35/0,0,15,35,0,254,217,154,#FED99A
+35,Oligocene,Series,Black,0/25/45/0,0,25,45,0,254,192,122,#FEC07A
+36,Priabonian,Stage,Black,0/20/30/0,0,20,30,0,253,205,161,#FDCDA1
+37,Bartonian,Stage,Black,0/25/35/0,0,25,35,0,253,192,145,#FDC091
+38,Lutetian,Stage,Black,0/30/40/0,0,30,40,0,253,180,130,#FDB482
+39,Ypresian,Stage,Black,0/35/45/0,0,35,45,0,252,167,115,#FCA773
+40,Eocene,Series,Black,0/30/50/0,0,30,50,0,253,180,108,#FDB46C
+41,Thanetian,Stage,Black,0/25/50/0,0,25,50,0,253,191,111,#FDBF6F
+42,Selandian,Stage,Black,0/25/55/0,0,25,55,0,254,191,101,#FEBF65
+43,Danian,Stage,Black,0/30/55/0,0,30,55,0,253,180,98,#FDB462
+44,Paleocene,Series,Black,0/40/60/0,0,40,60,0,253,167,95,#FDA75F
+45,Paleogene,System,Black,5/0/90/0,5,0,90,0,253,154,82,#FD9A52
+46,Cenozoic,Erathem,Black,40/0/5/0,40,0,5,0,242,249,29,#F2F91D
+47,Maastrichtian,Stage,Black,5/0/45/0,5,0,45,0,242,250,140,#F2FA8C
+48,Campanian,Stage,Black,10/0/50/0,10,0,50,0,230,244,127,#E6F47F
+49,Santonian,Stage,Black,15/0/55/0,15,0,55,0,217,239,116,#D9EF74
+50,Coniacian,Stage,Black,20/0/60/0,20,0,60,0,204,233,104,#CCE968
+51,Turonian,Stage,Black,25/0/65/0,25,0,65,0,191,227,93,#BFE35D
+52,Cenomanian,Stage,Black,30/0/70/0,30,0,70,0,179,222,83,#B3DE53
+53,Upper Cretaceous,Series,Black,35/0/75/0,35,0,75,0,166,216,74,#A6D84A
+54,Albian,Stage,Black,20/0/40/0,20,0,40,0,204,234,151,#CCEA97
+55,Aptian,Stage,Black,25/0/45/0,25,0,45,0,191,228,138,#BFE48A
+56,Barremian,Stage,Black,30/0/50/0,30,0,50,0,179,223,127,#B3DF7F
+57,Hauterivian,Stage,Black,35/0/55/0,35,0,55,0,166,217,117,#A6D975
+58,Valanginian,Stage,Black,40/0/60/0,40,0,60,0,153,211,106,#99D36A
+59,Berriasian,Stage,Black,45/0/65/0,45,0,65,0,140,205,96,#8CCD60
+60,Lower Cretaceous,Series,Black,45/0/70/0,45,0,70,0,140,205,87,#8CCD57
+61,Cretaceous,System,Black,50/0/75/0,50,0,75,0,127,198,78,#7FC64E
+62,Tithonian,Stage,Black,15/0/0/0,15,0,0,0,217,241,247,#D9F1F7
+63,Kimmeridgian,Stage,Black,20/0/0/0,20,0,0,0,204,236,244,#CCECF4
+64,Oxfordian,Stage,Black,25/0/0/0,25,0,0,0,191,231,241,#BFE7F1
+65,Upper Jurassic,Series,Black,30/0/0/0,30,0,0,0,179,227,238,#B3E3EE
+66,Callovian,Stage,Black,25/0/5/0,25,0,5,0,191,231,229,#BFE7E5
+67,Bathonian,Stage,Black,30/0/5/0,30,0,5,0,179,226,227,#B3E2E3
+68,Bajocian,Stage,Black,35/0/5/0,35,0,5,0,166,221,224,#A6DDE0
+69,Aalenian,Stage,Black,40/0/5/0,40,0,5,0,154,217,221,#9AD9DD
+70,Middle Jurassic,Series,Black,50/0/5/0,50,0,5,0,128,207,216,#80CFD8
+71,Toarcian,Stage,Black,40/5/0/0,40,5,0,0,153,206,227,#99CEE3
+72,Pliensbachian,Stage,White,50/5/0/0,50,5,0,0,128,197,221,#80C5DD
+73,Sinemurian,Stage,White,60/5/0/0,60,5,0,0,103,188,216,#67BCD8
+74,Hettangian,Stage,White,70/5/0/0,70,5,0,0,78,179,211,#4EB3D3
+75,Lower Jurassic,Series,White,75/5/0/0,75,5,0,0,66,174,208,#42AED0
+76,Jurassic,System,White,80/0/5/0,80,0,5,0,52,178,201,#34B2C9
+77,Rhaetian,Stage,Black,10/25/0/0,10,25,0,0,227,185,219,#E3B9DB
+78,Norian,Stage,Black,15/30/0/0,15,30,0,0,214,170,211,#D6AAD3
+79,Carnian,Stage,Black,20/35/0/0,20,35,0,0,201,155,203,#C99BCB
+80,Upper Triassic,Series,White,25/40/0/0,25,40,0,0,189,140,195,#BD8CC3
+81,Ladinian,Stage,White,20/45/0/0,20,45,0,0,201,131,191,#C983BF
+82,Anisian,Stage,White,25/50/0/0,25,50,0,0,188,117,183,#BC75B7
+83,Middle Triassic,Series,White,30/55/0/0,30,55,0,0,177,104,177,#B168B1
+84,Olenekian,Stage,White,30/65/0/0,30,65,0,0,176,81,165,#B051A5
+85,Induan,Stage,White,35/70/0/0,35,70,0,0,164,70,159,#A4469F
+86,Lower Triassic,Series,White,40/75/0/0,40,75,0,0,152,57,153,#983999
+87,Triassic,System,White,50/80/0/0,50,80,0,0,129,43,146,#812B92
+88,Mesozoic,Erathem,Black,60/0/10/0,60,0,10,0,103,197,202,#67C5CA
+89,Changhsingian,Stage,Black,0/25/20/0,0,25,20,0,252,192,178,#FCC0B2
+90,Wuchiapingian,Stage,Black,0/30/25/0,0,30,25,0,252,180,162,#FCB4A2
+91,Lopingian,Series,Black,0/35/30/0,0,35,30,0,251,167,148,#FBA794
+92,Capitanian,Stage,Black,0/40/35/0,0,40,35,0,251,154,133,#FB9A85
+93,Wordian,Stage,Black,0/45/40/0,0,45,40,0,251,141,118,#FB8D76
+94,Roadian,Stage,Black,0/50/45/0,0,50,45,0,251,128,105,#FB8069
+95,Guadalupian,Series,Black,0/55/50/0,0,55,50,0,251,116,92,#FB745C
+96,Kungurian,Stage,Black,10/45/40/0,10,45,40,0,227,135,118,#E38776
+97,Artinskian,Stage,Black,10/50/45/0,10,50,45,0,227,123,104,#E37B68
+98,Sakmarian,Stage,Black,10/55/50/0,10,55,50,0,227,111,92,#E36F5C
+99,Asselian,Stage,Black,10/60/55/0,10,60,55,0,227,99,80,#E36350
+100,Cisuralian,Series,Black,5/65/60/0,5,65,60,0,239,88,69,#EF5845
+101,Permian,System,Black,5/75/75/0,5,75,75,0,240,64,40,#F04028
+102,Gzhelian,Stage,Black,20/10/15/0,20,10,15,0,204,212,199,#CCD4C7
+103,Kasimovian,Stage,Black,25/10/15/0,25,10,15,0,191,208,197,#BFD0C5
+104,Upper Pennsylvanian,Series,Black,25/10/20/0,25,10,20,0,191,208,186,#BFD0BA
+105,Moscovian,Stage,Black,30/10/20/0,30,10,20,0,179,203,185,#B3CBB9
+106,Middle Pennsylvanian,Series,Black,30/10/20/0,30,10,20,0,166,199,183,#A6C7B7
+107,Bashkirian,Stage,Black,40/10/20/0,40,10,20,0,153,194,181,#99C2B5
+108,Lower Pennsylvanian,Series,Black,45/10/20/0,45,10,20,0,140,190,180,#8CBEB4
+109,Pennsylvanian,Subsystem,Black,50/10/20/0,50,10,20,0,126,188,198,#7EBCC6
+110,Serpukhovian,Stage,Black,25/15/55/0,25,15,55,0,191,194,107,#BFC26B
+111,Upper Mississippian,Series,Black,25/15/55/0,25,15,55,0,179,190,108,#B3BE6C
+112,Visean,Stage,Black,35/15/55/0,35,15,55,0,166,185,108,#A6B96C
+113,Middle Mississippian,Series,Black,35/15/55/0,35,15,55,0,153,180,108,#99B46C
+114,Tournaisian,Stage,Black,45/15/55/0,45,15,55,0,140,176,108,#8CB06C
+115,Lower Mississippian,Series,Black,45/15/55/0,45,15,55,0,128,171,108,#80AB6C
+116,Mississippian,Subsystem,White,60/25/55/0,60,25,55,0,103,143,102,#678F66
+117,Carboniferous,System,White,60/15/30/0,60,15,30,0,103,165,153,#67A599
+118,Famennian,Stage,Black,5/5/20/0,5,5,20,0,242,237,179,#F2EDB3
+119,Frasnian,Stage,Black,5/5/30/0,5,5,30,0,242,237,173,#F2EDAD
+120,Upper Devonian,Series,Black,5/10/35/0,5,10,35,0,241,225,157,#F1E19D
+121,Givetian,Stage,Black,5/10/45/0,5,10,45,0,241,225,133,#F1E185
+122,Eifelian,Stage,Black,5/15/50/0,5,15,50,0,241,213,118,#F1D576
+123,Middle Devonian,Series,Black,5/20/55/0,5,20,55,0,241,200,104,#F1C868
+124,Emsian,Stage,Black,10/15/50/0,10,15,50,0,229,208,117,#E5D075
+125,Pragian,Stage,Black,10/20/55/0,10,20,55,0,229,196,104,#E5C468
+126,Lochkovian,Stage,Black,10/25/60/0,10,25,60,0,229,183,90,#E5B75A
+127,Lower Devonian,Series,Black,10/30/65/0,10,30,65,0,229,172,77,#E5AC4D
+128,Devonian,System,Black,20/40/75/0,20,40,75,0,203,140,55,#CB8C37
+129,Pridoli,Stage,None,10/0/10/0,10,0,10,0,230,245,225,#E6F5E1
+130,Pridoli,Series,Black,10/0/10/0,10,0,10,0,230,245,225,#E6F5E1
+131,Ludfordian,Stage,Black,15/0/10/0,15,0,10,0,217,240,223,#D9F0DF
+132,Gorstian,Stage,Black,20/0/10/0,20,0,10,0,204,236,221,#CCECDD
+133,Ludlow,Series,Black,25/0/15/0,25,0,15,0,191,230,207,#BFE6CF
+134,Homerian,Stage,Black,20/0/15/0,20,0,15,0,204,235,209,#CCEBD1
+135,Sheinwoodian,Stage,Black,25/0/20/0,25,0,20,0,191,230,195,#BFE6C3
+136,Wenlock,Series,Black,30/0/20/0,30,0,20,0,179,225,194,#B3E1C2
+137,Telychian,Stage,Black,25/0/15/0,25,0,15,0,191,230,207,#BFE6CF
+138,Aeronian,Stage,Black,30/0/20/0,30,0,20,0,179,225,194,#B3E1C2
+139,Rhuddanian,Stage,Black,35/0/25/0,35,0,25,0,166,220,181,#A6DCB5
+140,Llandovery,Series,Black,40/0/25/0,40,0,25,0,153,215,179,#99D7B3
+141,Silurian,System,Black,30/0/25/0,30,0,25,0,179,225,182,#B3E1B6
+142,Hirnantian,Stage,Black,35/0/30/0,35,0,30,0,166,219,171,#A6DBAB
+143,Katian,Stage,Black,40/0/35/0,40,0,35,0,153,214,159,#99D69F
+144,Sandbian,Stage,Black,45/0/40/0,45,0,40,0,140,208,148,#8CD094
+145,Upper Ordovician,Series,Black,50/0/40/0,50,0,40,0,127,202,147,#7FCA93
+146,Darriwilian,Stage,White,55/0/35/0,55,0,35,0,116,198,156,#74C69C
+147,Dapingian,Stage,White,60/0/40/0,60,0,40,0,102,192,146,#66C092
+148,Middle Ordovician,Series,White,70/0/50/0,70,0,50,0,77,180,126,#4DB47E
+149,Floian,Stage,White,75/0/45/0,75,0,45,0,65,176,135,#41B087
+150,Tremadocian,Stage,White,80/0/50/0,80,0,50,0,51,169,126,#33A97E
+151,Lower Ordovician,Series,White,90/0/60/0,90,0,60,0,26,157,111,#1A9D6F
+152,Ordovician,System,White,100/0/60/0,100,0,60,0,0,146,112,#009270
+153,Stage 10,Stage,Black,10/0/20/0,10,0,20,0,230,245,201,#E6F5C9
+154,Jiangshanian,Stage,Black,15/0/25/0,15,0,25,0,217,240,187,#D9F0BB
+155,Paibian,Stage,Black,20/0/35/0,20,0,35,0,204,235,174,#CCEBAE
+156,Furongian,Series,Black,30/0/40/0,30,0,40,0,179,224,149,#B3E095
+157,Guzhangian,Stage,Black,20/5/30/0,20,5,30,0,204,223,170,#CCDFAA
+158,Drumian,Stage,Black,25/5/35/0,25,5,35,0,191,217,157,#BFD99D
+159,Wuliuan,Stage,Black,30/5/40/0,30,5,40,0,179,212,146,#B3D492
+160,Miaolingian,Series,Black,35/5/45/0,35,5,45,0,166,207,134,#A6CF86
+161,Stage 4,Stage,Black,30/10/40/0,30,10,40,0,179,202,142,#B3CA8E
+162,Stage 3,Stage,Black,35/10/45/0,35,10,45,0,166,197,131,#A6C583
+163,Series 2,Series,Black,40/10/50/0,40,10,50,0,153,192,120,#99C078
+164,Stage 2,Stage,Black,35/15/45/0,35,15,45,0,166,186,128,#A6BA80
+165,Fortunian,Stage,Black,40/15/50/0,40,15,50,0,153,181,117,#99B575
+166,Terreneuvian,Series,Black,45/15/55/0,45,15,55,0,140,176,108,#8CB06C
+167,Cambrian,System,White,50/20/65/0,50,20,65,0,127,160,86,#7FA056
+168,Paleozoic,Erathem,Black,40/10/40/0,40,10,40,0,153,192,141,#99C08D
+169,Phanerozoic,Eonothem,Black,40/0/5/0,40,0,5,0,154,217,221,#9AD9DD
+170,Ediacaran,System,Black,0/15/55/0,0,15,55,0,254,217,106,#FED96A
+171,Cryogenian,System,Black,0/20/60/0,0,20,60,0,254,204,92,#FECC5C
+172,Tonian,System,Black,0/25/65/0,0,25,65,0,254,191,78,#FEBF4E
+173,Neoproterozoic,Erathem,Black,0/30/70/0,0,30,70,0,254,179,66,#FEB342
+174,Stenian,System,Black,0/15/35/0,0,15,35,0,254,217,154,#FED99A
+175,Ectasian,System,Black,0/20/40/0,0,20,40,0,253,204,138,#FDCC8A
+176,Calymmian,System,Black,0/24/45/0,0,24,45,0,253,192,122,#FDC07A
+177,Mesoproterozoic,Erathem,Black,0/30/55/0,0,30,55,0,253,180,98,#FDB462
+178,Statherian,System,Black,0/55/10/0,0,55,10,0,248,117,167,#F875A7
+179,Orosirian,System,Black,0/60/15/0,0,60,15,0,247,104,152,#F76898
+180,Rhyacian,System,Black,0/65/20/0,0,65,20,0,247,91,137,#F75B89
+181,Siderian,System,Black,0/70/25/0,0,70,25,0,247,79,124,#F74F7C
+182,Paleoproterozoic,Erathem,Black,0/75/30/0,0,75,30,0,247,67,112,#F74370
+183,Proterozoic,Eonothem,Black,0/80/35/0,0,80,35,0,247,53,99,#F73563
+184,unnamed1,System,None,0/35/5/0,0,35,5,0,250,167,200,#FAA7C8
+185,Neoarchean,Erathem,Black,0/40/5/0,0,40,5,0,249,155,193,#F99BC1
+186,unnamed2,System,None,0/50/5/0,0,50,5,0,248,129,181,#F881B5
+187,Mesoarchean,Erathem,Black,0/60/5/0,0,60,5,0,247,104,169,#F768A9
+188,unnamed3,System,None,0/60/0/0,0,60,0,0,246,104,178,#F668B2
+189,Paleoarchean,Erathem,Black,0/75/0/0,0,75,0,0,244,68,159,#F4449F
+190,unnamed4,System,None,5/90/0/0,5,90,0,0,230,29,140,#E61D8C
+191,Eoarchean,Erathem,Black,10/100/0/0,10,100,0,0,218,3,127,#DA037F
+192,Archean,Eonothem,Black,0/100/0/0,0,100,0,0,240,4,127,#F0047F
+193,Hadean,Eonothem,White,30/100/0/0,30,100,0,0,174,2,126,#AE027E
+194,Precambrian,super-Eonothem,Black,0/75/30/0,0,75,30,0,247,67,112,#F74370
