@@ -33,7 +33,7 @@ typcol <- transmute(typcol, stage, RGB= rgb(Red, Green, Blue, maxColorValue = 25
 stgcol <- setNames(as.character(typcol$RGB), as.character(typcol$stage))
 
 #Load main database
-sp_dat <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/Dinoevents_FEB_23.csv")
+sp_dat <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/DINOEVENTS.csv")
 sp_dat <- unite(sp_dat, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
 sp_dat <- unite(sp_dat, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
 
