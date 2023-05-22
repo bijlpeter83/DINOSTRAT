@@ -122,7 +122,7 @@ ggplot(paleolat)+
 ```
 #to load the dinocyst fossil and modern events into R:
 ```{r}
-sp_dat <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/Dinoevents_FEB_23.csv")
+sp_dat <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/DINOEVENTS.csv")
 sp_dat <- unite(sp_dat, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
 sp_dat <- unite(sp_dat, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
 
