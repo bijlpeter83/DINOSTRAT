@@ -9,57 +9,57 @@ Please cite Bijl, 2022 Earth System Science Data when using this database.
 
 DINOSTRAT consists of 4 data frames:
 
-1. Paleolatitude.csv This dataframe hosts the modern geographic position and paleolatitudinal evolution of sediemntary sections or outcrops used in this review.
+1. Paleolatitude.csv This dataframe hosts the modern geographic position and paleolatitudinal evolution of sedimentary sections or outcrops used in this review.
 Explanation of columns: 
-Source (chr): the citation of the paper that presents dinocyst events from this location; 
-Geography (chr): geographic region, or country of the study; 
+source (chr): the citation of the paper that presents dinocyst events from this location; 
+geography (chr): geographic region, or country of the study; 
 core or outcrop (chr): whether the study presents data from a core or an outcrop, or both; 
 location (chr): unique name for each geographic location; 
 lat (dbl): present-day latitude of that location; 
 long (dbl): present-day longitude of that location; 
-Age (dbl): the age of the paleolatitude of that location; 
-Paleolatitude (dbl): the paleotatitude of that location and age; 
+age (dbl): the age of the paleolatitude of that location; 
+paleolatitude (dbl): the paleotatitude of that location and age; 
 lower (dbl): the lower uncertainty limit of that paleolatitude; 
 upper (dbl): the upper uncertainty limit of that paleolatitude; 
 interpolated (lgl): if TRUE, the paleolatitude was interpolated between 10 million year tie points, if FALSE, the paleolatitude is from a 10 million year tie point. For more information see paleolatitude.org and Van Hinsbergen et al., 2015; 
-Stable (lgl): if TRUE, the site is on a stable, passive plate, and the paleolatitude calculation came from paleolatitude.org. If FALSE, the site is in an unstable plate boundary or orogenic zone, and different sources were used to estimate its paleolatitudinal evolution. See pal_lat source; 
+stable (lgl): if TRUE, the site is on a stable, passive plate, and the paleolatitude calculation came from paleolatitude.org. If FALSE, the site is in an unstable plate boundary or orogenic zone, and different sources were used to estimate its paleolatitudinal evolution. See pal_lat source; 
 tier (chr): the tier of calibration. For further information, see Bijl, submittes Earth System Science Data; 
 pal_lat source (chr): indicates the source of the paleolatitude evolution of the site.
 
 2. modernst.csv This dataframe hosts the surface sediment sample locations. Source for this data is Marret et al., 2020, references therein, Mertens et al., 2014, and Thöle et al., 2023. The modified datasets from those sources are used here.
 Explanation of columns: 
-Source (chr): source of the surface sediment location; 
+source (chr): source of the surface sediment location; 
 location (chr): a unique name for each surface sediment station; 
 lat (dbl): present-day latitude of that station; 
 long (dbl): present-day longitude of that station; 
 
-3. Dinoevents_Feb_23.csv This data frame hosts the regional dinoflagellate cyst events, their calibration to the GTS2021, their Age and Paleolatitude.
+3. Dinoevents_Feb_23.csv This data frame hosts the regional dinoflagellate cyst events, their calibration to the GTS2020, their age and paleolatitude.
 Explanation of columns: 
 location (chr): Location of the event. corresponds to location column in Paleolatitude.csv; 
-Family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
-Subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup "other"; 
+family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
+subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup "other"; 
 genus (chr): The taxonomic genus of the species based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, 2022); 
 species (chr): The taxonomic species name of based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, 2022); 
 subspecies (chr): The taxonomic subspecies name of based on Fensome et al., (1993) and Williams et al., (2017), with exceptions (see text in Bijl, 2022). [NA] if no subspecies applies; 
 original entry (chr): the calibration of that event as recorded from the Source; 
-Source (chr): study that presented the event; 
-Calibration (chr): calibration of the event to the Geologic Time Scale 2020 (Gradstein et al., 2020); 
+source (chr): study that presented the event; 
+calibration (chr): calibration of the event to the Geologic Time Scale 2020 (Gradstein et al., 2020); 
 FO_LO (chr): [FO] if the event is a first stratigraphic occurrence, [LO] if the event is a last stratigraphic occurrence; 
-Age (dbl): Age of the event, calculated through its Calibration; 
+age (dbl): Age of the event, calculated through its Calibration; 
 pal_lat (dbl): paleolatitude of the event, interpolated from the paleolatitude of the site in Paleolatitude.csv, using its Age.
 
 4. modernsp.csv This dataframe hosts the dinocyst composition of the surface sediment sites modernst.csv. We adapted the data from Marret et al., 2020, Thöle et al., 2023 and Mertens et al., 2014. Suprageneric classification was added, Relative abundance data was converted to presence of taxa. Columns follow those of Dinoevents_Feb2023.csv
 Explanation of columns:
-Family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
-Subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup [other];  
+family (chr): The taxonomic Family of the species based on Fensome et al., (1993) and Williams et al., (2017). [misc] contain species that are likely or certainly no dinocysts; 
+subfamily (chr): The taxonomic subfamily of the species. If none were formally described, it says [all]. Some small subfamilies were lumped into a restgroup [other];  
 genus (chr): The taxonomic genus of the species based on Fensome et al., (1993) and Williams et al., (2017); 
 species (chr): The taxonomic species name of based on Fensome et al., (1993) and Williams et al., (2017); 
 subspecies (chr): The taxonomic subspecies name of based on Fensome et al., (1993) and Williams et al., (2017). [NA] if no subspecies applies; 
 original entry (chr): Does not apply; 
-Source (chr): study that presented the event; 
-Calibration (chr): Surface sediment samples are calibrated to 0 Ma by default in this review; 
+source (chr): study that presented the event; 
+calibration (chr): Surface sediment samples are calibrated to 0 Ma by default in this review; 
 FO_LO (chr): These are by definition all [LO]; 
-Age (dbl): 0 Ma, by default; 
+age (dbl): 0 Ma, by default; 
 pal_lat (dbl): paleolatitude of the event, equals modern latitude of the site. 
 
 Original references of studies used in this review:
@@ -279,7 +279,7 @@ Van Hinsbergen, D. J. J., De Groot, L. V., Van Schaik, S. J., Spakman, W., Bijl,
 Advokaat, E. L., Marshall, N. T., Li, S., Spakman, W., Krijgsman, W. and van Hinsbergen, D. J. J.: Cenozoic Rotation History of Borneo and Sundaland, SE Asia Revealed by Paleomagnetism, Seismic Tomography, and Kinematic Reconstruction, Tectonics, 37(8), 2486–2512, doi:10.1029/2018TC005010, 2018.
 
 
-Refernces used in this readme:
+References used in this readme:
 Bijl, P. K.: DINOSTRAT: A global database of the stratigraphic and paleolatitudinal distribution of Mesozoic-Cenozoic organic-walled dinoflagellate cysts, Earth System Science Data, 14, 579-617, 10.5194/essd-14-579-2022, 2022.
 Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M.: Geologic Time Scale 2020, in, edited by: Gradstein, F. M., Ogg, J. G., Schmitz, M. D., and Ogg, G. M., Elsevier, https://doi.org/10.1016/B978-0-12-824360-2.00032-2, 2020.
 
