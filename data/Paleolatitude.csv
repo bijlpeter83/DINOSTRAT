@@ -1,4 +1,4 @@
-﻿Source,Geography,core or outcrop,location,lat,long,Age,Paleolatitude,lower,upper,interpolated,Stable,tier,Pal_lat source,Version
+﻿source,geography,core or outcrop,location,lat,long,age,paleolatitude,lower,upper,interpolated,stable,tier,pal_lat source,version
 "Açikalin et al., 2015",NW Turkey,outcrop,Mudurnu Basin,40.40,30.80,64.00,30.40,25.40,35.40,TRUE,FALSE,3,"Van Hinsbergen et al., 2020",1
 "Açikalin et al., 2015",NW Turkey,outcrop,Mudurnu Basin,40.40,30.80,67.00,30.40,25.40,35.40,TRUE,FALSE,3,"Van Hinsbergen et al., 2020",1
 "Århus et al., 1989",Norway,core,Vega,65.60,10.99,166.00,48.90,44.30,53.90,TRUE,TRUE,3,"Van Hinsbergen et al., 2015",1
