@@ -261,6 +261,7 @@ Zevenboom, D.: Dinoflagellate cysts from the Mediterranean late Oligocene and Mi
 
 Added with Version 2.0:
 Bujak, J., Bringué, M., Goryacheva, A. A., Lebedeva, N. K., Pestchevitskaya, E. B., Riding, J. B., and Smelror, M.: Jurassic palynoevents in the circum-Arctic region, Atlantic Geoscience, 58, 055 - 098, 10.4138/atlgeo.2022.003, 2022.
+Copestake, P. and Partington Mark, A.: Chapter 13. Biozonation of the Jurassic–lowermost Cretaceous of the North Sea region, Geological Society, London, Memoirs, 59, 387-436, 10.1144/M59-2022-61, 2023.
 Crouch, E. M., Clowes, C. D., Raine, J. I., Alegret, L., Cramwinckel, M. J., and Sutherland, R.: Latest Cretaceous and Paleocene biostratigraphy and paleogeography of northern Zealandia, IODP Site U1509, New Caledonia Trough, southwest Pacific, New Zealand Journal of Geology and Geophysics, 10.1080/00288306.2022.2090386, 2022.
 González Estebenet, M. S., Guler, M. V., and Pérez Panera, J. P.: Late Maastrichtian to Danian organic-walled dinoflagellate cysts and calcareous nannofossils from eastern Austral Basin, Patagonia, Argentina, Review of Palaeobotany and Palynology, 285, 10.1016/j.revpalbo.2020.104342, 2021.
 Guerrero-Murcia, L. A. and Helenes, J.: Statistic biostratigraphy and paleoecology of tropical Upper Cretaceous dinoflagellate cysts, Journal of South American Earth Sciences, 115, 10.1016/j.jsames.2022.103730, 2022.
