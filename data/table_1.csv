@@ -1,202 +1,207 @@
-﻿Reference,Geography,Age base,Age top,Tier,Calibrated to:,Version
-"Açikalin et al., 2015",NW Turkey,67,65,3,planktonic foraminifera stratigraphy on the same section,1
-"Århus et al., 1989",Norway,166,155,3,"Russian Platform zones, converted to Boreal ammonite zones (see Supplement 1)",1
-"Aubry et al., 2020",Labrador Sea (IODP U1307),3.2,2.25,1,Magnetostratigraphy on the same samples. Magnetic reversals were calibrated usingplanktonic foraminifera and nannofossils,1
-"Awad and Oboh-Ikenobe, 2016",Ivory Coast Margin (ODP 959),57,54,3,CP nannoplankton stratigraphy on the same section,1
-"Awad and Oboh-Ikenobe, 2019",Ivory Coast Margin (ODP 959),28,16,3,CP/CN nannofossil stratigraphy on the same samples,1
-"Bailey et al., 1997",UK,157,152,3,Boreal ammonite stratigraphy from the same core samples.,1
-"Baruffini et al., 2002",S Italy,35,32,3,CP nannoplankton stratigraphy from the same study,1
-"Besems, 1992",Borneo,65,0,5,"chronostratigraphy, no independent age controll shown (Industry data)",1
-"Biffi and Manum, 1988",Central Italy,36,22,3,NP/NN nannoplankton and N/P planktonic foraminifer stratigraphies from the same sections,1
-"Bijl and Brinkhuis, 2015",Antarctica (IODP U1356),54,47,2,Magnetostratigraphy on the same section. Magnetochrons are dated using dinocyst biostratigraphy,1
-"Bijl et al 2013, 2014","SW Pacific (ODP 1171, 1172, IODP U1356)",57,35,2,"Complicated paleomagnetic signal and isotope stratigraphic constraints at Site 1171 and 1172. U1356 was calibrated to magnetostratigraphy, using dinocyst biostratigrapy",1
-"Bijl et al., 2018",Antarctica (IODP U1356),34,10,1,Magnetostratigraphy with nannoplankton stratigraphy,1
-"Bowman et al., 2012",Seymour Island,68,65,4,Inferred position of the K/Pg Boundary,1
-"Bowman et al., 2016",Seymour Island,66,57,4,Inferred position of the K/Pg Boundary,1
-"Brinkhuis and Biffi, 1993",Central Italy,37,32,1,"Magnetostratigraphy, based on nannoplankton stratigraphy and foraminifer stratigraphy",1
-"Brinkhuis et al., 1992",NW Italy,26,22,1,"Magnetostratigraphy, interpreted based on nannoplankton stratigraphy and foraminifer stratigraphy",1
-"Brinkhuis et al., 1998","Tunesia, Denmark",67,65,3,Planktonic foraminifer stratigraphy at the same sections,1
-"Brinkhuis et al., 2003a",Western Tasmania (ODP 1168),36,1,2,"Magnetostratigraphy with sparse nannoplankton in the Eocene. Oligocene and Neogene calibrated to nannoplankton-, foraminifer- and magnetostratigraphy",1
-"Brinkhuis et al., 2003b",East Tasman Plateau (ODP 1172),70,30,2,"A complicated paleomagnetic signal with isotope stratigraphic constraints (see Dallanave et al., 2016). ",1
-"Brinkhuis, 1994",Italy,35,33,1,Magnetostratigraphy with NP/CP nannoplankton and foraminifer stratigraphy in the same sections,1
-"Brown and Downie, 1984","Rockall Plateau (DSDP 552, 553 and 555)",58,33,3,CNP nannoplankton stratigraphy on the same cores,1
-"Brown and Downie, 1985",Northern Bay of Biscay (DSDP 548),60,10,3,NP/NN nannoplankton stratigraphy on the same cores,1
-"Bucefalo Palliani and Riding, 1997a",Italy,183,179,4,"Tethyan ammonite stratigraphy, but no ammonite data was shown",1
-"Bucefalo Palliani and Riding, 1997b",France,199,170,4,"Boreal ammonite stratigraphy, but no ammonite data was shown (see conversions in Supplement 1)",1
-"Bucefalo Palliani and Riding, 2000",UK,200,179,4,"Tethyan ammonite stratigraphy, but no ammonite data was shown  (see conversions in Supplement 1)",1
-"Bucefalo Palliani and Riding, 2003",Boreal/Tethys,191,180,4,"Boreal ammonite stratigraphy, but no ammonite data was shown.",1
-"Bujak and Matsuoka, 1986",North Pacific,23,0,5,"Independent age constraints from planktonic foraminifera, radiolaria, diatoms and nannoplankton are not shown in the paper.",1
-"Bujak and Mudge, 1994",North Sea,57,53,4,Synthesis. Plots dinocyst events against NP nannoplankton and P planktonic foraminifer stratigraphy not presenting independent stratigraphic data.,1
-"Correia et al., 2019",Portugal,183,168,3,Tethyan ammonite stratigraphy on the same sections.,1
-"Costa and Davey, 1992",North Sea,145,66,4,Ammonite zones are plotted but no ammonite data was presented. Campanian-Maastrichtian events were calibrated to stages (see conversions in Supplement 1),1
-"Costa and Downie, 1979",N atlantic,58,5,3,Nannoplankton stratigraphy on the same section,1
-"Crouch et al., 2014","New Zealand (ODP 1121, Mid waipara, Tawanui, Angora Road)",66,54,1,Magnetostratigraphy and NP nannoplankton stratigraphy on the same samples,1
-"Dallanave et al., 2016; Crouch et al., 2020",New Zealand (Mid-waipara),54,46,1,Magnetostratigraphy and NP nannoplankton zones on the same section,1
-"Davey and Verdier, 1971",France,113,103,4,"Boreal ammonite stratigraphy, not shown  (see conversions in Supplement 1)",1
-"Davey, 1979",N atlantic,124,100,3,Nannoplankton stratigraphy on the same section,1
-"Davey, 1982",Denmark,152,125,3,"Original stratigraphic account was based on Ammonites, pelycepods and benthic foraminifera  (see conversions in Supplement 1)",1
-"Davey, 2001",UK,134,131,3,Boreal Ammonite stratigraphy on the section,1
-"De Lira Mota et al., 2020",USA,37,32,3,NP nannofossil stratigraphy on the same samples,1
-"De Schepper and Head 2008, 2009",North Atlantic (DSDP 610),6,0,1,"Magnetostratigraphy, NN nannofossil stratigraphy and N planktonic foraminifer stratigraphy",1
-"De Schepper et al., 2017",North Atlantic (ODP 642),7,1,1,Magnetostratigraphy on the same section,1
-"De Vernal and Mudie, 1989","Labrador Sea (ODP 646, 647)",5.5,0,3,Shipboard NN nannofossil stratigraphy,1
-"De Vernal et al., 1992",North Atlantic,1.5,0,1,Magnetostratigraphy and NN nannofossil stratigraphy,1
-"De Verteuil and Norris, 1996","Chesapeake Bay, USA",25,4,4,"Synthesized stratigraphic data, no independent age control presented",1
-"Dimter and Smelror, 1990",sw Germany,166,163,3,Boreal ammonite zonation on the same material,1
-"Dodsworth, 2000",USA and UK,96,93,3,Planktonic foraminifer and ammonite stratigraphy on the same section,1
-"Duffield and Stein, 1986",Gulf Coast,35,5,3,N Planktonic foraminiferal zonation,1
-"Duque-Herrera et al., 2018",Colombia,18,5,3,NN nannofossil events in the same core,1
-"Duxbury, 1983",North Sea,126,110,3,Boreal ammonite zonation  (see conversions in Supplement 1),1
-"Duxbury, 2001",Scotland,139,100,4,"Boreal ammonite zonation, not directly from the well cutting material  (see conversions in Supplement 1)",1
-"Dybkjær and Piasecki, 2008, 2010",Denmark,23,0,3,NP/NN nannoplankton stratigraphy,1
-"Egger et al., 2016","Newfoundland (IODP U1405, U1406, U1411)",35,21,1,Magnetostratigraphy with NN nannoplankton stratigraphy,1
-"Eldrett and Harding, 2009","Voring Plateau, Norwegian Sea (DSDP 338) ",52,33,2,"Magnetostratigraphy on the same section, see Eldrett et al., 2004",1
-"Eldrett et al., 2004","Norwegian Sea (DSDP 338, ODP 647, 913)",50,30,2,"Magnetostratigraphy, but chrons were not independently interpreted",1
-"Eldrett et al., 2019",North Atlantic (985 and 908),34,24,2,"Magnetostratigraphy on the same section, see Eldrett et al., 2004",1
-"Eshet et al., 1992",Israel,67,65,3,NP nannoplankton strat at the same site,1
-"Feist-Burkhardt and Monteil, 1997",France,171,167,3,Calibrated to Boreal ammonite stratigraphy  (see conversions in Supplement 1),1
-"Feist-Burkhardt, 1990",sw Germany,174,168,3,Boreal ammonite stratigraphy,1
-"Fensome et al., 2008",Scotian Margin,100,0,3,"NN and NC nannoplankton stratigraphy, but because based on cuttings, only LADs are given",1
-"Firth et al., 2013",North Atlantic (ODP 647),51,32,1,Magnetostratigraphy with independent age control from nannoplankton and planktonic foraminifer stratigraphy,1
-"Firth, 1996",N Atlantic (ODP 647),45,30,1,"Calibrated using magnetostratigraphy from Eldrett et al., 2009",1
-"Frieling et al., 2014",West Siberian Sea,60,45,2,Magnetostratigraphy and stable carbon isotope stratigraphy,1
-"Gradstein et al., 1992",North Sea,66,23,3,"N/P foraminifer stratigraphy, but entered against NP nannoplankton stratigraphy",1
-"Grothe et al., 2017",Black Sea (DSDP 380),6,5.5,1,Magnetostratigraphy on the same section,1
-"Guasti et al., 2005",Tunisia,66,57,3,NP nannoplankton and P foraminifer stratigraphy on the same section,1
-"Habib and Drugg, 1983",USA (DSDP 534),157,138,1,Magnetostratigraphy on the same section,1
-"Habib and Drugg, 1987","Eastcoast USA (DSDP 603, 605)",145,66,2,Magnetostratigraphy on the same section,1
-"Harding et al., 2011",S Russia,152,134,3,"Russian ammonite zonation on the same sections, correlated to Boreal ammonite zones  (see conversions in Supplement 1)",1
-"Harland, 1979",N atlantic,12,0,3,Nannoplankton stratigraphy on the same section,1
-"Harland, 1992",North Sea,23,0,4,"NN nannoplankton and N planktonic foraminifer stratigraphy, but independent age constraints not explicitly shown",1
-"Head and Norris, 1989",Western North Atlantic (ODP 647),57,23,3,NN nannoplankton stratigraphy,1
-"Head and Norris, 2003",North Atlantic (DSDP 603),7,1,1,Magnetostrat and NC nannoplankton stratigraphy from the same section,1
-"Head et al., 1989",Labrador Sea (ODP 646),9,5,3,NN and CN nannoplankton stratigraphy at the same site,1
-"Head, 1998",North Sea,4,1.6,4,"Stages, using known ages of sampled formations",1
-"Heilmann-Clausen and Van Simaeys, 2005",Danish North Sea,48,30,3,NP nannofossil zonation,1
-"Heilmann-Clausen, 1985",North Sea,62,54,3,NP nannofossil zones on the same section,1
-"Heilmann-Clausen, 1987",Danish basin,152,100,4,Synthesis of records from the North Sea area. Correlation to Boreal ammonite zones  (see conversions in Supplement 1),1
-"Helby and McMinn, 1992",NW australia (ODP 765),139,104,3,CC nannofossil zonation on the same section,1
-"Helby et al., 1987",Australia,241,66,4,"Synthesis, calibrated to stages using industry information. Albian-Danian has independent age controll from foraminiferal and nannoplankton zones",1
-"Hoek et al., 1996",Israel,73,69,3,CC and UC nannofossil events,1
-"Hollis et al., 2009",New Zealand,51,46,3,NP nannofossil stratigraphy on the same section,1
-"Houben et al., 2011",S Atlantic (DSDP 511),35,32,1,"Oi-1 isotope event, the age of which is then transferred to the GPTS",1
-"Houben et al., 2019","Alabama, USA",37,30,1,Magnetostratigraphy and NP nannoplankton stratigraphy on the same section,1
-"Iakovleva and Heilmann-Clausen, 2010",Siberia,52,35,2,Magnetostratigraphy on the same section,1
-"Ioannides et al., 1988",France,157,152,3,Boreal ammonite stratigraphy  (see conversions in Supplement 1),1
-"King et al., 2018",Crimea,59,48,3,NP nannofossil stratigraphy on the same samples,1
-"Kirsch, 1991","Bad Tolz, Southern Germany",94,66,3,"Planktonic foraminifer stratigraphy, data not shown",1
-"Köthe et al., 1988",Pakistan,58,50,3,Nannoplankton stratigraphy on the same sections,1
-"Köthe, 2012",NW Germany,65,0,3,NP nannoplankton stratigraphy in the same sections. (for conversions see Supplement 1),1
-"Krijgsman et al., 1995",Mediterranean (Gibliscemi),10,7,1,Magnetostratigraphy with planktonic foraminifer stratigraphy on the same section,1
-"Kuhlman et al., 2006",Central North Sea,4,0,1,Magnetostratigraphy with foraminifer stratigraphy on the same section,1
-"Lebedeva et al., 2013","Omsk, sw siberia",83,68,1,Magnetostratigraphy and CC nannoplankton stratigraphy on the same section,1
-"Leereveld, 1995","Caravaca, Southern Spain",145,105,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Leereveld, 1997a","Caravaca, Southern Spain",134,125,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Leereveld, 1997b","Caravaca, Southern Spain",146,134,3,Tethyan ammonite stratigraphy on the same section,1
-"Londeix and Jan Du Chene, 1998","Bordeaux, France",21,16,3,NN nannoplankton stratigraphy,1
-"Louwye et al., 2004",Belgium,6,0,3,NN nannoplankton stratigraphy on the same section,1
-"Louwye et al., 2008","Porcupine basin, Ireland (IODP U1318)",17,11,1,Magnetostratigraphy on the same section,1
-"Mao and Mohr, 1992",Kerguelen Plateau (ODP 748),75,70,3,CC nannofossil stratigraphy on the same section,1
-"Marret et al., 2020",global,0,0,,Surface sediment data,1
-"Masure et al., 1998",Ivory Coast Margin (ODP 959),90,57,3,CP and CC nannoplaknton stratigraphy on the same section,1
-"Masure, 1988",Ivory Coast Margin (ODP 959),140,112,3,CC nannofossil stratigraphy on the same section,1
-"Matsuoka et al., 1987",Japan,20,0,3,N foraminifer events on the same section,1
-"Matthiessen and Brenner, 1996",Spitsbergen,3,0,1,Magnetostratigraphy on the same section,1
-"McLachlan et al., 2018",western Canada,77,71,1,Magnetostratigraphy on the same site,1
-"McMinn, 1992",NW Australia (ODP 765),16,3,3,CP nannofossil stratigraphy and N planktonic foraminifer stratigraphy,1
-"McMinn, 1993",NW Australia (ODP 815),9,0,3,CN nannoplankton stratigraphy on the same section,1
-"Mohr and Mao, 1997","Kerguelen and Maud Rise (ODP 690, 748)",73,70,1,"Magnetostratigraphy, CC nannoplankton stratigraphy",1
-"Montanari et al., 1997","Contessa, Gubbio, Italy",26,16,1,"Magnetostratigraphy, foraminifer and nannoplankton stratigraphy",1
-"Monteil, 1992",France,152,134,3,"Tethyan Ammonite stratigraphy. Partly overwritten by Monteil, 1993 (for conversions see Supplement 1)",1
-"Monteil, 1993",France,152,140,3,"Some sections were calibrated to Tehyan ammonite stratigraphy, some only indicated stages (for conversions see Supplement 1)",1
-"Mudge and Bujak, 1996",North Sea,66,33,3,"Synthesis, using P planktonic foraminifer and NP nannoplankton events in the same section, but no data shown",1
-"Mudge and Bujak, 2001",Faroe-Shetland,66,54,3,"NP nannoplankton zones and P planktonic foraminifer zones in the same sections, but no data shown",1
-"Mudie, 1987","North Atlantic (DSDP 607, 611)",8,0,1,"Magnetostratigraphy, N foraminifer strat and NN nannoplankton stratigraphy",1
-"Nikitenko et al., 2008",Siberia,150,134,3,"Siberian ammonite stratigraphy, in the paper correlated to Tethyan ammonite zones (for conversions see Supplement 1)",1
-"Nøhr-Hansen et al., 2002",West Greenland,66,62,3,NP nannofossil stratigraphy on the same section,1
-"Nøhr-Hansen et al., 2020",Greenland,150,66,4,"Ammonite zonation on the same sections, but ammonite data shown separately. Calibrated to stages herein",1
-"Olde et al, 2015",North Sea,94,88,3,Boreal ammonite stratigraphy on the same section,1
-"Oosting et al., 2006",Australia (DSDP 263),131,120,4,"Tethyan ammonite stratigraphy on Angles, then inferred for Site 263 (for conversions see Supplement 1)",1
-"Pearce, 2010",UK,95,70,4,UK ammonite zonations in nearby outcrops. Some intervals could not be correlated to the GTS2012,1
-"Piasecki et al., 1992",Greenland,65,57,3,NP Nannofossil stratigraphy on the same section,1
-"Poulsen and Riding, 2003",North Sea,210,137,4,"Synthesis of Danish and British dinocyst events. Calibrated to Boreal ammonite stratigraphy, but presented, and herein plotted against stages",1
-"Poulsen, 1992",Denmark,163,145,4,Boreal ammonite stratigraphy. Synthesis,1
-"Poulsen, 1998",Poland,169,164,3,Boreal and Tethyan ammonite zones,1
-"Powell et al., 1996",North Sea,59,55,1,Magnetostratigraphy on the same sections,1
-"Powell in Powell, 1992",North Sea,66,23,4,"P planktonic foraminifer and NP nannofossil stratigraphy, no direct calibration data shown",1
-"Powell, 1986",NW Italy,25,21,3,NP nannofossil stratigraphy on the same section,1
-"Powell, 1988",Central North Sea,63,54,3,"NP nannofossil stratigraphy on the same sediments, no nannoplankton data directly shown",1
-"Prince et al., 2008",UK,89,83,3,"UK ammonite stratigraphy on the same sections, herein correlated to GTS2012",1
-"Pross et al., 2010",Western Tethys,35,22,1,Magnetostratigraphy and independent age control from NP nannoplankton stratigraphy,1
-"Quaijtaal and Brinkhuis, 2012","Alabama, USA",37,30,1,"Magnetostratigraphy from the same section, independently established using nannoplankton and foraminifer stratigraphy",1
-"Quaijtaal et al., 2014","Porcupine basin, Ireland (IODP U1318)",17,11,1,"Magnetostratigraphy from the same section, independently established using nannoplankton stratigraphy",1
-"Radmacher et al., 2014a",Barentz Sea,101,71,4,Ages of the lithostratigraphic framework,1
-"Radmacher et al., 2014b",Zumaia,74,70,1,Magnetostratigraphy and UC nannoplankton stratigraphy on the same section,1
-"Radmacher et al., 2015",Norwegian Sea,113,66,4,"Regional lithostratigraphy dated using foraminifers and nannoplankton, but no direct independent age constraints shown",1
-"Riding and Helby, 2001a-g",NW Australia,182,100,4,"Nannofossil and ammonite stratigraphy, but with some correlation to European and Tethyan sections (for conversions see Supplement 1)",1
-"Riding and Thomas in Powell, 1992",North Sea,202,145,4,"Boreal ammonite zonations, but not directly shown in paper (for conversions see Supplement 1)",1
-"Riding and Thomas, 1988",UK,160,150,3,Boreal ammonite zonation on the same section (for conversions see Supplement 1),1
-"Riding and Thomas, 1997","N Scotland, isle of Skye",166,155,3,Boreal ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Riding et al, 2010",Australia,237,145,4,"Ammonites, conodonts, Belemnite/bivalve, NJ nannoplankton stratigraphy and strontium isotopes, but these data are not shown in the paper",1
-"Riley and Fenton, 1982",UK/France,166,160,3,Boreal ammonite stratigraphy on the same sections,1
-"Schiøler, 1993",Denmark,72,66,4,"Stages, independent age constraints come from calcareous microplankton, not shown",1
-"Schreck and Matthiessen, 2014",Northern Iceland,14,5,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1
-"Schreck et al., 2012",Northern Iceland,15,2,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1
-"Schreck et al., 2013",Northern Iceland,15,2,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1
-"Schreck et al., 2017",Northern Iceland,15,2,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1
-"Shulgina et al., 1994",Siberia,145,132,3,Boreal ammonite stratigraphy on the same sections (for conversions see Supplement 1),1
-"Skupien and Vašíček, 2002",Czech republic,131,113,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Skupien, 2004",Slovakia,123,99,3,Boreal ammonite stratigraphy (for conversions see Supplement 1),1
-"Slimani and Louwye, 2011",Belgium,75,62,4,"Regional lithostratigraphy calibrated to belemnite stratigraphy, tied to type Maastrichtian",1
-"Sliwinska et al., 2012",Danish North Sea,34,25,1,Magnetostratigraphy and NP nannoplankton on the same section,1
-"Sluijs et al., 2003","Tasmania (ODP 1168, 1171, 1172)",37,30,2,"Magnetostratigraphy on the same section, but no independent chron assignment",1
-"Smelror and Dietl, 1994",s Germany,167,165,3,Boreal ammonite stratigraphy on the same section,1
-"Smelror and Lominadze, 1989",Caucasus,166,163,3,Boreal ammonite stratigraphy from the same section (for conversions see Supplement 1),1
-"Smelror et al., 1991",Spain,168,158,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Smelror, 1988a",Greenland,167,160,3,Boreal ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Smelror, 1988b",Svalbard,168,160,3,"NW European ammonite stratigraphy, herein calibrated to the Boreal zonation (for conversions see Supplement 1)",1
-"Smelror, 1994",Swabia,167,165,4,"Ammonite and foraminifer stratigraphy, but herein calibrated against stages",1
-"Soliman et al., 2012",Golf of Suez,54,14,3,NP/NN nannoplankton stratigraphy on the same section,1
-"Steeman et al., 2020",Angola,60,35,3,P/E foraminifer stratigraphy on the same section,1
-"Stover and Hardenbol, 1994",Belgium,34,28,3,NP nannoplankton stratigraphy on the same sections,1
-"Strauss and Lund, 1992",Germany,18,6,3,Nannoplankton stratigraphy on the same sections,1
-"Thorn et al, 2009","Seymour Island, Antarctic Peninsula",68,65,4,The position of the K-Pg boundary,1
-"Tocher and Jarvis, 1994","Fumichon, France",100,95,3,Boreal ammonite stratigraphy on the same section,1
-"Tocher and Jarvis, 1995",NW France,101,92,3,Boreal ammonite stratigraphy on the same section,1
-"Tocher and Jarvis, 1996",NW France and SW UK,110,95,3,Boreal ammonite stratigraphy on the same section (for conversions see Supplement 1),1
-"Tocher, 1987","New Jersey Shelf, USA (DSDP 612)",73,66,3,Planktonic foraminifer stratigraphy on the same samples,1
-"Torricelli and Amore, 2003",Southern Italy,101,72,3,CC nannoplankton stratigraphy on the same section,1
-"Torricelli et al., 2006","Tremp Basin, Northern Spain",53,51,3,(P) planktonic foraminifer and NP nannoplankton stratigraphy on the same section,1
-"Torricelli, 2000",southern Italy,131,100,1,"Integrated bio-magneto-cyclostratigraphic framework, but only stages shown in the paper",1
-"Torricelli, 2006","Piobbico, Italy",113,100,3,NC nannoplankton stratigraphy on the same section,1
-"Türkecan et al., 2018",Turkey,18,14,3,NN nannofossil and M foraminifer stratigraphy from the same section,1
-"Van Mourik and Brinkhuis, 2005",Italy,37,33,1,Magnetostratigraphy on the same section,1
-"Van Mourik et al., 2001",Offshore Florida (ODP 1053),39,35,1,Magnetostratigraphy and CP nannoplankton stratigraphy on the same section,1
-"Van Simaeys et al., 2004",Belgium,33,22,3,NP nannoplankton stratigraphy on the same sections,1
-"Van Simaeys et al., 2005",Rhine Graben,33,22,1,Magnetostratigraphy on the same section,1
-"vd Schootbrugge et al., 2019a","UK, Arctic",189,174,3,Boreal ammonite stratigraphy on the same section,1
-"vd Schootbrugge et al., 2019b",northern Germany,202,178,3,Boreal ammonite stratigraphy,1
-"Vellekoop et al., 2015",Tunisia,67,65,3,P foraminiferal zones on the same section,1
-"Versteegh and Zevenboom, 1995",South Italy,28,0,1,Magnetostratigraphy on the same section,1
-"Versteegh, 1997","North Atlantic Ocean, Italy",3,2,1,"Isotope stages, herein recalibrated to NN and CN nannoplankton zones",1
-"Vieira et al., 2020",North Sea,59,56,3,NP nannofossil and P foraminifer stratigraphy,1
-"Williams and Bujak, 1977",Topical and North Atlantic Ocean,25,0,5,"Stages, no independent age control given",1
-"Williams et al., 1993",Northern Hemisphere,210,0,5,"Stages, no independent age control given",1
-"Willumsen, 2012",New Zealand,70,64,3,P foraminifer stratigraphy,1
-"Wilpshaar et al., 1996",Central Italy,35,22,3,CP an NP nannoplankton and N planktonic foraminifer stratigraphy,1
-"Woollam and Riding, 1983",UK,209,140,3,Boreal ammonite stratigraphy (for conversions see Supplement 1),1
-"Wrenn and Kokinos, 1986",Gulf Coast,10,0,1,Magnetostratigraphy on the same section,1
-"Zegarra and Helenes, 2011",Equatorial Eastern Pacific (ODP 1039),18,0,1,"Independent age model from magnetostratigraphy, nannoplankton and foram stratigraphy",1
-"Zevenboom, 1995",Italy,26,16,3,NP/NN nannoplankton stratigraphy on the same sections,1
-New in Version 2.0:,,,,,,
-"Bujak et al., 2022",Arctic,205,140,3,Calibrated to boreal ammonite stratigraphy,2
-"Crouch et al., 2022",Zealandia,63,56,3,Calibrated to NP nannoplankton stratigraphy,2
-"Gonzalez-Estebenet et al., 2021",Austral Basin,70,54,3,Calibrated to NP nannoplankton stratigraphy,2
-"Guerrero-Murcia and Helenes, 2022",Venezuela,100,65,5,Calibrated to stages,2
-"Jarvis et al., 2021",Germany,90,88,3,Calibrated to boreal ammonite stratigraphy,2
-"Pearce et al., 2020",UK,100,90,3,Calibrated to boreal ammonite stratigraphy,2
-"Pearce et al., 2022",France,86,70,3,Calibrated to UC nannofossil stratigraphy,2
-"Torricelli et al., 2022",Angola,34,13,3,Calibrated to CP nannofossil stratigraphy,2
-"Vasilyeva and Musatov, 2022",Crimea,45,37,3,Calibrated to CNE nannofossil stratigraphy,2
-"Vieira et al., 2020b",North Sea,66,56,3,Calibrated to stages with information from nannofossils,2
-"Vieira and Mahdi, 2022",Norway,85,62,3,Calibrated to stages with information from nannofossils,2
+﻿Reference,Geography,Age base,Age top,Tier,Calibrated to:,Version,
+"Açikalin et al., 2015",NW Turkey,67,65,3,planktonic foraminifera stratigraphy on the same section,1,
+"Århus et al., 1989",Norway,166,155,3,"Russian Platform zones, converted to Boreal ammonite zones (see Supplement 1)",1,
+"Aubry et al., 2020",Labrador Sea (IODP U1307),3.2,2.25,1,Magnetostratigraphy on the same samples. Magnetic reversals were calibrated usingplanktonic foraminifera and nannofossils,1,
+"Awad and Oboh-Ikenobe, 2016",Ivory Coast Margin (ODP 959),57,54,3,CP nannoplankton stratigraphy on the same section,1,
+"Awad and Oboh-Ikenobe, 2019",Ivory Coast Margin (ODP 959),28,16,3,CP/CN nannofossil stratigraphy on the same samples,1,
+"Bailey et al., 1997",UK,157,152,3,Boreal ammonite stratigraphy from the same core samples.,1,
+"Baruffini et al., 2002",S Italy,35,32,3,CP nannoplankton stratigraphy from the same study,1,
+"Besems, 1992",Borneo,65,0,5,"chronostratigraphy, no independent age controll shown (Industry data)",1,
+"Biffi and Manum, 1988",Central Italy,36,22,3,NP/NN nannoplankton and N/P planktonic foraminifer stratigraphies from the same sections,1,
+"Bijl and Brinkhuis, 2015",Antarctica (IODP U1356),54,47,2,Magnetostratigraphy on the same section. Magnetochrons are dated using dinocyst biostratigraphy,1,
+"Bijl et al 2013, 2014","SW Pacific (ODP 1171, 1172, IODP U1356)",57,35,2,"Complicated paleomagnetic signal and isotope stratigraphic constraints at Site 1171 and 1172. U1356 was calibrated to magnetostratigraphy, using dinocyst biostratigrapy",1,
+"Bijl et al., 2018",Antarctica (IODP U1356),34,10,1,Magnetostratigraphy with nannoplankton stratigraphy,1,
+"Bowman et al., 2012",Seymour Island,68,65,4,Inferred position of the K/Pg Boundary,1,
+"Bowman et al., 2016",Seymour Island,66,57,4,Inferred position of the K/Pg Boundary,1,
+"Brinkhuis and Biffi, 1993",Central Italy,37,32,1,"Magnetostratigraphy, based on nannoplankton stratigraphy and foraminifer stratigraphy",1,
+"Brinkhuis et al., 1992",NW Italy,26,22,1,"Magnetostratigraphy, interpreted based on nannoplankton stratigraphy and foraminifer stratigraphy",1,
+"Brinkhuis et al., 1998","Tunesia, Denmark",67,65,3,Planktonic foraminifer stratigraphy at the same sections,1,
+"Brinkhuis et al., 2003a",Western Tasmania (ODP 1168),36,1,2,"Magnetostratigraphy with sparse nannoplankton in the Eocene. Oligocene and Neogene calibrated to nannoplankton-, foraminifer- and magnetostratigraphy",1,
+"Brinkhuis et al., 2003b",East Tasman Plateau (ODP 1172),70,30,2,"A complicated paleomagnetic signal with isotope stratigraphic constraints (see Dallanave et al., 2016). ",1,
+"Brinkhuis, 1994",Italy,35,33,1,Magnetostratigraphy with NP/CP nannoplankton and foraminifer stratigraphy in the same sections,1,
+"Brown and Downie, 1984","Rockall Plateau (DSDP 552, 553 and 555)",58,33,3,CNP nannoplankton stratigraphy on the same cores,1,
+"Brown and Downie, 1985",Northern Bay of Biscay (DSDP 548),60,10,3,NP/NN nannoplankton stratigraphy on the same cores,1,
+"Bucefalo Palliani and Riding, 1997a",Italy,183,179,4,"Tethyan ammonite stratigraphy, but no ammonite data was shown",1,
+"Bucefalo Palliani and Riding, 1997b",France,199,170,4,"Boreal ammonite stratigraphy, but no ammonite data was shown (see conversions in Supplement 1)",1,
+"Bucefalo Palliani and Riding, 2000",UK,200,179,4,"Tethyan ammonite stratigraphy, but no ammonite data was shown  (see conversions in Supplement 1)",1,
+"Bucefalo Palliani and Riding, 2003",Boreal/Tethys,191,180,4,"Boreal ammonite stratigraphy, but no ammonite data was shown.",1,
+"Bujak and Matsuoka, 1986",North Pacific,23,0,5,"Independent age constraints from planktonic foraminifera, radiolaria, diatoms and nannoplankton are not shown in the paper.",1,
+"Bujak and Mudge, 1994",North Sea,57,53,4,Synthesis. Plots dinocyst events against NP nannoplankton and P planktonic foraminifer stratigraphy not presenting independent stratigraphic data.,1,
+"Correia et al., 2019",Portugal,183,168,3,Tethyan ammonite stratigraphy on the same sections.,1,
+"Costa and Davey, 1992",North Sea,145,66,4,Ammonite zones are plotted but no ammonite data was presented. Campanian-Maastrichtian events were calibrated to stages (see conversions in Supplement 1),1,
+"Costa and Downie, 1979",N atlantic,58,5,3,Nannoplankton stratigraphy on the same section,1,
+"Crouch et al., 2014","New Zealand (ODP 1121, Mid waipara, Tawanui, Angora Road)",66,54,1,Magnetostratigraphy and NP nannoplankton stratigraphy on the same samples,1,
+"Dallanave et al., 2016; Crouch et al., 2020",New Zealand (Mid-waipara),54,46,1,Magnetostratigraphy and NP nannoplankton zones on the same section,1,
+"Davey and Verdier, 1971",France,113,103,4,"Boreal ammonite stratigraphy, not shown  (see conversions in Supplement 1)",1,
+"Davey, 1979",N atlantic,124,100,3,Nannoplankton stratigraphy on the same section,1,
+"Davey, 1982",Denmark,152,125,3,"Original stratigraphic account was based on Ammonites, pelycepods and benthic foraminifera  (see conversions in Supplement 1)",1,
+"Davey, 2001",UK,134,131,3,Boreal Ammonite stratigraphy on the section,1,
+"De Lira Mota et al., 2020",USA,37,32,3,NP nannofossil stratigraphy on the same samples,1,
+"De Schepper and Head 2008, 2009",North Atlantic (DSDP 610),6,0,1,"Magnetostratigraphy, NN nannofossil stratigraphy and N planktonic foraminifer stratigraphy",1,
+"De Schepper et al., 2017",North Atlantic (ODP 642),7,1,1,Magnetostratigraphy on the same section,1,
+"De Vernal and Mudie, 1989","Labrador Sea (ODP 646, 647)",5.5,0,3,Shipboard NN nannofossil stratigraphy,1,
+"De Vernal et al., 1992",North Atlantic,1.5,0,1,Magnetostratigraphy and NN nannofossil stratigraphy,1,
+"De Verteuil and Norris, 1996","Chesapeake Bay, USA",25,4,4,"Synthesized stratigraphic data, no independent age control presented",1,
+"Dimter and Smelror, 1990",sw Germany,166,163,3,Boreal ammonite zonation on the same material,1,
+"Dodsworth, 2000",USA and UK,96,93,3,Planktonic foraminifer and ammonite stratigraphy on the same section,1,
+"Duffield and Stein, 1986",Gulf Coast,35,5,3,N Planktonic foraminiferal zonation,1,
+"Duque-Herrera et al., 2018",Colombia,18,5,3,NN nannofossil events in the same core,1,
+"Duxbury, 1983",North Sea,126,110,3,Boreal ammonite zonation  (see conversions in Supplement 1),1,
+"Duxbury, 2001",Scotland,139,100,4,"Boreal ammonite zonation, not directly from the well cutting material  (see conversions in Supplement 1)",1,
+"Dybkjær and Piasecki, 2008, 2010",Denmark,23,0,3,NP/NN nannoplankton stratigraphy,1,
+"Egger et al., 2016","Newfoundland (IODP U1405, U1406, U1411)",35,21,1,Magnetostratigraphy with NN nannoplankton stratigraphy,1,
+"Eldrett and Harding, 2009","Voring Plateau, Norwegian Sea (DSDP 338) ",52,33,2,"Magnetostratigraphy on the same section, see Eldrett et al., 2004",1,
+"Eldrett et al., 2004","Norwegian Sea (DSDP 338, ODP 647, 913)",50,30,2,"Magnetostratigraphy, but chrons were not independently interpreted",1,
+"Eldrett et al., 2019",North Atlantic (985 and 908),34,24,2,"Magnetostratigraphy on the same section, see Eldrett et al., 2004",1,
+"Eshet et al., 1992",Israel,67,65,3,NP nannoplankton strat at the same site,1,
+"Feist-Burkhardt and Monteil, 1997",France,171,167,3,Calibrated to Boreal ammonite stratigraphy  (see conversions in Supplement 1),1,
+"Feist-Burkhardt, 1990",sw Germany,174,168,3,Boreal ammonite stratigraphy,1,
+"Fensome et al., 2008",Scotian Margin,100,0,3,"NN and NC nannoplankton stratigraphy, but because based on cuttings, only LADs are given",1,
+"Firth et al., 2013",North Atlantic (ODP 647),51,32,1,Magnetostratigraphy with independent age control from nannoplankton and planktonic foraminifer stratigraphy,1,
+"Firth, 1996",N Atlantic (ODP 647),45,30,1,"Calibrated using magnetostratigraphy from Eldrett et al., 2009",1,
+"Frieling et al., 2014",West Siberian Sea,60,45,2,Magnetostratigraphy and stable carbon isotope stratigraphy,1,
+"Gradstein et al., 1992",North Sea,66,23,3,"N/P foraminifer stratigraphy, but entered against NP nannoplankton stratigraphy",1,
+"Grothe et al., 2017",Black Sea (DSDP 380),6,5.5,1,Magnetostratigraphy on the same section,1,
+"Guasti et al., 2005",Tunisia,66,57,3,NP nannoplankton and P foraminifer stratigraphy on the same section,1,
+"Habib and Drugg, 1983",USA (DSDP 534),157,138,1,Magnetostratigraphy on the same section,1,
+"Habib and Drugg, 1987","Eastcoast USA (DSDP 603, 605)",145,66,2,Magnetostratigraphy on the same section,1,
+"Harding et al., 2011",S Russia,152,134,3,"Russian ammonite zonation on the same sections, correlated to Boreal ammonite zones  (see conversions in Supplement 1)",1,
+"Harland, 1979",N atlantic,12,0,3,Nannoplankton stratigraphy on the same section,1,
+"Harland, 1992",North Sea,23,0,4,"NN nannoplankton and N planktonic foraminifer stratigraphy, but independent age constraints not explicitly shown",1,
+"Head and Norris, 1989",Western North Atlantic (ODP 647),57,23,3,NN nannoplankton stratigraphy,1,
+"Head and Norris, 2003",North Atlantic (DSDP 603),7,1,1,Magnetostrat and NC nannoplankton stratigraphy from the same section,1,
+"Head et al., 1989",Labrador Sea (ODP 646),9,5,3,NN and CN nannoplankton stratigraphy at the same site,1,
+"Head, 1998",North Sea,4,1.6,4,"Stages, using known ages of sampled formations",1,
+"Heilmann-Clausen and Van Simaeys, 2005",Danish North Sea,48,30,3,NP nannofossil zonation,1,
+"Heilmann-Clausen, 1985",North Sea,62,54,3,NP nannofossil zones on the same section,1,
+"Heilmann-Clausen, 1987",Danish basin,152,100,4,Synthesis of records from the North Sea area. Correlation to Boreal ammonite zones  (see conversions in Supplement 1),1,
+"Helby and McMinn, 1992",NW australia (ODP 765),139,104,3,CC nannofossil zonation on the same section,1,
+"Helby et al., 1987",Australia,241,66,4,"Synthesis, calibrated to stages using industry information. Albian-Danian has independent age controll from foraminiferal and nannoplankton zones",1,
+"Hoek et al., 1996",Israel,73,69,3,CC and UC nannofossil events,1,
+"Hollis et al., 2009",New Zealand,51,46,3,NP nannofossil stratigraphy on the same section,1,
+"Houben et al., 2011",S Atlantic (DSDP 511),35,32,1,"Oi-1 isotope event, the age of which is then transferred to the GPTS",1,
+"Houben et al., 2019","Alabama, USA",37,30,1,Magnetostratigraphy and NP nannoplankton stratigraphy on the same section,1,
+"Iakovleva and Heilmann-Clausen, 2010",Siberia,52,35,2,Magnetostratigraphy on the same section,1,
+"Ioannides et al., 1988",France,157,152,3,Boreal ammonite stratigraphy  (see conversions in Supplement 1),1,
+"King et al., 2018",Crimea,59,48,3,NP nannofossil stratigraphy on the same samples,1,
+"Kirsch, 1991","Bad Tolz, Southern Germany",94,66,3,"Planktonic foraminifer stratigraphy, data not shown",1,
+"Köthe et al., 1988",Pakistan,58,50,3,Nannoplankton stratigraphy on the same sections,1,
+"Köthe, 2012",NW Germany,65,0,3,NP nannoplankton stratigraphy in the same sections. (for conversions see Supplement 1),1,
+"Krijgsman et al., 1995",Mediterranean (Gibliscemi),10,7,1,Magnetostratigraphy with planktonic foraminifer stratigraphy on the same section,1,
+"Kuhlman et al., 2006",Central North Sea,4,0,1,Magnetostratigraphy with foraminifer stratigraphy on the same section,1,
+"Lebedeva et al., 2013","Omsk, sw siberia",83,68,1,Magnetostratigraphy and CC nannoplankton stratigraphy on the same section,1,
+"Leereveld, 1995","Caravaca, Southern Spain",145,105,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Leereveld, 1997a","Caravaca, Southern Spain",134,125,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Leereveld, 1997b","Caravaca, Southern Spain",146,134,3,Tethyan ammonite stratigraphy on the same section,1,
+"Londeix and Jan Du Chene, 1998","Bordeaux, France",21,16,3,NN nannoplankton stratigraphy,1,
+"Louwye et al., 2004",Belgium,6,0,3,NN nannoplankton stratigraphy on the same section,1,
+"Louwye et al., 2008","Porcupine basin, Ireland (IODP U1318)",17,11,1,Magnetostratigraphy on the same section,1,
+"Mao and Mohr, 1992",Kerguelen Plateau (ODP 748),75,70,3,CC nannofossil stratigraphy on the same section,1,
+"Marret et al., 2020",global,0,0,,Surface sediment data,1,
+"Masure et al., 1998",Ivory Coast Margin (ODP 959),90,57,3,CP and CC nannoplaknton stratigraphy on the same section,1,
+"Masure, 1988",Ivory Coast Margin (ODP 959),140,112,3,CC nannofossil stratigraphy on the same section,1,
+"Matsuoka et al., 1987",Japan,20,0,3,N foraminifer events on the same section,1,
+"Matthiessen and Brenner, 1996",Spitsbergen,3,0,1,Magnetostratigraphy on the same section,1,
+"McLachlan et al., 2018",western Canada,77,71,1,Magnetostratigraphy on the same site,1,
+"McMinn, 1992",NW Australia (ODP 765),16,3,3,CP nannofossil stratigraphy and N planktonic foraminifer stratigraphy,1,
+"McMinn, 1993",NW Australia (ODP 815),9,0,3,CN nannoplankton stratigraphy on the same section,1,
+"Mohr and Mao, 1997","Kerguelen and Maud Rise (ODP 690, 748)",73,70,1,"Magnetostratigraphy, CC nannoplankton stratigraphy",1,
+"Montanari et al., 1997","Contessa, Gubbio, Italy",26,16,1,"Magnetostratigraphy, foraminifer and nannoplankton stratigraphy",1,
+"Monteil, 1992",France,152,134,3,"Tethyan Ammonite stratigraphy. Partly overwritten by Monteil, 1993 (for conversions see Supplement 1)",1,
+"Monteil, 1993",France,152,140,3,"Some sections were calibrated to Tehyan ammonite stratigraphy, some only indicated stages (for conversions see Supplement 1)",1,
+"Mudge and Bujak, 1996",North Sea,66,33,3,"Synthesis, using P planktonic foraminifer and NP nannoplankton events in the same section, but no data shown",1,
+"Mudge and Bujak, 2001",Faroe-Shetland,66,54,3,"NP nannoplankton zones and P planktonic foraminifer zones in the same sections, but no data shown",1,
+"Mudie, 1987","North Atlantic (DSDP 607, 611)",8,0,1,"Magnetostratigraphy, N foraminifer strat and NN nannoplankton stratigraphy",1,
+"Nikitenko et al., 2008",Siberia,150,134,3,"Siberian ammonite stratigraphy, in the paper correlated to Tethyan ammonite zones (for conversions see Supplement 1)",1,
+"Nøhr-Hansen et al., 2002",West Greenland,66,62,3,NP nannofossil stratigraphy on the same section,1,
+"Nøhr-Hansen et al., 2020",Greenland,150,66,4,"Ammonite zonation on the same sections, but ammonite data shown separately. Calibrated to stages herein",1,
+"Olde et al, 2015",North Sea,94,88,3,Boreal ammonite stratigraphy on the same section,1,
+"Oosting et al., 2006",Australia (DSDP 263),131,120,4,"Tethyan ammonite stratigraphy on Angles, then inferred for Site 263 (for conversions see Supplement 1)",1,
+"Pearce, 2010",UK,95,70,4,UK ammonite zonations in nearby outcrops. Some intervals could not be correlated to the GTS2012,1,
+"Piasecki et al., 1992",Greenland,65,57,3,NP Nannofossil stratigraphy on the same section,1,
+"Poulsen and Riding, 2003",North Sea,210,137,4,"Synthesis of Danish and British dinocyst events. Calibrated to Boreal ammonite stratigraphy, but presented, and herein plotted against stages",1,
+"Poulsen, 1992",Denmark,163,145,4,Boreal ammonite stratigraphy. Synthesis,1,
+"Poulsen, 1998",Poland,169,164,3,Boreal and Tethyan ammonite zones,1,
+"Powell et al., 1996",North Sea,59,55,1,Magnetostratigraphy on the same sections,1,
+"Powell in Powell, 1992",North Sea,66,23,4,"P planktonic foraminifer and NP nannofossil stratigraphy, no direct calibration data shown",1,
+"Powell, 1986",NW Italy,25,21,3,NP nannofossil stratigraphy on the same section,1,
+"Powell, 1988",Central North Sea,63,54,3,"NP nannofossil stratigraphy on the same sediments, no nannoplankton data directly shown",1,
+"Prince et al., 2008",UK,89,83,3,"UK ammonite stratigraphy on the same sections, herein correlated to GTS2012",1,
+"Pross et al., 2010",Western Tethys,35,22,1,Magnetostratigraphy and independent age control from NP nannoplankton stratigraphy,1,
+"Quaijtaal and Brinkhuis, 2012","Alabama, USA",37,30,1,"Magnetostratigraphy from the same section, independently established using nannoplankton and foraminifer stratigraphy",1,
+"Quaijtaal et al., 2014","Porcupine basin, Ireland (IODP U1318)",17,11,1,"Magnetostratigraphy from the same section, independently established using nannoplankton stratigraphy",1,
+"Radmacher et al., 2014a",Barentz Sea,101,71,4,Ages of the lithostratigraphic framework,1,
+"Radmacher et al., 2014b",Zumaia,74,70,1,Magnetostratigraphy and UC nannoplankton stratigraphy on the same section,1,
+"Radmacher et al., 2015",Norwegian Sea,113,66,4,"Regional lithostratigraphy dated using foraminifers and nannoplankton, but no direct independent age constraints shown",1,
+"Riding and Helby, 2001a-g",NW Australia,182,100,4,"Nannofossil and ammonite stratigraphy, but with some correlation to European and Tethyan sections (for conversions see Supplement 1)",1,
+"Riding and Thomas in Powell, 1992",North Sea,202,145,4,"Boreal ammonite zonations, but not directly shown in paper (for conversions see Supplement 1)",1,
+"Riding and Thomas, 1988",UK,160,150,3,Boreal ammonite zonation on the same section (for conversions see Supplement 1),1,
+"Riding and Thomas, 1997","N Scotland, isle of Skye",166,155,3,Boreal ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Riding et al, 2010",Australia,237,145,4,"Ammonites, conodonts, Belemnite/bivalve, NJ nannoplankton stratigraphy and strontium isotopes, but these data are not shown in the paper",1,
+"Riley and Fenton, 1982",UK/France,166,160,3,Boreal ammonite stratigraphy on the same sections,1,
+"Schiøler, 1993",Denmark,72,66,4,"Stages, independent age constraints come from calcareous microplankton, not shown",1,
+"Schreck and Matthiessen, 2014",Northern Iceland,14,5,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1,
+"Schreck et al., 2012",Northern Iceland,15,2,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1,
+"Schreck et al., 2013",Northern Iceland,15,2,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1,
+"Schreck et al., 2017",Northern Iceland,15,2,1,Magnetostratigraphy with NN nannoplankton and diatom stratigraphy,1,
+"Shulgina et al., 1994",Siberia,145,132,3,Boreal ammonite stratigraphy on the same sections (for conversions see Supplement 1),1,
+"Skupien and Vašíček, 2002",Czech republic,131,113,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Skupien, 2004",Slovakia,123,99,3,Boreal ammonite stratigraphy (for conversions see Supplement 1),1,
+"Slimani and Louwye, 2011",Belgium,75,62,4,"Regional lithostratigraphy calibrated to belemnite stratigraphy, tied to type Maastrichtian",1,
+"Sliwinska et al., 2012",Danish North Sea,34,25,1,Magnetostratigraphy and NP nannoplankton on the same section,1,
+"Sluijs et al., 2003","Tasmania (ODP 1168, 1171, 1172)",37,30,2,"Magnetostratigraphy on the same section, but no independent chron assignment",1,
+"Smelror and Dietl, 1994",s Germany,167,165,3,Boreal ammonite stratigraphy on the same section,1,
+"Smelror and Lominadze, 1989",Caucasus,166,163,3,Boreal ammonite stratigraphy from the same section (for conversions see Supplement 1),1,
+"Smelror et al., 1991",Spain,168,158,3,Tethyan ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Smelror, 1988a",Greenland,167,160,3,Boreal ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Smelror, 1988b",Svalbard,168,160,3,"NW European ammonite stratigraphy, herein calibrated to the Boreal zonation (for conversions see Supplement 1)",1,
+"Smelror, 1994",Swabia,167,165,4,"Ammonite and foraminifer stratigraphy, but herein calibrated against stages",1,
+"Soliman et al., 2012",Golf of Suez,54,14,3,NP/NN nannoplankton stratigraphy on the same section,1,
+"Steeman et al., 2020",Angola,60,35,3,P/E foraminifer stratigraphy on the same section,1,
+"Stover and Hardenbol, 1994",Belgium,34,28,3,NP nannoplankton stratigraphy on the same sections,1,
+"Strauss and Lund, 1992",Germany,18,6,3,Nannoplankton stratigraphy on the same sections,1,
+"Thorn et al, 2009","Seymour Island, Antarctic Peninsula",68,65,4,The position of the K-Pg boundary,1,
+"Tocher and Jarvis, 1994","Fumichon, France",100,95,3,Boreal ammonite stratigraphy on the same section,1,
+"Tocher and Jarvis, 1995",NW France,101,92,3,Boreal ammonite stratigraphy on the same section,1,
+"Tocher and Jarvis, 1996",NW France and SW UK,110,95,3,Boreal ammonite stratigraphy on the same section (for conversions see Supplement 1),1,
+"Tocher, 1987","New Jersey Shelf, USA (DSDP 612)",73,66,3,Planktonic foraminifer stratigraphy on the same samples,1,
+"Torricelli and Amore, 2003",Southern Italy,101,72,3,CC nannoplankton stratigraphy on the same section,1,
+"Torricelli et al., 2006","Tremp Basin, Northern Spain",53,51,3,(P) planktonic foraminifer and NP nannoplankton stratigraphy on the same section,1,
+"Torricelli, 2000",southern Italy,131,100,1,"Integrated bio-magneto-cyclostratigraphic framework, but only stages shown in the paper",1,
+"Torricelli, 2006","Piobbico, Italy",113,100,3,NC nannoplankton stratigraphy on the same section,1,
+"Türkecan et al., 2018",Turkey,18,14,3,NN nannofossil and M foraminifer stratigraphy from the same section,1,
+"Van Mourik and Brinkhuis, 2005",Italy,37,33,1,Magnetostratigraphy on the same section,1,
+"Van Mourik et al., 2001",Offshore Florida (ODP 1053),39,35,1,Magnetostratigraphy and CP nannoplankton stratigraphy on the same section,1,
+"Van Simaeys et al., 2004",Belgium,33,22,3,NP nannoplankton stratigraphy on the same sections,1,
+"Van Simaeys et al., 2005",Rhine Graben,33,22,1,Magnetostratigraphy on the same section,1,
+"vd Schootbrugge et al., 2019a","UK, Arctic",189,174,3,Boreal ammonite stratigraphy on the same section,1,
+"vd Schootbrugge et al., 2019b",northern Germany,202,178,3,Boreal ammonite stratigraphy,1,
+"Vellekoop et al., 2015",Tunisia,67,65,3,P foraminiferal zones on the same section,1,
+"Versteegh and Zevenboom, 1995",South Italy,28,0,1,Magnetostratigraphy on the same section,1,
+"Versteegh, 1997","North Atlantic Ocean, Italy",3,2,1,"Isotope stages, herein recalibrated to NN and CN nannoplankton zones",1,
+"Vieira et al., 2020",North Sea,59,56,3,NP nannofossil and P foraminifer stratigraphy,1,
+"Williams and Bujak, 1977",Topical and North Atlantic Ocean,25,0,5,"Stages, no independent age control given",1,
+"Williams et al., 1993",Northern Hemisphere,210,0,5,"Stages, no independent age control given",1,
+"Willumsen, 2012",New Zealand,70,64,3,P foraminifer stratigraphy,1,
+"Wilpshaar et al., 1996",Central Italy,35,22,3,CP an NP nannoplankton and N planktonic foraminifer stratigraphy,1,
+"Woollam and Riding, 1983",UK,209,140,3,Boreal ammonite stratigraphy (for conversions see Supplement 1),1,
+"Wrenn and Kokinos, 1986",Gulf Coast,10,0,1,Magnetostratigraphy on the same section,1,
+"Zegarra and Helenes, 2011",Equatorial Eastern Pacific (ODP 1039),18,0,1,"Independent age model from magnetostratigraphy, nannoplankton and foram stratigraphy",1,
+"Zevenboom, 1995",Italy,26,16,3,NP/NN nannoplankton stratigraphy on the same sections,1,
+New in Version 2.0:,,,,,,,
+"Bujak et al., 2022",Arctic,205,140,3,Calibrated to boreal ammonite stratigraphy,2,
+"Crouch et al., 2022",Zealandia,63,56,3,Calibrated to NP nannoplankton stratigraphy,2,
+"Gonzalez-Estebenet et al., 2021",Austral Basin,70,54,3,Calibrated to NP nannoplankton stratigraphy,2,
+"Guerrero-Murcia and Helenes, 2022",Venezuela,100,65,5,Calibrated to stages,2,
+"Jarvis et al., 2021",Germany,90,88,3,Calibrated to boreal ammonite stratigraphy,2,
+"Pearce et al., 2020",UK,100,90,3,Calibrated to boreal ammonite stratigraphy,2,
+"Pearce et al., 2022",France,86,70,3,Calibrated to UC nannofossil stratigraphy,2,
+"Torricelli et al., 2022",Angola,34,13,3,Calibrated to CP nannofossil stratigraphy,2,
+"Vasilyeva and Musatov, 2022",Crimea,45,37,3,Calibrated to CNE nannofossil stratigraphy,2,
+"Vieira et al., 2020b",North Sea,66,56,3,Calibrated to stages with information from nannofossils,2,
+"Vieira and Mahdi, 2022",Norway,85,62,3,Calibrated to stages with information from nannofossils,2,
+"Copestake and Partington, 2023",North Sea,202,140,3,"Integrated microfossil, ammonite stratigraphy",2,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
