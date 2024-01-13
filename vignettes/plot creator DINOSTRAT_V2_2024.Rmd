@@ -35,7 +35,7 @@ sites$tier <- as.character(sites$tier)
 ```{r formatting variables}
 paleolat <- select(locations, source, geography, location, age, paleolatitude, lower, upper, interpolated, stable, tier)
 paleolat$tier <- as.character(paleolat$tier)
-paleolat$paleolatitude <- as.numeric(paleolat$paleolatitude)
+paleolat$Paleolatitude <- as.numeric(paleolat$paleolatitude)
 paleolat$lower <- as.numeric(paleolat$lower)
 paleolat$upper <- as.numeric(paleolat$upper)
 paleolat
