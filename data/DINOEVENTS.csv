@@ -1217,9 +1217,9 @@ Yorkshire,Heterocapsaceae,all,Susadinium,knertense,NA,0% bifrons,"Bucefalo Palli
 Yorkshire,Heterocapsaceae,all,Susadinium,scrofoides,NA,0% bifrons,"Bucefalo Palliani and Riding, 2003",0 in amm_t_Hildoceras bifrons,FO,NA,NA,181.17,42.055690424999995
 Yorkshire,Comparodiniaceae,all,Valvaeodinium,armatum,NA,0% margaritatus,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Amaltheus margaritatus,FO,NA,NA,188,41.66666142857143
 Yorkshire,Comparodiniaceae,all,Valvaeodinium,armatum,NA,100% spinatum,"Bucefalo Palliani and Riding, 2003",1 in amm_b_Pleuroceras spinatum,LO,NA,NA,184.2,42.08402085714286
-Bavaria,Shublikodiniaceae,all,Dapcodinium,ovale,NA,0% margaritatus,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Amaltheus margaritatus,FO,NA,NA,188,42.83327142857143
+Bavaria,Rhaetogonyaulacaceae,all,Dapcodinium,ovale,NA,0% margaritatus,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Amaltheus margaritatus,FO,NA,NA,188,42.83327142857143
 Bavaria,Rhaetogonyaulacaceae,all,Dapcodinium,sacculus,NA,100% davoei,"Bucefalo Palliani and Riding, 2003",1 in amm_b_Prodactylioceras davoei,LO,NA,NA,188,42.83327142857143
-Bavaria,Shublikodiniaceae,all,Dapcodinium,sacculus,NA,0% jamesoni,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Uptonia jamesoni,FO,NA,NA,192.9,41.341655749999994
+Bavaria,Rhaetogonyaulacaceae,all,Dapcodinium,sacculus,NA,0% jamesoni,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Uptonia jamesoni,FO,NA,NA,192.9,41.341655749999994
 Bavaria,Cladopyxiaceae,all,Freboldinium,regulum,NA,0% margaritatus,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Amaltheus margaritatus,FO,NA,NA,188,42.83327142857143
 Bavaria,Cladopyxiaceae,all,Freboldinium,regulum,NA,100% spinatum,"Bucefalo Palliani and Riding, 2003",1 in amm_b_Pleuroceras spinatum,LO,NA,NA,184.2,42.86303085714286
 Bavaria,Mancodiniaceae,all,Luehndea,spinosa,NA,0% margaritatus,"Bucefalo Palliani and Riding, 2003",0 in amm_b_Amaltheus margaritatus,FO,NA,NA,188,42.83327142857143
@@ -4170,7 +4170,7 @@ Scotian Margin,Gonyaulacaceae,Leptodinioideae,Ctenidodinium,continuum,NA,0% in o
 Scotian Margin,Gonyaulacaceae,Leptodinioideae,Ctenidodinium,elegantulum,NA,30% in valanginian,"Williams et al., 1993",0.3 in stage_Valanginian,FO,NA,NA,136.17,35.39259065555556
 Scotian Margin,Gonyaulacaceae,Cribroperidinioideae,Danea,californica,NA,0% in Danian,"Williams et al., 1993",0 in stage_Danian,FO,NA,NA,66.04,37.63948966666667
 Scotian Margin,Gonyaulacaceae,Cribroperidinioideae,Danea,californica,NA,70% in Danian,"Williams et al., 1993",0.7 in stage_Danian,LO,NA,NA,62.974,37.34086225
-Scotian Margin,Shublikodiniaceae,all,Dapcodinium,priscum,NA,60% in Rhaetian,"Williams et al., 1993",0.6 in stage_Rhaetian,FO,NA,NA,203.11200000000002,21.509884906666656
+Scotian Margin,Rhaetogonyaulacaceae,all,Dapcodinium,priscum,NA,60% in Rhaetian,"Williams et al., 1993",0.6 in stage_Rhaetian,FO,NA,NA,203.11200000000002,21.509884906666656
 Scotian Margin,Rhaetogonyaulacaceae,all,Dapcodinium,priscum,NA,30% in sinemurian,"Williams et al., 1993",0.3 in stage_Sinemurian,LO,NA,NA,197.49200000000002,23.60854327714285
 Scotian Margin,Order Gonyaulacales Family uncertain,uncertain,Dapsilidinium,pseudocolligerum,NA,80% in lutetian,"Williams et al., 1993",0.8 in stage_Lutetian,FO,NA,NA,42.438,38.01657668
 Scotian Margin,Peridiniaceae,Deflandreoideae,Deflandrea,oebisfeldensis,NA,75% in Maastrichtian,"Williams et al., 1993",0.75 in stage_Maastrichtian,FO,NA,NA,67.5725,37.751391965277776
@@ -4365,7 +4365,7 @@ Scotian Margin,Order Gonyaulacales Family uncertain,uncertain,Reticulatosphaera,
 Scotian Margin,Heterocapsaceae,all,Reutlingia,gochtii,NA,40%  in Callovian,"Williams et al., 1993",0.4 in stage_Callovian,FO,NA,NA,163.786,30.135887231428573
 Scotian Margin,Heterocapsaceae,all,Reutlingia,gochtii,NA,60% in callovian,"Williams et al., 1993",0.6 in stage_Callovian,LO,NA,NA,163.034,30.350242682857147
 Scotian Margin,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,20% in Hettangian,"Williams et al., 1993",0.2 in stage_Hettangian,LO,NA,NA,200.98000000000002,22.317955871428566
-Scotian Margin,Shublikodiniaceae,all,Rhaetogonyaulax,rhaetica,NA,75% in norian,"Williams et al., 1993",0.75 in stage_Norian,FO,NA,NA,211.13,17.368309825
+Scotian Margin,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,75% in norian,"Williams et al., 1993",0.75 in stage_Norian,FO,NA,NA,211.13,17.368309825
 Scotian Margin,Peridiniaceae,Wetzelielloideae,Rhombodinium,draco,NA,20% in Bartonian,"Williams et al., 1993",0.2 in stage_Bartonian,FO,NA,NA,40.366,38.23235476
 Scotian Margin,Peridiniaceae,Wetzelielloideae,Rhombodinium,porosum,NA,25% in bartonian,"Williams et al., 1993",0.25 in stage_Bartonian,FO,NA,NA,40.2,38.249642
 Scotian Margin,Peridiniaceae,Wetzelielloideae,Rhombodinium,porosum,NA,0% in priabonian,"Williams et al., 1993",0 in stage_Priabonian,LO,NA,NA,37.71,38.5089506
@@ -5493,7 +5493,7 @@ poigny,Peridiniaceae,Deflandreoideae,Chatangiella,manumii,NA,Senonensis,"Pearce 
 poigny,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,catherineae,NA,25% between Buckle and Hawkes Brow,"Pearce et al., 2022",0.65 in amm_b_Placenticeras polyopsis,FO,NA,NA,84.355,40.766844937500004
 poigny,Gonyaulacaceae,Cribroperidinioideae,Cordosphaeridium,catherineae,NA,50% between Senonensis and papillosa,"Pearce et al., 2022",0.5 in nan_u_UC15a,LO,NA,NA,80.05004999999998,40.112827497666665
 poigny,Gonyaulacaceae,other,Coronifera,striolata,NA,25% between Michael Dean and Bedwell,"Pearce et al., 2022",0.5 in amm_b_Texanites gallicus,FO,NA,NA,85.63,40.983738375
-poigny,Gonyaulacaceae,uncertain,Corradinisphaeridium,horridum,NA,above LCaE,"Pearce et al., 2022",1 in nan_u_UC15d,FO,NA,NA,75.85,39.567017
+poigny,Gonyaulacaceae,other,Corradinisphaeridium,horridum,NA,above LCaE,"Pearce et al., 2022",1 in nan_u_UC15d,FO,NA,NA,75.85,39.567017
 poigny,Gonyaulacaceae,Gonyaulacoideae,Culverisphaera,velata,NA,Papillosa,"Pearce et al., 2022",0 in nan_u_UC15b,LO,NA,NA,79.1301,39.99327692866667
 poigny,Gonyaulacaceae,other,Dimidium,striata,NA,25% between Buckle and Hawkes Brow,"Pearce et al., 2022",0.65 in amm_b_Placenticeras polyopsis,FO,NA,NA,84.355,40.766844937500004
 poigny,Gonyaulacaceae,other,Dimidium,striata,NA,50% between papillosa and MCaE,"Pearce et al., 2022",1 in nan_u_UC15b,LO,NA,NA,77.56341,39.78968034086667
@@ -6275,8 +6275,8 @@ Arctic,Suessiaceae,all,Noricysta,fimbriata,NA,0% Rhaetian,"Mangerud et al., 2020
 Arctic,Suessiaceae,all,Noricysta,pannucea,NA,0% Rhaetian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,NA
 Arctic,Suessiaceae,all,Noricysta,varivallata,NA,0% Rhaetian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,NA
 Arctic,Suessiaceae,all,Noricysta,spp.,NA,0% Norian,"Mangerud et al., 2020",0 in stage_Norian,FO,NA,NA,227.3,NA
-Arctic,Shublikodiniaceae,all,Rhaetogonyaulax,rhaetica,NA,0% Norian,"Mangerud et al., 2020",0 in stage_Norian,FO,NA,NA,227.3,NA
-Arctic,Shublikodiniaceae,all,Rhaetogonyaulax,arctica,NA,0% Norian,"Mangerud et al., 2020",0 in stage_Norian,FO,NA,NA,227.3,NA
+Arctic,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,0% Norian,"Mangerud et al., 2020",0 in stage_Norian,FO,NA,NA,227.3,NA
+Arctic,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,arctica,NA,0% Norian,"Mangerud et al., 2020",0 in stage_Norian,FO,NA,NA,227.3,NA
 Arctic,misc,misc,Sverdrupiella,baccata,NA,0% Hettangian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,NA
 Arctic,misc,misc,Sverdrupiella,manicata,NA,0% Hettangian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,NA
 Arctic,misc,misc,Sverdrupiella,mutabilis,NA,0% Hettangian,"Mangerud et al., 2020",0 in stage_Rhaetian,LO,NA,NA,205.74,NA
@@ -7154,7 +7154,7 @@ Denmark3,Order Gonyaulacales Family uncertain,uncertain,Atopodinium,prostatum,NA
 Denmark3,Suessiaceae,all,Beaumontella,langii,NA,0% in Rhaetian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,40.18584859999999
 Denmark3,Gonyaulacaceae,Leptodinioideae,Clathroctenocystis,asaphes,NA,60% in Callovian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0.6 in stage_Callovian,FO,NA,NA,163.034,45.05933954142857
 Denmark3,Gonyaulacaceae,Leptodinioideae,Clathroctenocystis,asaphes,NA,50% in oxfordian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0.5 in stage_Oxfordian,LO,NA,NA,158.155,45.145812846428576
-Denmark3,Shublikodiniaceae,all,Dapcodinium,priscum,NA,0% in Rhaetian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,40.18584859999999
+Denmark3,Rhaetogonyaulacaceae,all,Dapcodinium,priscum,NA,0% in Rhaetian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,40.18584859999999
 Denmark3,Gonyaulacaceae,Leptodinioideae,Durotrigia,spp.,NA,0% in bajocian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Bajocian,FO,NA,NA,170.9,44.91992592857143
 Denmark3,Gonyaulacaceae,Leptodinioideae,Durotrigia,spp.,NA,100% in callovian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",1 in stage_Callovian,LO,NA,NA,161.53,45.08599579285715
 Denmark3,Gonyaulacaceae,Leptodinioideae,Egmontodinium,torynum,NA,75% in kimmeridgian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0.75 in stage_Kimmeridgian,FO,NA,NA,150.625,44.180812
@@ -7184,7 +7184,7 @@ Denmark3,Nannoceratopsiaceae,all,Nannoceratopsis,deflandrei,NA,55% in Bajocian,"
 Denmark3,Nannoceratopsiaceae,all,Nannoceratopsis,pellucida,NA,10% in kimmeridgian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0.1 in stage_Kimmeridgian,LO,NA,NA,154.226,44.549519270000005
 Denmark3,Pareodiniaceae,all,Pareodinia,halosa,NA,80% in Toarcian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0.8 in stage_Toarcian,FO,NA,NA,176.6,46.473009
 Denmark3,misc,misc,Phallocysta,elongata,NA,30% in Bajocian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0.3 in stage_Bajocian,LO,NA,NA,170.081,44.93444153357143
-Denmark3,Shublikodiniaceae,all,Rhaetogonyaulax,rhaetica,NA,0% in Rhaetian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,40.18584859999999
+Denmark3,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,0% in Rhaetian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,40.18584859999999
 Denmark3,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,100% in Rhaetian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",1 in stage_Rhaetian,LO,NA,NA,201.36,42.637278742857134
 Denmark3,Gonyaulacaceae,Leptodinioideae,Rhynchodiniopsis,cladophora,NA,0% in callovian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Callovian,FO,NA,NA,165.29,45.01935516428571
 Denmark3,Gonyaulacaceae,Leptodinioideae,Rhynchodiniopsis,cladophora,NA,0% in tithonian,"Poulsen and Riding, 2003 sensu Riding et al., 2010",0 in stage_Tithonian,LO,NA,NA,149.24,44.16532216
@@ -7702,7 +7702,7 @@ nw Australia compilation,Suessiaceae,all,Beaumontella,langii,NA,15% in Rhaetian,
 nw Australia compilation,Gonyaulacaceae,other,Chytroeisphaeridia,chytroeides,NA,60% in bathonian,"Riding et al., 2010",0.6 in stage_Bathonian,FO,NA,NA,166.44199999999998,-39.857045770000006
 nw Australia compilation,Gonyaulacaceae,other,Chytroeisphaeridia,chytroeides,NA,67% in oxfordian,"Riding et al., 2010",0.67 in stage_Oxfordian,LO,NA,NA,157.0075,-43.234224475000005
 nw Australia compilation,Gonyaulacaceae,Leptodinioideae,Clathroctenocystis,asaphes,NA,80% in oxfordian,"Riding et al., 2010",0.8 in stage_Oxfordian,LO,NA,NA,156.13,-43.7520109
-nw Australia compilation,Shublikodiniaceae,all,Dapcodinium,priscum,NA,0% in Rhaetian,"Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,-29.413564
+nw Australia compilation,Rhaetogonyaulacaceae,all,Dapcodinium,priscum,NA,0% in Rhaetian,"Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,-29.413564
 nw Australia compilation,Rhaetogonyaulacaceae,all,Dapcodinium,priscum,NA,50% in Sinemurian,"Riding et al., 2010",0.5 in stage_Sinemurian,LO,NA,NA,196.18,-29.75632202857143
 nw Australia compilation,Gonyaulacaceae,other,Dissiliodinium,caddaense,NA,0% in Bajocian,"Riding et al., 2010",0 in stage_Bajocian,FO,NA,NA,170.9,-38.38290935714286
 nw Australia compilation,Gonyaulacaceae,other,Dissiliodinium,caddaense,NA,50% in Bajocian,"Riding et al., 2010",0.5 in stage_Bajocian,LO,NA,NA,169.535,-38.83427683214286
@@ -7746,9 +7746,9 @@ nw Australia compilation,misc,misc,Phallocysta,erregulensis,NA,0% in Bajocian,"R
 nw Australia compilation,misc,misc,Phallocysta,erregulensis,NA,50% in Bajocian,"Riding et al., 2010",0.5 in stage_Bajocian,LO,NA,NA,169.535,-38.83427683214286
 nw Australia compilation,misc,misc,Phallocysta,granosa,NA,67% in Bajocian,"Riding et al., 2010",0.67 in stage_Bajocian,FO,NA,NA,169.0709,-38.98774177364286
 nw Australia compilation,misc,misc,Phallocysta,granosa,NA,0% in Bathonian,"Riding et al., 2010",0 in stage_Bathonian,LO,NA,NA,168.17,-39.28564430714287
-nw Australia compilation,Shublikodiniaceae,all,Rhaetogonyaulax,rhaetica,NA,0% in  Rhaetian,"Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,-29.413564
+nw Australia compilation,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,0% in  Rhaetian,"Riding et al., 2010",0 in stage_Rhaetian,FO,NA,NA,205.74,-29.413564
 nw Australia compilation,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,rhaetica,NA,90% in Rhaetian,"Riding et al., 2010",0.9 in stage_Rhaetian,LO,NA,NA,201.798,-29.15775623142857
-nw Australia compilation,Shublikodiniaceae,all,Rhaetogonyaulax,wigginsii,NA,80% in Carnian,"Riding et al., 2010",0.8 in stage_Carnian,FO,NA,NA,229.24,-35.753685850000004
+nw Australia compilation,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,wigginsii,NA,80% in Carnian,"Riding et al., 2010",0.8 in stage_Carnian,FO,NA,NA,229.24,-35.753685850000004
 nw Australia compilation,Rhaetogonyaulacaceae,all,Rhaetogonyaulax,wigginsii,NA,80% in Rhaetian,"Riding et al., 2010",0.8 in stage_Rhaetian,LO,NA,NA,202.23600000000002,-29.11108983428571
 nw Australia compilation,Gonyaulacaceae,Leptodinioideae,Rhynchodiniopsis,cladophora,NA,33% in callovian,"Riding et al., 2010",0.33 in stage_Callovian,FO,NA,NA,164.04919999999998,-40.64827807342858
 nw Australia compilation,Gonyaulacaceae,Leptodinioideae,Rhynchodiniopsis,cladophora,NA,55% in kimmeridgian,"Riding et al., 2010",0.55 in stage_Kimmeridgian,LO,NA,NA,151.733,-46.30525803
