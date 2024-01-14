@@ -1,6 +1,6 @@
-#This R markdown script plots the figures as they appear in Bijl et al., in review in ESSD, using the data frames as stored in <https://github.com/bijlpeter83/DINOSTRAT.git>. This markdown is to be used freely, but please cite the corresponding paper in ESSD when using the data.
+#This R markdown script plots the figures as they appear in Bijl et al., in review in ESSD, using the data frames as stored in <https://github.com/bijlpeter83/DINOSTRAT.git>. This markdown is to be used freely, but please cite the corresponding paper in ESSD when using the data. Please note that running this code fully will generate ~8000 plots with a total size of ~1.23 GB. 
 
-```{r}
+```{r loading packages}
 library(readxl)
 library(caTools)
 library(ggspatial)
@@ -14,39 +14,43 @@ library(jcolors)
 library(rgeos)
 library(patchwork)
 library(RColorBrewer)
-
+```
+```{r setting the working directory}
+#please indicate here where you'd want the files to end up. WARNING: running the total code will create 8000 plots and this will occupy 1.23 GB of storage.
+setwd()
+```
+```{r setting the plot theme}
 theme_set(theme_bw())
 ```
 
 #loading sites into R, and selecting variables of interest to plot
 
-```{r}
+```{r loading sites}
 locations <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/Paleolatitude.csv")
 sites <- select(locations, location, long, lat, tier)
 sites <- distinct(sites)
 sites$tier <- as.character(sites$tier)
 ```
 #Selecting variables of interest for plotting, and to make sure the variables have the right format:
-```{r}
-paleolat <- select(locations, Source, Geography, location, Age, Paleolatitude, lower, upper, interpolated, Stable, tier)
+```{r formatting variables}
+paleolat <- select(locations, source, geography, location, age, paleolatitude, lower, upper, interpolated, stable, tier)
 paleolat$tier <- as.character(paleolat$tier)
-paleolat$Paleolatitude <- as.numeric(paleolat$Paleolatitude)
+paleolat$Paleolatitude <- as.numeric(paleolat$paleolatitude)
 paleolat$lower <- as.numeric(paleolat$lower)
 paleolat$upper <- as.numeric(paleolat$upper)
 paleolat
 ```
 #adding the locations of surface sediment samples:
-```{r}
+```{r load surface sediment samples}
 modernst <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/modernst.csv")
 ```
 #selecting input for plotting maps:
-```{r}
+```{r set world map}
 world <- ne_countries(scale = "medium", returnclass = "sf")
 class(world)
 ```
 #plot the global map of sites used in this study and the detailed map of sites in Europe:
-
-```{r}
+```{r global distribution map of sites}
 pW <- ggplot()+
   geom_sf(data = world, fill="darkgrey")+
   coord_sf()+
@@ -68,9 +72,7 @@ pE <- ggplot(data = world) +
   theme(panel.background = element_rect(fill="lightgrey"))+
   xlab("Longitude") + ylab("Latitude")+
   ggtitle("Detailed map of European calibrated dinoflagellate cyst records")
-```
-#plot the latitudinal and longitudinal histograms:
-```{r}
+
 plo <- ggplot()+
   geom_histogram(sites, mapping = aes(x=long), bins = 72, fill = "red", alpha=0.5)+
 scale_x_continuous(limits=c(-180, 180), breaks = seq(-180, 180, 30), expand = expansion(mult=0, add=0))+
@@ -94,7 +96,7 @@ pwo <- pW +inset_element(plo, left=-0.005, right=1.074, bottom = -0.13, top = 0.
 #I pasted these plots together in Illustrator, to make Figure 2
 
 #To plot Figure 3:
-```{r}
+```{r plot Fig. 3}
 clrs <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/CGMW_ICS_colour.csv")
 clrs <- filter(clrs, Cyan>=0)
 clrs <- select(clrs, 'Long List (formatted)', 'RGB', 'Red', 'Green', 'Blue')
@@ -107,10 +109,10 @@ typcol <- transmute(typcol, stage, RGB= rgb(Red, Green, Blue, maxColorValue = 25
 stgcol <- setNames(as.character(typcol$RGB), as.character(typcol$stage))
 ```
 #To plot the paleolatitudes of site through time:
-```{r}
+```{r paleolat of sites through time}
 ggplot(paleolat)+
-  geom_ribbon(mapping=aes(x=Age, ymin=lower, ymax=upper, group=location), alpha=0.1)+
-  geom_line(mapping=aes(x=Age, y=Paleolatitude, color=tier, group=location, linewidth = Stable), orientation = "x", lineend = "round")+
+  geom_ribbon(mapping=aes(x=age, ymin=lower, ymax=upper, group=location), alpha=0.1)+
+  geom_line(mapping=aes(x=age, y=paleolatitude, color=tier, group=location, linewidth = stable), orientation = "x", lineend = "round")+
   scale_linewidth_discrete(range=c(0.4, 0.8))+
   scale_x_continuous(name="Age (Ma; GTS2020)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25), expand = expansion(mult=0, add=0))+
   scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
@@ -121,14 +123,14 @@ ggplot(paleolat)+
 #ggsave("paleolat.pdf")
 ```
 #to load the dinocyst fossil and modern events into R:
-```{r}
+```{r load dinocyst events}
 sp_dat <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/DINOEVENTS.csv")
-sp_dat <- unite(sp_dat, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
+sp_dat <- unite(sp_dat, family, subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
 sp_dat <- unite(sp_dat, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
 
 modernsp <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/modernsp.csv")
 modernsp$subspecies <- as.character(modernsp$subspecies)
-modernsp <- unite(modernsp, Family, Subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
+modernsp <- unite(modernsp, family, subfamily, col="Family", sep=", ", na.rm=TRUE, remove = TRUE)
 modernsp <- unite(modernsp, genus, species, subspecies, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
 modernsp$subspecies <- as.character(modernsp$subspecies)
 modernsp$'original entry' <- as.character(modernsp$'original entry')
@@ -138,24 +140,24 @@ FO_sp <- filter(sp_dat1, FO_LO=="FO")
 LO_sp <- filter(sp_dat1, FO_LO=="LO")
 ```
 #These will filter the data to oldest FOs and youngest LOs of taxa:
-```{r}
-Hist_FO <- filter(FO_sp%>%group_by(taxa), Age==max(Age))
-Hist_LO <- filter(LO_sp%>%group_by(taxa), Age==min(Age))
+```{r filter by oldest FO and youngest LO}
+Hist_FO <- filter(FO_sp%>%group_by(taxa), Age==max(age))
+Hist_LO <- filter(LO_sp%>%group_by(taxa), Age==min(age))
 Hist <- bind_rows(Hist_FO, Hist_LO)
-Hist_GF <- filter(FO_sp%>%group_by(genus), Age==max(Age))
-Hist_GL <- filter(LO_sp%>%group_by(genus), Age==min(Age))
+Hist_GF <- filter(FO_sp%>%group_by(genus), Age==max(age))
+Hist_GL <- filter(LO_sp%>%group_by(genus), Age==min(age))
 Hist_G <- bind_rows(Hist_GF, Hist_GL)
 ```
 #Histograms per family:
-```{r}
-for (i in unique(sp_dat1$Family)) {
+```{r histograms per family}
+for (i in unique(sp_dat1$family)) {
  pdf(file=paste("distribution Family ", i, ".pdf", sep=""))
   plot(ggplot()+
-  geom_histogram(filter(Hist_FO, Family==i), mapping=aes(y=Age, x=..count..), bins = 125, fill="blue", alpha=0.5)+
-  geom_histogram(filter(Hist_LO, Family==i), mapping=aes(y=Age, x=-..count..), bins = 125, fill="red3", alpha=0.5)+
-  geom_histogram(filter(Hist_GF, Family==i), mapping=aes(y=Age, x=..count..), bins = 125, fill="blue")+
-  geom_histogram(filter(Hist_GL, Family==i), mapping=aes(y=Age, x=-..count..), bins = 125, fill="red3")+
-    geom_segment(filter(Hist, Family==i), mapping=aes(x=0, xend=0, y=max(Age), yend=min(Age)), linewidth=0.25)+
+  geom_histogram(filter(Hist_FO, family==i), mapping=aes(y=age, x=..count..), bins = 125, fill="blue", alpha=0.5)+
+  geom_histogram(filter(Hist_LO, family==i), mapping=aes(y=age, x=-..count..), bins = 125, fill="red3", alpha=0.5)+
+  geom_histogram(filter(Hist_GF, family==i), mapping=aes(y=age, x=..count..), bins = 125, fill="blue")+
+  geom_histogram(filter(Hist_GL, family==i), mapping=aes(y=age, x=-..count..), bins = 125, fill="red3")+
+    geom_segment(filter(Hist, family==i), mapping=aes(x=0, xend=0, y=max(age), yend=min(age)), linewidth=0.25)+
   scale_y_continuous(limits=c(250, 0), breaks = seq(0, 250, 25), expand = expansion(mult=0, add=0), trans="reverse")+
   scale_x_continuous(limits=c(-25, 25), expand = expansion(mult=0, add=0))+
   theme(aspect.ratio = 3, panel.grid = element_blank(), rect = element_blank())+
@@ -165,19 +167,19 @@ for (i in unique(sp_dat1$Family)) {
 }
 ```
 #Histogram of FOs and LOs of all taxa:
-```{r}
+```{r histograms all taxa}
 ggplot()+
-  geom_histogram(Hist_FO, mapping=aes(x=Age, y=..count..), bins = 125, fill="blue", alpha=0.5)+
-  geom_histogram(Hist_LO, mapping=aes(x=Age, y=-..count..), bins = 125, fill="red3", alpha=0.5)+
-  geom_histogram(Hist_GF, mapping=aes(x=Age, y=..count..), bins = 125, fill="blue")+
-  geom_histogram(Hist_GL, mapping=aes(x=Age, y=-..count..), bins = 125, fill="red3")+
+  geom_histogram(Hist_FO, mapping=aes(x=age, y=..count..), bins = 125, fill="blue", alpha=0.5)+
+  geom_histogram(Hist_LO, mapping=aes(x=age, y=-..count..), bins = 125, fill="red3", alpha=0.5)+
+  geom_histogram(Hist_GF, mapping=aes(x=age, y=..count..), bins = 125, fill="blue")+
+  geom_histogram(Hist_GL, mapping=aes(x=age, y=-..count..), bins = 125, fill="red3")+
   scale_x_continuous(limits=c(0, 250), breaks = seq(0, 250, 25))+
   scale_y_continuous(limits=c(-80, 80))+
   theme(aspect.ratio = 0.5)
 #ggsave("hist_age2.pdf")
 ```
 #select the latitudinally synchronous FOs:
-```{r}
+```{r select synchronous FO}
 Fsp <- c(
   "Achomosphaera andalousiensis", "Adnatosphaeridium vittanum", "Aldorfia aldorfensis", "Alisocysta margarita", "Ambonosphaera calloviana", "Amiculosphaera umbracula", "Apectodinium augustum", "Apectodinium hyperacanthum", "Aprobolocysta eilema", "Areoligera gippingensis", "Areosphaeridium diktyoplokum", "Artemisiocysta cladodichotoma", "Ataxiodinium confusum", "Atopodinium polygonale", "Atopodinium prostatum",
   "Biorbifera johnwingii", "Barbatacysta pilosa", "Barssidinium evangelineae", "Batioladinium reticulatum",
@@ -200,7 +202,7 @@ Fsp <- c(
   "Wanaea digitata", "Wanaea fimbriata", "Wanaea indotata", "Wanaea thysanota", "Rhombodinium draco", "Rhombodinium perforatum", "Wetzeliella gochtii", "Wetzeliella meckelfeldensis", "Wetzeliella samlandica", "Wilsonidinium ornatum")
 ```
 #and the latitudinally synchronous LOs:
-```{r}
+```{r select synchronous LO}
 Lsp <- c(
   "Achomosphaera neptuni","Aldorfia aldorfensis", "Alisocysta margarita","Ambonosphaera calloviana", "Amiculosphaera umbracula", "Apteodinium granulatum", "Areoligera medusettiformis", "Areoligera tauloma", "Areosphaeridium diktyoplokum", "Atopodinium polygonale", "Atopodinium prostatum", "Apectodinium augustum", 
   "Batiacasphaera compta", "Biorbifera johnwingii", "Barssidinium graminosum", "Barssidinium pliocenicum", "Batiacasphaera minuta", "Batioladinium reticulatum", 
@@ -227,8 +229,8 @@ Lsp <- c(
 FO_sp_s <- filter(FO_sp, taxa %in% Fsp)
 LO_sp_s <- filter(LO_sp, taxa %in% Lsp)
 
-FO_sp_s2 <- filter(FO_sp_s, Family=="Gonyaulacaceae, Leptodinioideae")
-LO_sp_s2 <- filter(LO_sp_s, Family=="Gonyaulacaceae, Leptodinioideae")
+FO_sp_s2 <- filter(FO_sp_s, family=="Gonyaulacaceae, Leptodinioideae")
+LO_sp_s2 <- filter(LO_sp_s, family=="Gonyaulacaceae, Leptodinioideae")
 
 FO_sp_s2
 LO_sp_s2
@@ -236,22 +238,22 @@ LO_sp_s2
 FOn <- unique(FO_sp_s2$taxa)
 LOn <- unique(LO_sp_s2$taxa)
 ```
-#This code will plot a PDF Age over paleolatitude of dinocyst events per family of dinocysts, consistent with Figure 5-28. Plots are stored on your computer (search for "Family_"), and will not show here.
-```{r}
+#This code will plot a PDF Age over paleolatitude of dinocyst events per family of dinocysts, consistent with Figure 5-28. Plots are stored in your set working directory (search for "Family_"), and will not show here.
+```{r age over paleolatitude per family}
 for (i in unique(sp_dat1$Family)) {
   
   pdf(file=paste("Family_", i, ".pdf", sep=""))
   
   plot(ggplot()+
-  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), size=0.4, orientation = "x", color = "grey", alpha=0.5)+
-  geom_point(filter(FO_sp, Family==i), mapping=aes(x=Age, y=pal_lat), size=0.6, shape = 17)+
-  geom_line(filter(FO_sp, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, orientation = "y")+
-  geom_point(filter(LO_sp, Family==i), mapping=aes(x=Age, y=pal_lat), size=0.6, shape = 19)+
-  geom_line(filter(LO_sp, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, linetype="longdash" , orientation = "y")+
-   geom_line(filter(FO_sp_s, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa, color=taxa), size=0.6, orientation = "y")+
-  geom_line(filter(LO_sp_s, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa, color=taxa), size=0.6, linetype="longdash", orientation = "y")+ 
-    geom_point(filter(FO_sp_s, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa, color=taxa), size=0.6, shape = 17)+
-    geom_point(filter(LO_sp_s, Family==i), mapping=aes(x=Age, y=pal_lat, group=taxa, color=taxa), size=0.6, shape = 19)+ 
+  geom_line(paleolat, mapping=aes(x=age, y=paleolatitude, group=location), size=0.4, orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(FO_sp, family==i), mapping=aes(x=age, y=pal_lat), size=0.6, shape = 17)+
+  geom_line(filter(FO_sp, family==i), mapping=aes(x=age, y=pal_lat, group=taxa), size=0.2, orientation = "y")+
+  geom_point(filter(LO_sp, family==i), mapping=aes(x=age, y=pal_lat), size=0.6, shape = 19)+
+  geom_line(filter(LO_sp, family==i), mapping=aes(x=age, y=pal_lat, group=taxa), size=0.2, linetype="longdash" , orientation = "y")+
+   geom_line(filter(FO_sp_s, family==i), mapping=aes(x=age, y=pal_lat, group=taxa, color=taxa), size=0.6, orientation = "y")+
+  geom_line(filter(LO_sp_s, family==i), mapping=aes(x=age, y=pal_lat, group=taxa, color=taxa), size=0.6, linetype="longdash", orientation = "y")+ 
+    geom_point(filter(FO_sp_s, family==i), mapping=aes(x=age, y=pal_lat, group=taxa, color=taxa), size=0.6, shape = 17)+
+    geom_point(filter(LO_sp_s, Family==i), mapping=aes(x=age, y=pal_lat, group=taxa, color=taxa), size=0.6, shape = 19)+ 
   scale_x_continuous(name="Age (Ma; GTS2020)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25), expand = expansion(mult=0, add=0))+
   scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
   ggtitle(paste0("Family ", i))+
@@ -266,19 +268,19 @@ for (i in unique(sp_dat1$Family)) {
   
 }
 ```
-#this code will plot PDFs of modern species as in Figure 4 and in Supplement 2. Plots will be saved on your computer, and will not show here:
-```{r}
+#this code will plot PDFs of modern species as in Figure 4 and in Supplement 2. Plots will be saved in your set working directory, and will not show here:
+```{r age over paleolatitude modern species}
 for(i in unique(modernsp$taxa)){
  
   pdf(file=paste("modern_", i, ".pdf", sep=""))
   
   plot(ggplot()+
-  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
-  geom_point(filter(modernsp, genus ==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
-  geom_point(filter(FO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
-  geom_line(filter(FO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
-  geom_point(filter(LO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
-  geom_line(filter(LO_sp, taxa==i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
+  geom_line(paleolat, mapping=aes(x=age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(modernsp, genus ==i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "red")+
+  geom_point(filter(FO_sp, taxa==i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, taxa==i), mapping=aes(x=age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
+  geom_point(filter(LO_sp, taxa==i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, taxa==i), mapping=aes(x=age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
   scale_x_continuous(name="Age (Ma; GTS2020)", breaks = seq(0, 250, 10), minor_breaks = seq(0, 250, 5), expand = expansion(mult=0, add=1))+
   scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
     theme_bw()+
@@ -292,31 +294,31 @@ dev.off()
 }
 ```
 #add modern lat and long to the paleodata:
-```{r}
+```{r add modern lat and long to paleo}
 amodernst <- select(modernst, location, lat, long)
 asites <- select(sites, location, lat, long)
 alatlong <- bind_rows(amodernst, asites)
 alatlong
 
 sp_dat3 <- right_join(sp_dat1,alatlong, by='location')
-sp_datm <- filter(sp_dat3, Age == 0)
-sp_datp <- filter(sp_dat3, Age>0)
+sp_datm <- filter(sp_dat3, age == 0)
+sp_datp <- filter(sp_dat3, age>0)
 
 sp_datm
 sp_datp
 ```
-#this code will plot latitude over age, maps, and histograms over age PDFs per genus. Plots will be saved on your computer, and will not show here:
-```{r}
+#this code will plot latitude over age, maps, and histograms over age PDFs per genus. Plots will be saved in your set working directory, and will not show here:
+```{r age over paleolatitude, maps, histograms per genus}
 for(i in unique(sp_dat3$genus)){
  
   pdf(file=paste("Distribution ", i, ".pdf", sep=""))
   
   plot(ggplot()+
-  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
-  geom_point(filter(LO_sp, genus == i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
-  geom_line(filter(LO_sp, genus == i), mapping=aes(x=Age, y=pal_lat, group=taxa), linewidth=0.2, color = "red", orientation = "y")+
-  geom_point(filter(FO_sp, genus == i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
-  geom_line(filter(FO_sp, genus == i), mapping=aes(x=Age, y=pal_lat, group=taxa), linewidth=0.2, color = "blue", orientation = "y")+
+  geom_line(paleolat, mapping=aes(x=age, y=paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(LO_sp, genus == i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, genus == i), mapping=aes(x=age, y=pal_lat, group=taxa), linewidth=0.2, color = "red", orientation = "y")+
+  geom_point(filter(FO_sp, genus == i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, genus == i), mapping=aes(x=age, y=pal_lat, group=taxa), linewidth=0.2, color = "blue", orientation = "y")+
   scale_x_continuous(name="Age (Ma; GTS2020)", breaks = seq(0, 250, 10), minor_breaks = seq(0, 250, 5), expand = expansion(mult=0, add=1))+
   scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
   ggtitle(paste0(i))+
@@ -334,8 +336,8 @@ dev.off()
   pdf(file=paste("Histogram ", i, ".pdf", sep=""))
     
   plot(ggplot()+
-  geom_histogram(filter(Hist_FO, genus==i), mapping=aes(x=Age, y=..count..), bins = 125, fill="blue")+
-  geom_histogram(filter(Hist_LO, genus==i), mapping=aes(x=Age, y=-..count..), bins = 125, fill="red3")+
+  geom_histogram(filter(Hist_FO, genus==i), mapping=aes(x=age, y=..count..), bins = 125, fill="blue")+
+  geom_histogram(filter(Hist_LO, genus==i), mapping=aes(x=age, y=-..count..), bins = 125, fill="red3")+
     geom_hline(mapping=aes(yintercept=0))+
   scale_y_continuous(limits=c(-5, 3), breaks = seq(-5, 3, 1), expand = expansion(mult=0, add=0))+
     scale_x_continuous(limits=c(0,250), breaks = seq(0,250,10), minor_breaks = seq(0,250,5), expand = expansion(mult=0, add=1))+
@@ -372,19 +374,19 @@ dev.off()
   
   
 ```
-#this code will plot latitude over age, maps, and histograms over age PDFs per unique taxon. Plots will be saved on your computer, and will not show here:
+#this code will plot latitude over age, maps, and histograms over age PDFs per unique taxon. Plots will be saved in your set working directory, and will not show here:
 
-```{r}
+```{r age over paleolatitude, maps, histograms per species}
 for(i in unique(sp_dat3$taxa)){
  
   pdf(file=paste("Distribution ", i, ".pdf", sep=""))
   
   plot(ggplot()+
-  geom_line(paleolat, mapping=aes(x=Age, y=Paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
-  geom_point(filter(LO_sp, taxa == i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "red")+
-  geom_line(filter(LO_sp, taxa == i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
-  geom_point(filter(FO_sp, taxa == i), mapping=aes(x=Age, y=pal_lat), size=0.2, color = "blue")+
-  geom_line(filter(FO_sp, taxa == i), mapping=aes(x=Age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
+  geom_line(paleolat, mapping=aes(x=age, y=paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(LO_sp, taxa == i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, taxa == i), mapping=aes(x=age, y=pal_lat, group=taxa), size=0.2, color = "red", orientation = "y")+
+  geom_point(filter(FO_sp, taxa == i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "blue")+
+  geom_line(filter(FO_sp, taxa == i), mapping=aes(x=age, y=pal_lat, group=taxa), size=0.2, color = "blue", orientation = "y")+
   scale_x_continuous(name="Age (Ma; GTS2020)", breaks = seq(0, 250, 10), expand = expansion(mult=0, add=1))+
   scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
   ggtitle(paste0(i))+
@@ -402,9 +404,9 @@ dev.off()
   pdf(file=paste("Histogram ", i, ".pdf", sep=""))
     
   plot(ggplot()+
-  geom_histogram(filter(Hist_FO, taxa==i), mapping=aes(x=Age, y=..count..), bins = 125, fill="blue")+
-  geom_histogram(filter(Hist_LO, taxa==i), mapping=aes(x=Age, y=-..count..), bins = 125, fill="red3")+
-    geom_segment(filter(Hist, taxa==i), mapping=aes(x=max(Age), y=0, xend=min(Age), yend=0), linewidth=0.25)+
+  geom_histogram(filter(Hist_FO, taxa==i), mapping=aes(x=age, y=..count..), bins = 125, fill="blue")+
+  geom_histogram(filter(Hist_LO, taxa==i), mapping=aes(x=age, y=-..count..), bins = 125, fill="red3")+
+    geom_segment(filter(Hist, taxa==i), mapping=aes(x=max(age), y=0, xend=min(age), yend=0), linewidth=0.25)+
   scale_y_continuous(limits=c(-5, 3), breaks = seq(-5, 3, 1), expand = expansion(mult=0, add=0))+
     scale_x_continuous(limits=c(0,250), breaks = seq(0,250,10), expand = expansion(mult=0, add=1))+
   theme(aspect.ratio = 0.3, panel.grid = element_blank())+
@@ -440,8 +442,8 @@ dev.off()
   
 
 ```
-#Plots stratigraphic ranges of species per site. The plots will be stored on your computer, and not show here.
-```{r}
+#Plots stratigraphic ranges of species per site. The plots will be stored in your set working directory, and not show here.
+```{r range charts per site}
 for(i in unique(sp_dat$location)){
 # first determine how wide the plot should be
   basewidth <- 2 # in inches
@@ -453,7 +455,7 @@ for(i in unique(sp_dat$location)){
   # then create the plotting space
   pdf(file=paste("Site_", i, ".pdf", sep=""), width = basewidth + specwidth * nspecies)
 
-plot(ggplot(filter(sp_dat, location== i), mapping=aes(x=fct_reorder(taxa, Age, max, .desc=TRUE), y=Age))+
+plot(ggplot(filter(sp_dat, location== i), mapping=aes(x=fct_reorder(taxa, age, max, .desc=TRUE), y=age))+
   geom_line()+
   geom_point(aes(shape=FO_LO), fill= "white")+
     scale_shape_manual(values = c(24, 25))+
