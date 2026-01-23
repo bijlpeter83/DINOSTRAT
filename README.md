@@ -1,15 +1,15 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4471204.svg)](https://doi.org/10.5281/zenodo.4471204)
 
 # DINOSTRAT
-The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 2.0, with data predating March 2023, updated in March 2023. 
+The database of regional organic-walled dinoflagellate cyst events. This is DINOSTRAT version 2.2, with data predating January 2026.
 
-Updates: All ages were converted to the Geologic Time Scale 2020, the dinoflagellate cyst events from a series of papers were added (including a new dinocyst surface sediment dataset from the Antarctic continental margin), figure look and feel are improved.
+Updates: Now, every 'active' and 'questionable' dinocyst species (according to the Fensome et al., 2026 citation index that will come out later in 2026) have at least one entry of a first and last occurrence in DINOSTRAT. If nothing else, such species will have a first and last occurrence around the indicated type section of the formal description of that species, in the place of the type section. Although this is in many cases an incomplete report of their total occurrence range, it is the best guess age of that species for until more detailed stratigraphic information is available. All these 'best guess' ranges are put in as "tier 5" entries, and are indicated to not be accurately tied. Other changes include the addition of more papers that tie dinocyst taxa to the international time scale, from modern surface sediments as well as palaeorecords. Taxonomy and synonymy was updated. The database was simplified towards three datafiles (see below). 
 
-Please cite Bijl, 2022 Earth System Science Data when using this database.
+Please cite the version 1.0 paper Bijl, 2022 Earth System Science Data (https://doi.org/10.5194/essd-14-579-2022) when using this database, as per the CC-BY 4.0 license.
 
-DINOSTRAT consists of 4 data frames:
+DINOSTRAT version 2.2 consists of 3 data frames:
 
-1. Paleolatitude.csv This dataframe hosts the modern geographic position and paleolatitudinal evolution of sedimentary sections or outcrops used in this review.
+1. Paleolatitude.csv This dataframe hosts the modern geographic position and paleolatitudinal evolution of sedimentary sections or outcrops used in this paper. The paleolatitude paths of all sites were updated with the recent release of paleolatitude.org version 3.0
 Explanation of columns: 
 source (chr): the citation of the paper that presents dinocyst events from this location; 
 geography (chr): geographic region, or country of the study; 
