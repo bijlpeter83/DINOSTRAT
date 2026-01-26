@@ -1,0 +1,308 @@
+#This R markdown script plots the figures as they appear in Bijl et al., in review in ESSD, using the data frames as stored in <https://github.com/bijlpeter83/DINOSTRAT.git>. This markdown is to be used freely, but please cite the corresponding paper in ESSD when using the data.
+
+```{r}
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+library(readxl)
+library(ggspatial)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(ggplot2)
+library(tidyverse)
+library(geoscale)
+library(jcolors)
+library(patchwork)
+library(RColorBrewer)
+library(Cairo)
+library(ggrepel)
+library(deeptime)
+library(ggiraph)
+
+theme_set(theme_bw())
+tiercol <- c("1"="blue4", "2"= "dodgerblue2", "3"= "darkgreen", "4"= "chartreuse2", "5"= "yellow2")
+```
+
+#loading the paleolatitude data of sites into R, make a separate dataset with the modern location, make sure all have the right variable type and round off numbers
+```{r}
+locations <- read_xlsx("~/Desktop/cal/v2.2_2026.xlsx", sheet = "paleolatitude")
+
+locations$longitude <- round(locations$longitude, 3)
+locations$latitude <- round(locations$latitude, 3)
+locations$paleolatitude <- round(locations$paleolatitude, 3)
+locations$minage <- round(locations$min_age, 3)
+locations$maxage <- round(locations$max_age, 3)
+
+locations$tier <- as.character(locations$tier)
+locations$paleolatitude <- as.numeric(locations$paleolatitude)
+locations <- locations%>% select(-minage,-maxage)
+sites <- select(locations, location, geography, longitude, latitude, tier)
+sites <- distinct(sites)
+
+paleolat <- select(locations, source, geography, location, age, paleolatitude, min_age, max_age, tier)
+```
+#adding the locations of surface sediment samples:
+```{r}
+modernst <- read_excel("~/Desktop/cal/v2.2_2026.xlsx", sheet = "modernst")
+modernst$longitude <- round(modernst$longitude, 3)
+modernst$latitude <- round(modernst$latitude, 3)
+```
+#selecting input for plotting maps:
+```{r}
+world <- ne_countries(scale = "medium", returnclass = "sf")
+class(world)
+```
+```{r}
+sp_dat <- read_csv("~/Desktop/cal/Dinoevents_13_01_26.csv")
+sp_dat$age <- round(sp_dat$age, 3)
+sp_dat$pal_lat <- round(sp_dat$pal_lat, 3)
+sp_dat$tier <- as.character(sp_dat$tier)
+sp_dat <- unite(sp_dat, location, geography, col="place", sep = ", ", na.rm = TRUE, remove = FALSE)
+sp_dat <- unite(sp_dat, Division:subfamily, col="Family", sep="-", na.rm=TRUE, remove = TRUE)
+sp_dat <- unite(sp_dat, genus, species, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
+sp_dat <- unite(sp_dat, taxa, subspecies, col = "taxa", sep= " ssp. ", na.rm=TRUE, remove=FALSE)
+
+modernsp <- read_excel("~/Desktop/cal/v2.2_2026.xlsx", sheet = "modernsp")
+modernsp$subspecies <- as.character(modernsp$subspecies)
+modernsp$pal_lat <- round(modernsp$pal_lat, 3)
+modernsp$tied <- as.logical(modernsp$tied)
+modernsp$subspecies <- as.character(modernsp$subspecies)
+modernsp$tier <- as.character(modernsp$tier)
+modernsp <- unite(modernsp, Division:subfamily, col="Family", sep="-", na.rm=TRUE, remove = TRUE)
+modernsp <- unite(modernsp, genus, species, col = "taxa", sep= " ", na.rm=TRUE, remove=FALSE)
+modernsp <- unite(modernsp, taxa, subspecies, col = "taxa", sep= " ssp. ", na.rm=TRUE, remove=FALSE)
+modernsp$'original entry' <- as.character(modernsp$'original entry')
+
+sp_dat1 <- bind_rows(sp_dat, modernsp)
+amodernst <- select(modernst, location, latitude, longitude)
+asites <- select(sites, location, latitude, longitude)
+alatlong <- bind_rows(amodernst, asites)
+sp_dat3 <- left_join(sp_dat1,alatlong, by='location')
+sp_dat3 <- sp_dat3%>%group_by(taxa)%>%mutate(minage = min(age), maxage = max(age))
+sp_datm <- filter(sp_dat3, calibration == "surface sediment")
+sp_datm <- sp_datm %>% select(-place, -`original entry`, -geography,-bottomcal, -bottomtype, -bottomzone, -topcal, -toptype, -topzone)
+sp_datp <- filter(sp_dat3, calibration != "surface sediment")
+sp_datp <- sp_datp%>%select(-bottomcal, -bottomtype, -bottomzone, -topcal, -toptype, -topzone)
+
+```
+```{r}
+write_csv(sp_datp, "Dinoevents_v2.2.csv")
+write_csv(sp_datm, "modernsp.csv")
+write_csv(modernst, "modernst.csv")
+write_csv(locations, "paleolatitude.csv")
+pubs <- sp_dat3 %>% ungroup() %>% select(source)%>% distinct()%>%arrange(source)
+write_csv(pubs, "publications DINOSTRATversion 2.2.csv")
+```
+#plot the global map of sites used in this study and the detailed map of sites in Europe:
+
+```{r}
+pW <- ggplot()+
+  geom_sf(data = world, fill="darkgrey")+
+  coord_sf()+
+  geom_point(modernst, mapping=aes(x=longitude, y=latitude, label = location), color="black", size = 0.1)+
+  geom_point(sites, mapping = aes(x=longitude, y=latitude, fill = tier, label = location), shape = 23, color = "black", size = 2)+
+scale_x_continuous(limits=c(-180, 180), breaks = seq(-180, 180, 30), expand = expansion(mult=0, add=c(0,0)))+
+  scale_y_continuous(expand = expansion(mult=0, add=c(0,0)), limits=c(-90, 90), breaks = seq(-90, 90, 30))+
+  scale_fill_manual(values=tiercol)+
+  theme(axis.title = element_blank(), axis.text = element_blank(), panel.grid = element_blank(), panel.background = element_rect(fill = "lightblue"))+
+  xlab("Longitude") + ylab("Latitude") +
+    ggtitle(paste0("Global map of calibrated dinocyst records ", "(", length(unique(sites$location)), " sites)"))
+
+pW
+```
+#To plot Figure 3:
+```{r}
+clrs <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/CGMW_ICS_colour.csv")
+clrs %>% select(`Long List (formatted)`, `Red`, `Green`, `Blue`) 
+clrs <- rename(clrs, "stage"= `Long List (formatted)`)
+
+stg <- read_csv("https://raw.githubusercontent.com/bijlpeter83/DINOSTRAT/main/data/stages.csv")
+stg <- rename(stg, "stage" = name)
+
+
+stages <- full_join(stg, clrs, by = "stage")
+stages <- stages %>% filter(Red>0) %>% filter(Rank == "Stage") %>% filter(bage>0) %>% mutate(text_age = tage+(bage-tage)/2)
+stages
+typcol <- select(stages, stage, HTML)
+
+stgcol <- setNames(as.character(typcol$HTML), as.character(typcol$stage))
+
+```
+#To plot the paleolatitudes of site through time:
+```{r}
+ggplot(paleolat)+
+  #geom_ribbon(mapping=aes(x=age, ymin=min_age, ymax=max_age, group=location), alpha=0.1)+
+  geom_line(mapping=aes(x=age, y=paleolatitude, color=tier, group=location), orientation = "x", lineend = "round")+
+  scale_x_continuous(name="Age (Ma; GTS2020)", breaks = seq(0, 250, 25), minor_breaks = seq(0, 250, 5), labels = seq(0, 250, 25), expand = expansion(mult=0, add=0))+
+  scale_y_continuous(name = "Paleolatitude", limits = c(-110, 90), breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
+  scale_color_manual(values = tiercol)+
+  geom_rect(stages, mapping=aes(xmin=bage, xmax=tage, ymin=-110, ymax=-90), color = "Black", fill=stgcol)+
+  geom_text(stages, mapping=aes(label=stage, y=-100, x=(tage+(bage-tage)/2)), size = 1.6, angle=90)+
+  theme(aspect.ratio = 0.7)
+
+#ggsave("paleolat.pdf")
+```
+data wrangling for genus plots:
+```{r}
+gen_r <- select(sp_dat3, taxa, location, source, genus, age, minage, maxage, tied, tier, FO_LO, longitude, latitude, pal_lat, calibration)
+gen_rr <- gen_r %>% select(taxa, genus, minage, maxage, tied) %>% distinct()
+```
+
+#creating ranges per genus in html. 
+```{r}
+for(i in unique(gen_r$genus)){
+datr <- filter(gen_r, genus == i)
+datr$taxa <- fct_reorder(datr$taxa, datr$maxage)
+datrr <- filter(gen_rr, genus == i)
+datrr$taxa <- fct_reorder(datrr$taxa, datrr$maxage)
+baseheight <- 0.5 
+  specheight <- 0.12 
+nspecies <- datr %>% distinct(taxa) %>% nrow()
+
+gmap <- ggplot()+
+    geom_sf(data = world, color="darkgrey", fill="darkgrey")+
+  coord_sf()+
+    geom_point(modernst, mapping = aes(x=longitude, y=latitude), color = "lightgrey", fill = "lightgrey", size = 0.02)+
+    geom_point(sites, mapping = aes(x=longitude, y=latitude), shape = 23, color = "lightgrey", fill = "lightgrey", size = 0.02)+
+  geom_point_interactive(filter(datr, calibration == "surface sediment"), mapping=aes(x=longitude, y=latitude, tooltip=paste0("Surface sediment ", "\n Site: ", location, "\n", source), data_id=location), color = "black", fill = "black", size=0.5)+
+  geom_point_interactive(filter(datr, calibration != "surface sediment"), mapping = aes(x=longitude, y=latitude, color = tier, fill = tier, tooltip=paste0("Site: ", location, "\n", source), data_id=location), shape = 23, size = 1.1)+
+    scale_fill_manual(values=tiercol)+
+  scale_color_manual(values=tiercol)+
+scale_x_continuous(limits=c(-180, 180), expand = expansion(mult=0, add=c(0,0)))+
+  scale_y_continuous(expand = expansion(mult=0, add=c(0,0)), limits=c(-90, 90))+
+  ggtitle(paste(i))+
+  theme_void()+
+  theme(plot.title = element_text(size = 5, face = "italic", hjust = 0.5, vjust=1), legend.title = element_text(size = 4), legend.margin=margin(unit(0.01, 'cm')), legend.key.height=unit(0.15, 'cm'),  legend.text=element_text(size = 3.5))
+   
+gplot <- ggplot()+
+  geom_vline(xintercept=stages$bage, color = "lightgrey", linewidth = 0.1)+
+  geom_linerange(datrr, mapping = aes(xmin = minage, xmax = maxage, y = taxa), linewidth = 0.2)+
+  geom_point_interactive(datr, mapping = aes(x=age, y = taxa, shape = FO_LO, color = tied, fill = tied, tooltip=paste0(location, "\n Age: ", age, " Ma", "\n", source), data_id = location), size = 1.1)+
+  scale_color_manual(values = c("grey", "black"))+
+  scale_fill_manual(values = c("grey", "black"))+
+  scale_shape_manual(values = c('\u25C4', '\u25BA'))+
+  scale_x_continuous(name="Age (Ma; GTS2020)", limits = c(min(datr$age)-0.25, max(datr$age)+1))+
+  expand_limits(y=c(-0.2, nspecies + 0.4))+
+  coord_geo(pos="bottom", dat = list("stages", "epochs"), rot = list(90,0), height = list(unit(1.2, "lines"), unit(0.6, "lines")), size = list(1,1), abbrv = list(FALSE, FALSE), center_end_labels = TRUE)+
+  theme(legend.position="none", axis.title.y=element_blank(), axis.ticks.x=element_line(linewidth = 0.2, color = "black"), axis.ticks.y=element_line(linewidth = 0.2, color = "grey"), axis.text.y = element_text(size = 3.5, face = "italic"), axis.text.x=element_text(size = 3.5), axis.title.x=element_text(size = 4), panel.border = element_blank(), panel.grid.major.y=element_line(linewidth = 0.1), panel.grid.major.x=element_blank(), panel.grid.minor.x = element_blank())
+
+
+  combined_plot <- gmap/gplot+plot_layout(heights=unit(c(3, baseheight+specheight*nspecies), c("cm", "cm")), widths = unit(6, "cm"))
+  
+ interactive_plot <- girafe(ggobj=combined_plot, options=list(opts_hover(css="stroke-width:1pt;fill:red;stroke:red")))
+  
+htmltools::save_html(interactive_plot, file = paste("Genus_plot_", i, ".html", sep=""))
+
+}
+
+```
+
+#this code will plot latitude over age per unique taxon. Plots will be saved on your computer, and will not show here:
+
+```{r}
+
+for(i in unique(sp_dat3$taxa)){
+ 
+  cairo_pdf(file=paste("Distribution_", i, ".pdf", sep=""))
+  
+  plot(ggplot()+
+  geom_line(paleolat, mapping=aes(x=age, y=paleolatitude, group=location), orientation = "x", color = "grey", alpha=0.5)+
+  geom_point(filter(LO_sp, taxa == i), mapping=aes(x=age, y=pal_lat), size=0.2, color = "red")+
+  geom_line(filter(LO_sp, taxa == i), mapping=aes(x=age, y=pal_lat, group=taxa), linewidth=0.4, color = "red", orientation = "y")+
+  geom_point(filter(FO_sp, taxa == i), mapping=aes(x=age, y=pal_lat), size=0.4, color = "blue")+
+  geom_line(filter(FO_sp, taxa == i), mapping=aes(x=age, y=pal_lat, group=taxa), linewidth=0.4, color = "blue", orientation = "y")+
+  scale_x_continuous(name="Age (Ma; GTS2020)", expand = expansion(mult=0, add=1))+
+    coord_cartesian(xlim = c(min(filter(sp_dat3, taxa == i)$age), max(filter(sp_dat3, taxa == i)$age)))+
+  scale_y_continuous(name = "Paleolatitude", breaks = seq(-90, 90, 30), minor_breaks = seq(-90, 90, 10), labels = seq(-90, 90, 30), expand = expansion(mult=0, add=0))+
+  ggtitle(paste0(i))+
+    geom_rect(stages, mapping=aes(xmin=bage, xmax=tage, ymin=-100, ymax=-80), color = "Black", fill=stgcol)+
+  geom_text(stages, mapping=aes(label=stage, y=-90, x=(tage+(bage-tage)/2)), size = 1.6, angle=90)
+  )
+ 
+dev.off() 
+
+}
+
+```
+sites over age plots per taxon
+```{r}
+sp_r <- select(sp_dat3, taxa, place, location, source, age, tied, tier, FO_LO, longitude, latitude, pal_lat, calibration)
+sp_r <- sp_r %>% group_by(taxa, place)%>%mutate(minage=min(age), maxage = max(age))
+sp_r
+```
+```{r}
+
+for(i in unique(sp_r$taxa)){
+datr <- filter(sp_r, taxa == i)
+datr$place <- fct_reorder(datr$place, datr$maxage)
+
+baseheight <- 0.5 
+  specheight <- 0.12 
+nsites <- datr %>% distinct(place) %>% nrow()
+  
+gmap <- ggplot()+
+    geom_sf(data = world, color="darkgrey", fill="darkgrey")+
+  coord_sf()+
+    geom_point(modernst, mapping = aes(x=longitude, y=latitude), color = "lightgrey", fill = "lightgrey", size = 0.02)+
+    geom_point(sites, mapping = aes(x=longitude, y=latitude), shape = 23, color = "lightgrey", fill = "lightgrey", size = 0.02)+
+  geom_point_interactive(filter(datr, calibration == "surface sediment"), mapping=aes(x=longitude, y=latitude, tooltip=paste0("Surface sediment", "\n Site: ", location, "\n", source), data_id =place), color = "black", fill = "black", size=0.5)+
+  geom_point_interactive(filter(datr, calibration != "surface sediment"), mapping = aes(x=longitude, y=latitude, color = tier, fill = tier, tooltip=paste0("Site: ", location, "\n", source), data_id =place), shape = 23, size = 1.1)+
+    scale_fill_manual(values=tiercol)+
+  scale_color_manual(values=tiercol)+
+scale_x_continuous(limits=c(-180, 180), expand = expansion(mult=0, add=c(0,0)))+
+  scale_y_continuous(expand = expansion(mult=0, add=c(0,0)), limits=c(-90, 90))+
+  ggtitle(paste(i))+
+  theme_void()+
+  theme(plot.title = element_text(size = 5, face = "italic", hjust = 0.5, vjust=1), legend.title = element_text(size = 4), legend.margin=margin(unit(0.01, 'cm')), legend.key.height=unit(0.15, 'cm'),  legend.text=element_text(size = 3.5))
+   
+gplot <- ggplot()+
+  geom_vline(xintercept=stages$bage, color = "lightgrey", linewidth = 0.1)+
+  geom_linerange(datr, mapping = aes(xmin = minage, xmax = maxage, y = place), linewidth = 0.2)+
+  geom_point_interactive(datr, mapping = aes(x=age, y = place, shape = FO_LO, color = tied, fill = tied, tooltip=paste0(place, "\n Age: ", age, " Ma", "\n", source), data_id = place), size = 1)+
+  scale_color_manual(values = c("grey", "black"))+
+  scale_fill_manual(values = c("grey", "black"))+
+  scale_shape_manual(values = c('\u25C4', '\u25BA'))+
+  scale_x_continuous(name="Age (Ma; GTS2020)", limits = c(min(datr$age)-0.25, max(datr$age)+1))+
+  expand_limits(y=c(-0.2, nsites + 0.4))+
+  coord_geo(pos="bottom", dat = list("stages", "epochs"), rot = list(90,0), height = list(unit(1.2, "lines"), unit(0.6, "lines")), size = list(1,1), abbrv = list(FALSE, FALSE), center_end_labels = TRUE)+
+  theme(legend.position="none", axis.title.y=element_blank(), axis.ticks.x=element_line(linewidth = 0.2, color = "black"), axis.ticks.y=element_line(linewidth = 0.2, color = "grey"), axis.text.y = element_text(size = 3.5), axis.text.x=element_text(size = 3.5), axis.title.x=element_text(size = 4), panel.border = element_blank(), panel.grid.major.y=element_line(size = 0.1), panel.grid.major.x=element_blank(), panel.grid.minor.x = element_blank())
+
+  combined_plot <- gmap/gplot+plot_layout(heights=unit(c(3, baseheight+specheight*nsites), c("cm", "cm")), widths = unit(6, "cm"))
+  
+ interactive_plot <- girafe(ggobj=combined_plot, options=list(opts_hover(css="stroke-width:1pt;fill:red;stroke:red")))
+  
+htmltools::save_html(interactive_plot, file = paste("Species_plot_", i, ".html", sep=""))
+
+}
+ 
+```
+#Plots stratigraphic ranges of species per site. The plots will be stored on your computer, and not show here.
+```{r}
+
+for(i in unique(sp_dat$location)){
+# first determine how high the plot should be
+  baseheight <- 1.2 
+  specheight <- 0.2 
+  nspecies <- sp_dat3 %>% 
+    filter(location == i) %>% distinct(taxa) %>%
+    nrow()
+
+  # then create the plotting space
+  cairo_pdf(file=paste("Location_genus_", i, ".pdf", sep=""), height = baseheight + specheight * nspecies)
+plot(ggplot()+
+       geom_linerange(filter(ages_sp_dat5, location == i), mapping = aes(xmin = minage, xmax = maxage, y = reorder(taxa, maxage)), linewidth = 0.25)+
+       geom_point(filter(sp_dat3, location == i), mapping = aes(x=age, y = taxa, shape = FO_LO), size = 1.5)+
+    scale_x_continuous(name="Age (Ma; GTS2020)", expand = expansion(add=1))+
+    coord_cartesian(xlim = c(min(filter(sp_dat3, location == i)$age), max(filter(sp_dat3, location == i)$age)))+
+  scale_y_discrete(name = "Species", expand = expansion(add = c(5,0.5)))+
+    scale_shape_manual(values = c('\u25C4', '\u25BA'))+
+  ggtitle(paste0(i))+
+  geom_rect(stages, mapping=aes(xmin=bage, xmax=tage, ymin=-3.5, ymax=0), color = "black", fill=stgcol)+
+  geom_text(stages, mapping=aes(label=stage, y=-1.75, x=(tage+(bage-tage)/2)), size = 1.6, angle=90)+
+  theme(axis.text.y = element_text(face = "italic", size = 5), legend.position = "none")
+    )
+
+dev.off()
+
+}
+
+```
